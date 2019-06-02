@@ -1,0 +1,632 @@
+Ainǝwèo,prop,tisztának lenni,NGÁ NA WÙ,nyal öl áll,MD áinə wèo,Anubis isten (BR anafào > MA anəwào) népetimológiája,./csv/proper-names.csv
+Dhūann,prop,erdei vadász,THU XA,fa vadászik,AN thu xan,,./csv/proper-names.csv
+Ghuanèo,n,a Találkozás,QHÙ NÀ,,MA ghùa nèo,,./csv/misc.csv
+Hía,prop,érdekes tárgy,XÍ YA,nézd! mond,AN xí ya,,./csv/proper-names.csv
+Hôsyānn,prop,"sarkcsillag, vezérlő csillag",XÚ SÁ,farok ,BR húo sán,,./csv/proper-names.csv
+Liào Nūr,prop,"mosolygó hajnal, mosolygó krémzöld",,,,,./csv/proper-names.csv
+Màu,prop,"valaki, senki",MÙ,"valaki, ő",,< wào màu „senki fia”,./csv/proper-names.csv
+Myǎla,prop,Myāla istennő,YÀ RA,nő ugrik [fenséges],BR myào lā,,./csv/religion.csv
+Nîa Syáanng Myāol,prop,örök nyár országa,,,,,./csv/proper-names.csv
+Ninnhôsyānn,prop,én vezércsillagom,,,BR nin xúo sán < Šum Ninxursañ,,./csv/proper-names.csv
+Nnhôsyānn,prop,én vezércsillagom,,,BR nin xúo sán < Šum Ninxursañ,,./csv/proper-names.csv
+Nummu Lyədhôgh,prop,keselyű/varjú az oszlopon ,,keselyű rajta oszlop,BR nummu lalā thôgh,,./csv/proper-names.csv
+Ryamâeqh,prop,szürke folyó,,,BR ryá màiqhú,,./csv/proper-names.csv
+Thəréngghanu,prop,sehol-hegyek,THÁ SÁ RI XÁ NGA,sehol hegy,BR thásáili-xáiñganū,,./csv/proper-names.csv
+Umm Rwaqhǔy,epith,széttrollkodás öreganyja,,rágós szavak öreganyja,,,./csv/proper-names.csv
+Ẏhainǒgh,prop,hajlékony patkány,,,BR xuhái nùqhu,,./csv/proper-names.csv
+ai,v,nyal,NGÁ,,ngá,,./csv/root-words.csv
+áigh,v,mosakszik,NGÁ NGA,nyal hát,PR ñá ña,,./csv/body.csv
+áinn,adj,tiszta,NGÁ NGÍ,nyal én,PR ñá na,,./csv/misc.csv
+âinn,n,"idegesség, kényelmetlenség",NGÁ NGÍ,mosakszik,MA áinnə,,./csv/soul.csv
+aiyùgh,adv,legalább,YÙ,gyerek > kicsi,AN ai yùñ,,./csv/misc.csv
+alàgh,adv,legfeljebb,RA,ugrik > nagy,AN alaxù,,./csv/misc.csv
+amm,adv,vissza,WÀ,megy,wam,,./csv/post-positions.csv
+amyāqh,adv,jobban,,,AN amyǎxa,,./csv/misc.csv
+āo,v,nyit,NGÀ,harap,,,./csv/misc.csv
+àong,v,kitátja a száját,NGÀ,harap,PR ñàñ,,./csv/body.csv
+àong,adj,nyitott,NGÀ,harap,PR ñàñ,,./csv/misc.csv
+asyéa,pref,öreg,SÍ,fél,MA aśéa # $,,./csv/society.csv
+asyīqh,n,házi patkány,,,,,./csv/animals.csv
+awəmmū,n,"gond, jövés-menés",WÀ,megy jön,AN afàmū,,./csv/soul.csv
+ǎy,n,"rovar, bogár, kavics",RÁ YÌ,kő kicsi,AN rá yò,,./csv/animals.csv
+āya,adj,lenyűgöző,YÍ,,,,./csv/misc.csv
+āzyəmūth,n,sas,SÍ MU THA,,,,./csv/animals.csv
+dhao,v,mászik,THÀ,,thà,,./csv/root-words.csv
+dhàu,v,mindjárt,THÙ,,thù,"> az, ott, közel",./csv/root-words.csv
+dhei,adv,majd,THÁ,,,,./csv/time.csv
+dhei,num,egy,THÍ,orr,,,./csv/misc.csv
+dhei,pron,oda,THÁ,ott,,,./csv/post-positions.csv
+dhéi rā,adv,először,THÁ RA,orr + ugrik,,,./csv/misc.csv
+dhei syiéng,pron,egyikünk,THI SI NGÍ,,thei syangi ? thì si ngí,,./csv/misc.csv
+dhū,n,fa,THU,,thu,,./csv/root-words.csv
+dhunn,n,erdő,THU,fa,AN thun,,./csv/plants.csv
+dhúo,n,test,THÚ,,thú,,./csv/root-words.csv
+dhūqh,n,"rúd, farönk, oszlop",THU QHÚ,fa + farok,,,./csv/plants.csv
+dhy̌,pron,hol?,THÌ,,thì,,./csv/root-words.csv
+dhǝ syer,num,egyszer,THÍ,,+ zyer idő,,./csv/misc.csv
+dhǝ syer thǝsyer,adv,előbb-utóbb,,egyszer soha,,,./csv/misc.csv
+éi,adv,el,YÁ,"nyúl > elfut, menekül",PR yái,,./csv/misc.csv
+emégh,adj,"jóllakott, elégedett",MÍ,,ngímíng,,./csv/root-words.csv
+emégh,v,jóllakik,MÍ,,ngímíng,,./csv/root-words.csv
+êy,n,mindjárt ott,YÁ,"nyúl > elfut, menekül",PR yái,,./csv/misc.csv
+fā,n,láb,FA,,fa,,./csv/root-words.csv
+fā,v,lép,FA,,fa,,./csv/root-words.csv
+fadh,n,"fordulat, visszavágás, csapás; érv",FA THA,fordul karom,PR faa ta,,./csv/society.csv
+fāfa,v,járkál,,,,,./csv/misc.csv
+fann,n,lépés,FA,,fan,,./csv/root-words.csv
+far,n,láb,FA RA,láb,PR faa ra,,./csv/body.csv
+fáy,v,sétál,FA YÍ,láb ugrik,PR fa yí,,./csv/body.csv
+féa,n,"lélek, életerő",FÍ,,fía,,./csv/root-words.csv
+fei,adj,puha,FI,,fii,,./csv/root-words.csv
+féia,adj,meleg,FÍ,,fíia,,./csv/root-words.csv
+feilīr,n,"párna, puha fekhely",FI SÁ RI RA,szőr idő ugrik,MA fei līr,,./csv/environment.csv
+fér,n,puha fekhely,FI RÁ,szőr kő,BR fiirá,,./csv/environment.csv
+fǐ,n,akarat,FÌ,,fì,,./csv/root-words.csv
+fǐ,v,"visz, akar",FÌ,,fìi,,./csv/root-words.csv
+fidh,prep,mellett,FI,szőr,,,./csv/post-positions.csv
+fiemmū,n,ruha,FI MU,szőr antróp ,BR fyiéa mu,,./csv/misc.csv
+fǐnn,n,választott,FÌ,,fìn,,./csv/root-words.csv
+fīr,v,küld,FÌ,visz + művelt.,PR fìra,,./csv/misc.csv
+fisya,adj,puha,FI,szőr,,,./csv/misc.csv
+fiyāgh,adv,mégis,FÌ,,,,./csv/misc.csv
+fiəh,n,"bátorság, mersz",FÌ SA,akar bánt,AN fìi sa,,./csv/misc.csv
+fiənnaqh,n,zsákmány (gyereknek),FÌ NA,visz öl,BR fìenaxa,,./csv/misc.csv
+foa,n,sarok,FA,,PR faa,,./csv/body.csv
+foa,v,fordul,FA,láb,faa,,./csv/root-words.csv
+foannà,n,kisméretű állat,,,,,./csv/animals.csv
+fuoa,n,"könyök, térd",FA FA,láb > hajlik,AN fafaa,,./csv/body.csv
+fȳ,n,tojás,FU,,PR fu,,./csv/animals.csv
+fyair,adj,magas,FÁ RA,"hegy, csúcs",PR fá ra,,./csv/environment.csv
+fyair,n,tető,FÁ RA,"hegy, csúcs",PR fá ra,,./csv/environment.csv
+fyê,n,meleg,FÍ,,fí,,./csv/root-words.csv
+fyegh,n,felszín,FI,szőr,,,./csv/misc.csv
+fyī,n,szőr,FI,,fi,,./csv/root-words.csv
+fyifyi,adj,sűrű,FI FI,szőr szőr,,,./csv/misc.csv
+fyizyu,n,"fű, gyep",FI SU,szőr növény,fisu > fisyu > fizyu,,./csv/plants.csv
+fyoum,v,veszít,FÚ,üt,?,,./csv/misc.csv
+fyy̌,v,"dönt, választ",FÌ,,fì,,./csv/root-words.csv
+fẏyə,prep,miatt,FÌ,akar,,,./csv/post-positions.csv
+fẏyə qhē,conj,mert,FÌ,mert az,,,./csv/misc.csv
+fyı,prep,rajta (puha dolgon),FI,szőr,,,./csv/post-positions.csv
+fyəmwərâ,n,"selyem, vékony szövet",FI MU FI RÁ,,BR fyiéamu fiirâ,puha fekhely antróp szőr,./csv/misc.csv
+fyərúa,n,"ház, épület",FÍ RÚ,meleg benn,AN fyé rúa,,./csv/environment.csv
+fıwaí,n,bőr,FI WÁ,puha fül,feiwai,,./csv/animals.csv
+ghā,v,harap,NGÀ,,ngà,,./csv/root-words.csv
+ghadh,prep,"rajt, rajta",NGA,hát,,,./csv/post-positions.csv
+ghainyā,adj,szükséges,QHA,vadászik > éhes,,,./csv/misc.csv
+ghanào,v,érez,QHÙ NÀ,szag észrevesz,BR gàù nào,,./csv/misc.csv
+ghann,n,hegy,NGA,,ngan,,./csv/root-words.csv
+ghào,pron,ki? mi?,QHÀ,,xà,,./csv/root-words.csv
+ghào fye,pron,miért,FÌ,akar,,,./csv/misc.csv
+ghā̀qh,pron,hova,QHÀ QHÙ,,,,./csv/misc.csv
+ghar,n,bolha,XÀ RA,harap ugrik,AN gà ra,,./csv/animals.csv
+ghar,v,"bosszant, idegesít",XÀ RA,harap ugrik,AN gà ra,,./csv/misc.csv
+ghásy,n,tűz,NGA SÁ,harap fény,PR ñasyá,,./csv/environment.csv
+ghasya,v,marakodik,NGA SA,harap bánt,,,./csv/society.csv
+ghasye,n,éget,NGA SÁ,harap fény,PR ngasyá,,./csv/environment.csv
+ghàu,n,szag,QHÙ,"szag, nyom",PR xù,,./csv/misc.csv
+ghaum,v,talál,QHÙ,nyom,,,./csv/misc.csv
+ghaẏa,adj,"szagos, követhető, érthető, felismerhető",QHÙ,,qhù + ia > ghauia > ghaẏa,,./csv/misc.csv
+gheir,v,zúg,,,,,./csv/misc.csv
+ghenn,conj,"úgyhogy, tehát, így",,,,,./csv/misc.csv
+ghī,n,gömb,NGI,,ngi,,./csv/root-words.csv
+ghia,n,egész,NGI,kör,,,./csv/misc.csv
+ghīr,v,forog,NGI,,PR ñira,,./csv/misc.csv
+ghiərēi,n,autó,QHÌ RA,fut ugrik,MD ghiər rēi,,./csv/environment.csv
+ghonao,v,"találkozik, együtt van, tapasztal",QHÙ NÀ,nyom észrevesz,,,./csv/misc.csv
+ghosyá,n,tegnap,QHÙ SÁ,nyom nap,,,./csv/time.csv
+ghòu wao,v,eljut,QHÙ WÀ,,,,./csv/misc.csv
+ghū,n,béka,NGU,,ngu,,./csv/root-words.csv
+ghǔnn,n,nyom,QHÙ,,xùn,,./csv/root-words.csv
+ghùo,n,út,QHÙ,"szag, nyom",xùu,,./csv/root-words.csv
+ghūr,adj,szürkésbarna,QHU,egér,,,./csv/colors.csv
+ghẏ,v,fut,QHÌ,,xì,,./csv/root-words.csv
+ghỳ,pron,te (desp.),NGU SÌ,hideg béka,PR ñusì,,./csv/misc.csv
+ghẏa,adj,finom,NGÌ,máj,ngìa,,./csv/root-words.csv
+hái,n,fej,QHÁ,,xá,,./csv/root-words.csv
+hánghann,n,hegycsúcs,QHÁ NGA,fej gerinc > hegy feje,AN xáin gan,,./csv/environment.csv
+hânn,n,homlok,QHÁ,,xán,,./csv/root-words.csv
+hasya,n,szél,SA SA,,,,./csv/environment.csv
+hasyéi,n,szín,SÁ SÁ,nappal nappal,,,./csv/misc.csv
+hê,pron,ti,QHÍ,,xí,,./csv/root-words.csv
+headh,prep,előtt,QHÁ,fej,,,./csv/post-positions.csv
+hisyo,n,fészek,SI SU,,,,./csv/animals.csv
+hizya,v,rohan,QHÌ,fut,,,./csv/misc.csv
+hoadh,prep,mögött,QHÚ,farok,,,./csv/post-positions.csv
+hua,prep,után,QHÙ,,,,./csv/misc.csv
+huann,n,"osztályrész, juss",QHU NA,egér öl,AN qhua na,,./csv/society.csv
+huann ghā,v,jut valakinek,QHU NA,egér öl,,,./csv/society.csv
+húdh,n,mögött,QHÚ,farok,xúthá,,./csv/root-words.csv
+hui,num,kettő,,,,,./csv/numerals.csv
+huígh,adj,hosszú,QHÚ QHÚ,,,,./csv/misc.csv
+huinádh,n,vízimadár,QHÚ NA,hosszú nyak,,,./csv/animals.csv
+huinádhə osyy̌,n,"gém, kócsag",,hosszú nyak csőr,,,./csv/animals.csv
+huinadhə rya,n,hattyú,,,,,./csv/animals.csv
+huio,n,üreg (embernél kisebb),QHÙ,kicsi farok,qhú yì,,./csv/animals.csv
+huio fayáng,n,alagút (emberméretű),,sétál farok,qhú yì fa ra,,./csv/animals.csv
+húo,n,farok,QHÚ,,xú,,./csv/root-words.csv
+hwào,n,"utolsó, végső",QHÚ,farok,PR xúà,,./csv/misc.csv
+hıghào,v,"leereszt, leenged",XÀ XI,harap esik,AN xi gà,,./csv/misc.csv
+idhuao,v,hagy,THÚ WÀ,,,,./csv/misc.csv
+iyi zyer,expr,néha,,néhány idő,iyi syeru,,./csv/time.csv
+iyiadh,adv,néhol,,néhány hely,,,./csv/post-positions.csv
+iyò,adj,kicsi,YÌ,,yìu,$,./csv/root-words.csv
+lā,v,történik,RA,ugrik,ra,$,./csv/root-words.csv
+lā,adj,nagy,RA,ugrik > magas > nagy,ra,$,./csv/root-words.csv
+lā,v,ugrik,RA,,ra,$,./csv/root-words.csv
+lānào,v,"ért, felfog",RA NÀ,ugrik + észrevesz,BR la nào,,./csv/misc.csv
+liào,adj,"krémszínű szőrű, szürkésrózsaszín",RI,szürke > hajnal,PR rià,,./csv/misc.csv
+liào,n,hajnal,RI,szürke,PR rià,,./csv/time.csv
+liào,adj,"szürkésrózsaszín, krémszínű szőr",RI ,hajnal,riao,,./csv/colors.csv
+lilyà,n,holnap,RI RI,este nap,liào,,./csv/time.csv
+limūth,n,bagoly,RI MU THA,,,,./csv/animals.csv
+linn,n,éjszaka,RI ,,rin,,./csv/root-words.csv
+linyê,n,szürkület,RI NÍ,éj szürkület,MA li nyê,,./csv/time.csv
+līr,n,"hely, ülőhely, fekvőhely",SÁ RI RA,idő ugrik,< syilīr,< syılīr,./csv/environment.csv
+lua,v,ás,RU,,rua,,./csv/root-words.csv
+lūgh,adj,mély,RU,,rung,,./csv/root-words.csv
+lūnn,adj,gödör,RI~RU,éjszaka~gödör,run,,./csv/root-words.csv
+lūy,adj,mély,RU,,ruia,,./csv/root-words.csv
+lwadh,prep,lent,RU,mély,,,./csv/post-positions.csv
+lwaruo,adv,odalent,RU RÚ,,,,./csv/misc.csv
+lwoyə,n,tó,RU WÍ,mély,AN luwíi,,./csv/environment.csv
+lya,prep,rá,RA,,,,./csv/misc.csv
+lya,adj,szürke,RI ,éjszaka,ri + ya > riya,,./csv/misc.csv
+lya,adj,"világosszürke, fehér",RI ,éjszaka,ria,,./csv/colors.csv
+lyā,v,hív,YA,,,,./csv/misc.csv
+lyā,adj,világos,RI ,fehér,,,./csv/colors.csv
+lyadh,prep,rajta,RA THÌ,ugrik itt,,,./csv/misc.csv
+lyéi,n,ma,RI,nap,,,./csv/time.csv
+ly̌gh,n,"mélység, szakadék",RU,,rung,$ tone change onomatopoeic,./csv/root-words.csv
+lẏrái,n,alagút,RU RÁ,gödör,PR ru rá,,./csv/environment.csv
+lẏrái,n,padló,RU RÁ,,PR ru rá,,./csv/environment.csv
+mā,n,pocok,WA,,PR wa,,./csv/animals.csv
+mā,n,"mancs, kéz",MA,,ma,,./csv/root-words.csv
+mǎ,adj,jóllakott,MÀ,,màa,,./csv/root-words.csv
+mae,prep,vele,MÁ,"család, társaság",,,./csv/misc.csv
+maè,adj,finom,MÀ,,,,./csv/misc.csv
+maedh,n,otthon,MÁ,,,,./csv/misc.csv
+mǎgh,adv,jól,MÀ,,,,./csv/misc.csv
+mai,v,hall,WÁ,,wá,,./csv/root-words.csv
+maí,n,fül,WÁ,,wá,,./csv/root-words.csv
+mái,n,család,MÁ,,má,,./csv/root-words.csv
+màmao,adv,egyre,WÀ WÀ,megy megy,,,./csv/misc.csv
+mào,v,megy,WÀ,,wà,,./csv/root-words.csv
+māo ,adj,jószagú,MÀ,,,,./csv/misc.csv
+marā,v,eltapos,MA RA,mancs ugrik,,,./csv/misc.csv
+marəgh,n,szárny,MA RA,<> per. morgh?,,,./csv/animals.csv
+màu,n,valaki,MÙ,,mù,,./csv/root-words.csv
+mayào,n,ember (Felis cattus),MÙ,valaki,BR màu yào,,./csv/root-words.csv
+mê,adj,tele,MÍ,,mí,,./csv/root-words.csv
+mēath,n,"rend, közösség, igazság",MÁ,család,PR máa tu,,./csv/society.csv
+méi,n,testvér,MÁ,család ~ alom,PR míi,,./csv/misc.csv
+meinnà,n,emberméretű állat,,,,,./csv/animals.csv
+mèo,n,elégedettség,MÀ,,PR màu,,./csv/misc.csv
+mfyeàm,n,"küldönc, futár",FÌ,,MA fìefàm,,./csv/society.csv
+mì,conj,csak,,,,,./csv/misc.csv
+mī,n,csont,WI,,wi,,./csv/root-words.csv
+mìa,adj,rugalmas,MÌ,növény,PR mìa,,./csv/misc.csv
+miedh,prep,alatt,MÍ,"emlő, has",,,./csv/post-positions.csv
+mih,n,ág,WI SU,,AN wi éa su,,./csv/plants.csv
+mīsy,adj,szép,MÀ,"jóllakott, jó",,,./csv/misc.csv
+mô,v,ül,MÚ,,mú,,./csv/root-words.csv
+moi,v,"fürdik, úszik (vízben)",WÙ,hal,,,./csv/environment.csv
+móu,n,tyúk,MÚ,,múu,,./csv/root-words.csv
+msyie,n,veszélyes állat,MU SÍ,,,,./csv/animals.csv
+mū,n,"nagy állat, úr, antróp",MU,,mu,,./csv/root-words.csv
+muadh,adj,erős,MU,,,,./csv/misc.csv
+mūdh,n,sólyom,MU THA,nagy állat karom,AN mu tha,,./csv/animals.csv
+mui,n,ragadozó,MU,,mui,,./csv/root-words.csv
+muó zyỳra,n,csirke (fajnév),MÚ RA,balfasz gyöngytyúk,múu zyẏ·ra,,./csv/animals.csv
+mūsya,v,ordít,MU SA,,?,,./csv/misc.csv
+mwē,n,"nagy állat, úr, 2. antróp",MU,,,,./csv/animals.csv
+mwēho,n,antróp (Homo sapiens),MU QHU,egerek ura,AN muéa qhū,,./csv/misc.csv
+mwezyiào,n,boszorkány,MU SA YÀ,,mwēśiyaū,,./csv/religion.csv
+mwezyiào,n,gonosz szellem,MU SA YÀ,,mwēśiyaū,,./csv/religion.csv
+mwie,adj,felső,WÁ,,,,./csv/misc.csv
+mwiô,n,öregember,MU YÚ,,BR mu yó,,./csv/society.csv
+mwó,n,gyöngytyúk,MÚ,,múu,,./csv/animals.csv
+mwosyə qhīqhanng,n,"bagoly, macskabagoly",,darabokban kiköp,,,./csv/animals.csv
+mwẏ nōgh,n,örvös galamb,MU WÌ,,mu wì nu·gh,,./csv/animals.csv
+my̌,n,rigó,WÌ,,PR wì,,./csv/animals.csv
+mẏ,conj,de,,,,,./csv/misc.csv
+mẏ liara,n,szarka,WÌ RI RU,,,,./csv/animals.csv
+mẏ nōgh,n,galamb,WÌ,,,,./csv/animals.csv
+mẏ yánng,n,szajkó,WÌ YA,rigó beszél,,,./csv/animals.csv
+mẏ zyūr,n,harkály,,rigó vörös,,,./csv/animals.csv
+mya,v,tartozik vhova > birtokol,MÁ,,má,,./csv/root-words.csv
+myǎ,adj,jó,MÀ,,PR mà,,./csv/misc.csv
+myǎ,n,"jóllakottság, béke",MÀ,,PR màa,,./csv/misc.csv
+myāgh,adv,így,MÀ,,màng,,./csv/misc.csv
+myǎgh,adj,elég,MÀ,,,,./csv/misc.csv
+myaió,n,lány,YÀ,,,,./csv/society.csv
+myǎng,interj,igen,MÀ,,màng,,./csv/root-words.csv
+myào,adj,jó,MÀ,,mà,,./csv/root-words.csv
+myê,n,tej,MÍ,,mí,,./csv/root-words.csv
+myê,v,szopik,MÍ,,mí,,./csv/root-words.csv
+myēao,n,"bölcs ember, tanító",YA YA,,$,,./csv/society.csv
+myī,v,ül $,MI,,mi,,./csv/root-words.csv
+myirao,v,elkezd,RA,ugrik,,,./csv/misc.csv
+myô,n,férfi,YÚ,,yú,,./csv/root-words.csv
+myu,n,pillanat,,,,,./csv/time.csv
+myy̌,n,porc,MÌ,,mì,,./csv/root-words.csv
+mẏyū,n,sirály,WÌ YU,rigó kacsa,,,./csv/animals.csv
+mıyǎ,n,felnőtt nő,MÍ YÀ,tej női,PR mí yàa,,./csv/society.csv
+nā,n,öl,NA,,na,,./csv/root-words.csv
+nǎ,v,tud,NÀ,,nàa,,./csv/root-words.csv
+nagh,n,zsákmány,NA QHA,,PR naxa,,./csv/misc.csv
+nàgh,n,nyak,NA,öl,PR na ñà,,./csv/body.csv
+nāgh,n,zsákmányállat,NA,,PR naxa,,./csv/animals.csv
+nāgh,n,halandó,NA,,PR naxa,,./csv/animals.csv
+nānao,v,gondolkodik,NÀ NÀ,,,,./csv/misc.csv
+nānào,n,megértés,NA NÀ,észrevesz öl,BR na nào,,./csv/misc.csv
+nǎnao,v,megért,NA NÀ,észrevesz öl,BR na nào,,./csv/misc.csv
+nann,n,lehetőség,NA,öl,,,./csv/misc.csv
+nànn,n,gondolat,NÀ,,,,./csv/misc.csv
+nànn,n,lény,NÀ,mozgás,nàn,,./csv/root-words.csv
+nannā,v,játszik [vadászót],NA NA,öl,,,./csv/misc.csv
+nànng,adj,"szaggatott, szabálytalan",NGÀ,harap,,,./csv/colors.csv
+nao,v,észrevesz,NÀ,,nà,,./csv/root-words.csv
+nàoi,n,isten,NÀ FÌ,tud akar,BR nào fỳ,,./csv/religion.csv
+naonnə syiao,expr,műveltség,YA,hagyomány ismerete,,,./csv/religion.csv
+naor,v,felélénkül,NÀ,,,,./csv/misc.csv
+nàyə,prep,mint,NÀ,kép,,,./csv/misc.csv
+nàyə ghào?,pron,milyen,NÀ QHÀ,,,,./csv/misc.csv
+néi,n,anya,NÁ,,ná,,./csv/root-words.csv
+neirī,n,tegnap,NÍ RI,hajnal nap,,,./csv/time.csv
+nêmaiyō,n,egyszerre született testvér,NI MÁ,,BR ni máiū,,./csv/misc.csv
+nenn,n,vagina,NI,,nini,ninn?,./csv/root-words.csv
+nénn,n,nyugat,NÍ NA,,nína > nín > nen > nenn ,,./csv/misc.csv
+nennang,adj,tágas,NÍ NGA NGI,horizont hát gömb,BR néi ñañi,,./csv/misc.csv
+nenwa,num,öt,,nuen ua,,,./csv/numerals.csv
+nenwam,num,nyolcvan,,,,,./csv/numerals.csv
+ngā,n,hát,NGA,,nga,,./csv/root-words.csv
+ngǎ,v,képes valamire (+inf),NGÀ,harap,BR ngàa,,./csv/misc.csv
+ngadh,post,mentén,NGA,hát,,,./csv/post-positions.csv
+ngàdh,n,eunuch (eredetileg férfi),NGÙ,here,AN ñà thà # ngù thà,,./csv/society.csv
+ngann,v,elszakad,NGÀ,,AN ñà na,,./csv/misc.csv
+ngao,v,csinál,NGÀ,harap,,,./csv/misc.csv
+ngao,v,harap,NGÀ,,ngà,,./csv/root-words.csv
+ngār,n,fal,NGA RA,hát ugrik,,,./csv/misc.csv
+ngefye,v,hoz nekem,NGÍ FÌ,,,,./csv/misc.csv
+ngefyū,v,kell,FÌ WU,,,,./csv/misc.csv
+ngī,v,alszik,NGI,,ngi,,./csv/root-words.csv
+ngia,pron,én,NGÍ,,ngía,,./csv/root-words.csv
+ngidh,prep,körül,NGI,kör,,,./csv/post-positions.csv
+ngidhū,n,gyümölcs,NGI THU,gömb fa,BR ñiéa thu,,./csv/plants.csv
+nginn,n,"tekercs, alvó ember",NGI,,AN ñiu na,,./csv/body.csv
+ngǐnn,n,orvosság,NGÌ,máj,ngìn,,./csv/root-words.csv
+nginnīr,v,felébred,NGI NI,álom születés,,,./csv/misc.csv
+nginnı zyuarye,expr,girosz,,fűszeres hústekercs,,,./csv/misc.csv
+ngio,v,összetekeredik,NGI,,ngiu,,./csv/root-words.csv
+ngo,prep,ellen,NGÚ,ellenség,,,./csv/post-positions.csv
+ngô,n,ellenség,NGÚ,,ngú,,./csv/root-words.csv
+ngua,adj,beteg,NGÚ,,ngúa,,./csv/root-words.csv
+nguayə fā ,n,fáradtság,NGÚ FA,a láb betegsége,,,./csv/misc.csv
+ngúi,n,betegség,NGÚ,,ngúi,,./csv/root-words.csv
+ngùo,n,here,NGÙ,,ngù,,./csv/root-words.csv
+ngy̆,n,máj,NGÌ,,ngì,,./csv/root-words.csv
+ngınèo,n,álom,NGI NÀ,alszik lát,AN ñi nèo,,./csv/misc.csv
+nī,prep,ki,NI,vagina,,,./csv/post-positions.csv
+nī,prep,elő,NI,vagina,,,./csv/post-positions.csv
+nîa,n,horizont,NÍ,,nía,nyéa,./csv/root-words.csv
+niagh,n,tér,NÍ,hajnal > horizont,,,./csv/misc.csv
+niao,v,mozog,NÀ,,nài,,./csv/root-words.csv
+niao nyô,v,átgondol,NÀ NÚ ,újra gondol,MA niao nyô,,./csv/misc.csv
+niara,v,repül,NÍ RA,,,,./csv/animals.csv
+niaráng,n,madár,NÍ RA,,,,./csv/animals.csv
+niaryái,n,fecske,NÍ YÁ,repül nyúl,,,./csv/animals.csv
+nìgh,n,étel,NÌ,,nìxu,,./csv/root-words.csv
+nihādh,adv,tovább,NI QHÚ,,,,./csv/post-positions.csv
+nīr,n,"üreg, járat",NI,,,,./csv/misc.csv
+nira,n,rés,NI,,,,./csv/misc.csv
+nn,conj,hogy,,,,,./csv/misc.csv
+nndhào,n,eunuch (eredetileg nő),NÚ,szül,nú thà,,./csv/society.csv
+nnrəhua,n,bánat,NU,mosoly,AN nura qhua,,./csv/soul.csv
+no,conj,is,NÚ,,,,./csv/misc.csv
+nofyair,n,tökéletesség,NU FÁ RA,szív magas,AN nu fyáila,,./csv/misc.csv
+nôgh,adv,megint,NÚ,,núng,,./csv/misc.csv
+nōgh,n,patkány,NÙ,,nùxu,$,./csv/root-words.csv
+nōgh,n,vándorpatkány,NÙ,,PR nùxu,,./csv/animals.csv
+nói,v,teremt,NÚ,,PR núi,,./csv/religion.csv
+noíqh,pt,teremtő,NÚ,,AN nóixu > nywíqh ~ nói,,./csv/religion.csv
+nōsy,prep,kívül,NÚ,szül,,,./csv/post-positions.csv
+nū,n,"középpont, közép",NU,,PR nu,,./csv/misc.csv
+nū,n,szív,NU,,nu,,./csv/root-words.csv
+nūdh,post,közepén,NU,,,,./csv/post-positions.csv
+nummu,n,"dögevő madár, keselyű, varjú",,šum. numma keselyű?,,,./csv/animals.csv
+nūn,num,hét,,,,,./csv/numerals.csv
+nūr,v,mosolyog (dorombol),NU,,nuru $,,./csv/root-words.csv
+nūy,adj,nagyszerű,NU,,nui $,,./csv/root-words.csv
+nǔy,adj,"kékesszürke, teltszürke",NÙ,patkány,,,./csv/colors.csv
+nǔy,adj,telt színű,NÙ,patkány,,,./csv/colors.csv
+nwēn,num,négy,,,,,./csv/numerals.csv
+nwēn ham,num,hatvannégy,,,,,./csv/numerals.csv
+nwēni,num,hat,,nwen ui,,,./csv/numerals.csv
+ny̌,v,eszik,NÌ,,nì,,./csv/root-words.csv
+nyâ,n,anyám,NÁ,,ná,,./csv/root-words.csv
+nyahōr,n,odú,NGI QHÚ RÚ,otthon farok bent,,,./csv/animals.csv
+nyāia,adj,fájdalmas,,,,,./csv/misc.csv
+nyainā,n,zsákmány madár,,,,,./csv/animals.csv
+nyām,v,születik,NÚ,szül,,,./csv/misc.csv
+nyan,interj,"kérlek, kérem",NÁ,anyám,~ AN nán,,./csv/misc.csv
+nyang,v,szeret,NÁ NGI,anya alszik,AN ná ñi,,./csv/misc.csv
+nyang qhen,pron,ugyanaz,[NA NGI] QHEN,nangi thái > nyang qhen ,,,./csv/misc.csv
+nyann,interj,szóval,,,,,./csv/misc.csv
+nyànn,n,"lény, élőlény",NÀ,,,,./csv/animals.csv
+nyânn,n,"kérés, kérlelés",NÁ,anyám,AN nán,,./csv/misc.csv
+nyanng,n,"szeretés, szeretet",NÁ NGI,anya alszik,< nyang,,./csv/misc.csv
+nyánngī,n,apró énekesmadár,NÍ NGI,„pufók madár”,,,./csv/animals.csv
+nyánngı zyūr,n,vörösbegy,,énekesmadár vörös,,,./csv/animals.csv
+nye,v,változik,NÍ,hajnal,,,./csv/misc.csv
+nyê,n,"szürkület, hajnal",NÍ,,ní,,./csv/root-words.csv
+nyedh,prep,"túl, messze",NÍ,hajnal > horizont,,,./csv/post-positions.csv
+nyéi,n,tér,NÍ,,níi,,./csv/root-words.csv
+nyer,n,ég,NÍ RA,tér fel,BR níra,,./csv/environment.csv
+nẏer,n,félidő,NU SÁ,,AN nu sáili,,./csv/time.csv
+nyô,n,szül,NÚ,,nú,$,./csv/root-words.csv
+nyóa,adj,új,NÚ,,núa,$,./csv/root-words.csv
+nyói,n,teremt,NÚ,,núi,$,./csv/root-words.csv
+nẏr,v,megesz,NÌ,,nìr,,./csv/misc.csv
+nẏwagh,adv,biztosan,NÌ FÌ,eszik visz,,,./csv/misc.csv
+nyəméi,n,"föld, ország",NÍ MÁ,tér család,~ MA ńé méi,,./csv/environment.csv
+nırōfyé,n,szoba,NI RÚ FÍ,meleg üreg,BR nirúo fyé,,./csv/misc.csv
+nırúo,n,"barlang, terem, üreg",NI RÚ,,PR ni rú,,./csv/misc.csv
+ó,post,ellen,NGÚ,ellenség,PR ngú,,./csv/misc.csv
+ô,n,fog,WÚ,,wú,úo,./csv/root-words.csv
+ōnen,num,tizenkettő,,,,,./csv/numerals.csv
+ōnenwa,num,tizenhárom,,,,,./csv/numerals.csv
+osyy̌,n,kés,WÚ SÌ,fog hideg,BR ù sỳ,,./csv/misc.csv
+osyy̌,n,csőr,WÚ SÌ,fog hideg,,,./csv/animals.csv
+"ouyā, wia-",adj,több,,,,,./csv/misc.csv
+qhā,v,vadászik,QHA,,xa,,./csv/root-words.csv
+qhānn,n,"vadász, ember",XA,vadászik,AN xan,,./csv/misc.csv
+qhar,n,"lejtő, domboldal",QHÁ,,AN qhái ru,,./csv/environment.csv
+qhar,v,lecsap,QHA,vadászik,AN qhái ru,,./csv/misc.csv
+qheir,pron,többi,THÌ,,,,./csv/misc.csv
+qheir,pron,másik,,,,,./csv/misc.csv
+qheirẏ màu,pron,"többiek, többi ember",THÌ,,,,./csv/misc.csv
+qhesyiqh,v,zörög,,[hangutánzó],,,./csv/misc.csv
+qhī,v,esik (eső),QHI,,xi,,./csv/root-words.csv
+qhi syḕ,num,ennyi,,ez sok,,,./csv/misc.csv
+qhiangī,n,unalom,QHI NGI,,,,./csv/misc.csv
+qhīdh,v,lemászik,THA XI,karom esik,AN xi ta,,./csv/misc.csv
+qhìm,n,"esik, zuhan",QHI,,ximù,,./csv/root-words.csv
+qhio,n,eső,QHI,,xiu,,./csv/root-words.csv
+qhiosyy̌,n,hó,XI SÌ,esik hideg,MA xiosyy̌,,./csv/misc.csv
+qhīqh,v,"tüsszent, kiköp",QHI,eső,AN qhiqhi,,./csv/body.csv
+qhīqh zyuái,expr,köp,,,,,./csv/body.csv
+qhiqhī,n,por,QHI,,MA qhī qhī,,./csv/environment.csv
+qhiyāgh,adv,rosszul,QHI,"eső, rossz idő",,,./csv/misc.csv
+qhiər,v,gyorsan fut,QHÌ RA,fut ugrik,PR xìi ra,,./csv/body.csv
+qhoadh,n,vég,QHÚ + THÌ,,,,./csv/misc.csv
+qhoanā,n,zsákmány emlős,,,,,./csv/animals.csv
+qhòi pl. qhǔi,n,szó,QHÙ,nyom,PR xùi,,./csv/misc.csv
+qhor,v,elfárad,QHÙ,,,,./csv/misc.csv
+qhū,n,egér,QHU,,PR xu,,./csv/animals.csv
+qhua,n,"falat, darab",QHU,egér,AN qhua,,./csv/misc.csv
+qhȳr,n,ész,QHÌ,fut,,,./csv/misc.csv
+qhẏradh,adj,okos,QHÌ,fut,,,./csv/misc.csv
+qhı,conj,és,,,,,./csv/misc.csv
+rǎ,n,szexuális aktus,RÀ,,ràa,$,./csv/root-words.csv
+rāgh,adv,nagyon,RA,,,,./csv/misc.csv
+rái,n,"dolog, tárgy",RÁ,,rá,$,./csv/root-words.csv
+raiá,adj,sötétszürke,RÁ,föld,linn·ya,,./csv/colors.csv
+rào,v,szexel,RÀ,,rà,$,./csv/root-words.csv
+riuqh,adj,folytonos,RÌ,,,,./csv/misc.csv
+ro,prep,"belül, benne",RÚ,bél,,,./csv/post-positions.csv
+rong,adj,méretű,RÚ,,,,./csv/misc.csv
+rǔ,n,száj,RÙ,,rù,,./csv/root-words.csv
+rua,adj,fekete,RU,,,,./csv/colors.csv
+ruá,v,húst rág,RÙ,bél,PR rúa,,./csv/misc.csv
+ruāqh,n,varjú,,[hangutánzó?],rua,,./csv/animals.csv
+ruathua,adj,feketésbarna,RU THU,,,,./csv/colors.csv
+ruayıth,n,holló,YI,,ruayi·th,,./csv/animals.csv
+ruenngār,n,hatalmas alagút (emberi),RU NGA RA,mély fal,,,./csv/animals.csv
+ruia,adj,nedves,RU,,,,./csv/misc.csv
+rúo,n,bél,RÚ,,rú,,./csv/root-words.csv
+rwao zyūr,adj,teknőctarka szőr,,fekete vörös,,,./csv/colors.csv
+rwei,n,észak,,,,,./csv/misc.csv
+ryéi,n,kő,RÁ,,rái,$,./csv/root-words.csv
+ryeryei,n,anyag,RÁ RÁ,kő,,,./csv/environment.csv
+ryéı fıwaí,n,pikkely,RÁ FI WÁ,kő bőr,rá feiwai,,./csv/animals.csv
+rÿn,v,elbújik,RÌ,gyík,,,./csv/environment.csv
+syâ,pron,ő maga,,,,,./csv/misc.csv
+syā,n,harag,SA,,sa,,./csv/root-words.csv
+syā,v,fúj,SA,,sa,,./csv/root-words.csv
+syaáng,adj,örök,SÁ,csillag > állandó,PR sáang,,./csv/misc.csv
+syaēnha,n,áldozópap,SA YA NA QHA,veréb öl,BR saéa ya naqhā,a zsákmány szó megölője,./csv/religion.csv
+syagh wie,v,békén hagy,syāgh!,hagyj békén!,,,./csv/misc.csv
+syahī,n,Nap,SÁ YÍ,,$,,./csv/environment.csv
+syái,n,nappal,SÁ,,PR sá,,./csv/time.csv
+syamm,num,tizenhat,,,,,./csv/numerals.csv
+syamm ūa,num,tizenhét stb.,,,,,./csv/numerals.csv
+syanagh,n,áldozat,SÀ NA QHA,veréb öl,BR sàéa naqha,zsákmány lelke,./csv/religion.csv
+syânn,n,csillag,SÁ,csillag,PR sán,,./csv/environment.csv
+syányə,n,hajnal,SÁ NÍ,nappal szürkület,PR sá ní,,./csv/time.csv
+syào,n,lélek,SÀ,,sà,,./csv/root-words.csv
+syarû,n,levegő,SA RÚ,,,,./csv/environment.csv
+syaruí,n,levegővétel,SA RÚ,,,,./csv/misc.csv
+syau,v,pisil,SÙ,,sù,,./csv/root-words.csv
+syàu,n,vizelet,SÙ,,sù,,./csv/root-words.csv
+sye,conj,ha,,,,,./csv/misc.csv
+sye,v,megmarad,SÁ,csillag > állandó,,,./csv/misc.csv
+syê,v,fél,SÍ,,PR sí,,./csv/misc.csv
+syḕ,num,sok,SI,,,,./csv/numerals.csv
+syea,v,"éles fénnyel ragyog, fénylik",SÁ,,,,./csv/environment.csv
+syéa,adj,"öreg, régi, hatalmas",SÍ,fél > hatalom,PR sía # $,,./csv/society.csv
+syêa,n,fény,SÁ,,sáa,,./csv/root-words.csv
+syeáng,adj,világos,SÁ,,sáang,,./csv/misc.csv
+syéng,n,kelet,SÍ,,,,./csv/misc.csv
+syénng,part,messzi,SÁ,hosszú idő,< sye,,./csv/misc.csv
+syénng,part,"tartós, hosszú",SÁ,,,,./csv/misc.csv
+syer,adv,most,,,PR sá li,,./csv/time.csv
+syer yēng,adv,hamar,,menekülő időben,,,./csv/misc.csv
+syerā,v,ijeszt,SÍ RA,,,,./csv/misc.csv
+syī,n,bajusz,SI,,si,,./csv/root-words.csv
+syia,adj,hideg,SÌ,,~ PR sì,,./csv/misc.csv
+syiá,n,kuvik,,[hangutánzó],,,./csv/animals.csv
+syiao,n,"hagyomány, mondások",YA,sok szavak,BR si yaū,,./csv/religion.csv
+syīay,n,beszélgetés,SI YA YA,sok beszél beszél,AN si ya ya,,./csv/society.csv
+syiegh,adv,hirtelen,SÍ,,,,./csv/misc.csv
+syiéng,pron,együtt,SI NGÍ,együtt mi,syingí > syingé > syíngə > syîng > syiéng,,./csv/misc.csv
+syihann,n,"találkozik valakivel, üdvözöl",QHÁ NGA,fej gerinc,"qhá nga > hain, haing, ",,./csv/misc.csv
+syihann,n,találkozás (személyekkel),QHÁ NGA,fej gerinc,"qhá nga > hain, haing, ",,./csv/misc.csv
+syīnǎ,v,rajzol,SI NÀ,bajusz kép,BR si nǎ,,./csv/society.csv
+syir,prep,között,SI,bajusz > együtt,,,./csv/post-positions.csv
+syiu,adj,"kevés, szűkös",SÌ,,sìu,,./csv/root-words.csv
+syiwaiqh,n,hangyaboly,,,,,./csv/animals.csv
+syū,v,nő,SU,növény,su,,./csv/root-words.csv
+syy̌,n,tél,SÌ,,PR sì,,./csv/misc.csv
+syy̌,n,hideg,SÌ,,sì,,./csv/root-words.csv
+syımān,adj,"kék, lila",,per. āsemān „ég”,,,./csv/colors.csv
+syımānyé,adj,csillogó fekete/kék/zöld,,,< syımān,,./csv/colors.csv
+syısya,adj,vékony csíkos,SI ,bajusz,sisia,,./csv/colors.csv
+syəiū,n,lúd,SA YU,harag kacsa,,,./csv/animals.csv
+thà,int,nem,THÙ,,thàù,,./csv/root-words.csv
+thā,n,karom,THA,,tha,,./csv/root-words.csv
+thà alāgh,adv,kevésbé,,nem nagyon,,,./csv/misc.csv
+thāgh,n,sün,THA XU,tüskés egér,BR thaxu,,./csv/animals.csv
+thái,n,nincs,THÁ,,thá,a dhẏ hatására vette át ezt a jelentést,./csv/root-words.csv
+thào,part,nem,THÀ,,,,./csv/misc.csv
+thàzyan,adv,sose,THÚ zyan,nem + idő,,,./csv/misc.csv
+thê,n,orr,THÍ,,thí,,./csv/root-words.csv
+ther,n,soha,THÁ SÁ RI,nem nappal éjszaka,AN thá sáili,,./csv/misc.csv
+ther,pron,sehol,THÁ SÁ RI,,AN thá sáili,,./csv/misc.csv
+thezyer,adv,most,THÍ SÁ,,,,./csv/misc.csv
+thī,n,fióka,THI,,thi,,./csv/root-words.csv
+thie,pron,itt,THÁ,,,,./csv/misc.csv
+thǔ,v,nincs,,,thàwù,,./csv/misc.csv
+thù yoghin āin ,adv,bármennyire,,nem érdekel [milyen] nagyon,,,./csv/misc.csv
+thù zyerı,conj,még,,,,,./csv/misc.csv
+thuao,v,marad,THÚ WÀ,,,,./csv/misc.csv
+thȳn,n,hely,THÙ,,,,./csv/misc.csv
+thə-,pref,nem-,THÁ,nem,,,./csv/misc.csv
+thəhìa,n,"nyomorult, szerencsétlen",THI SÌ,fióka hideg,AN thisyìa,,./csv/soul.csv
+ū,v,van,WU,áll,wu,,./csv/root-words.csv
+ūa,num,egy,,,,,./csv/numerals.csv
+ufyə,v,áll,WU FA,áll láb,wufa,,./csv/root-words.csv
+uinn,n,dél,,,,,./csv/misc.csv
+umē,v,megtölt,MÍ,szopni,umí,,./csv/misc.csv
+umm,n,öregasszony,MÙ MU,,BR umma,,./csv/society.csv
+unō,v,kezd,NÚ,szül,,,./csv/misc.csv
+uny̌m,n,etető antróp,NÌ MÙ,eszik ember,,,./csv/misc.csv
+uryū,adj,kemény,RÚ,kő,,,./csv/misc.csv
+uyai,v,elkerget,YÁ,"nyúl > elfut, menekül",,,./csv/misc.csv
+ūyiégh,adj,csodálatos,YÍ,hold,,,./csv/misc.csv
+uyù,n,hal,WÙ,,wù,ù,./csv/root-words.csv
+uyurù,n,pelikán,WÙ RÙ,hal száj,,,./csv/animals.csv
+wà zyerı,conj,már,WÀ,"eljött az idő, amikor",wàm zyan,,./csv/misc.csv
+wái,n,pénisz,FÁ,,fá,,./csv/root-words.csv
+waiqh,n,"apró rovar, hangya",,,,,./csv/animals.csv
+wam,v,jön,WÀ,,,,./csv/misc.csv
+wam dhei,v,odajön,,,,,./csv/misc.csv
+wam ruo,v,bejön,WÀ WÀ,megy megy,,,./csv/misc.csv
+wào,n,valaki gyereke,FÀ,,fà,,./csv/root-words.csv
+wào dhei,v,odamegy,,,,,./csv/misc.csv
+waor,v,érkezik,WÀ,,wàr,,./csv/misc.csv
+wau,n,úszik,WÙ,,wù,,./csv/root-words.csv
+wê,v,iszik,WÍ,,wé,,./csv/root-words.csv
+weír,prep,fölött,WÁ,fül,,,./csv/post-positions.csv
+weo,n,lét,WU,áll,PR wàu,,./csv/misc.csv
+wia,n,víz,,,~ PR wí,,./csv/misc.csv
+wiarā,num,többször,,,,,./csv/misc.csv
+winen,num,nyolc,,,,,./csv/numerals.csv
+winēni,num,tíz,,,,,./csv/numerals.csv
+winennū,num,tizenegy,,,,,./csv/numerals.csv
+winenwa,num,kilenc,,,,,./csv/numerals.csv
+winyei,v,beborít,FI NÁ,szőr anya,,,./csv/misc.csv
+wo syie ,adv,darabokban,FU,tojás bajusz > együtt [tojáshéj-utalás],fu si > wo syī > wo syē,,./csv/misc.csv
+woa,v,hajlik,FA,láb > fordul,PR faa,,./csv/misc.csv
+wòm,v,ütközik,FÚ MÙ,,~ PR fú mù,,./csv/environment.csv
+wonēni,num,tizennégy,,,,,./csv/numerals.csv
+wonnū,num,tizenöt,,,,,./csv/numerals.csv
+woréi,n,alom,FÙ RÁ,ürülék kő,,,./csv/environment.csv
+wōsy,num,három,,,,,./csv/numerals.csv
+wosyá,n,napnegyed,FA,láb > fordul,,,./csv/time.csv
+wōsyiagh,n,nap,SÁ,,wōsy yiagh,,./csv/time.csv
+wuo,n,ürülék,FÙ,,fù,,./csv/root-words.csv
+wúo,v,üt,FÚ,,fú,,./csv/root-words.csv
+yā,n,mond,YA,,ya,,./csv/root-words.csv
+ya thǎya,adj,"elmondhatlan, kimondhatatlan",YA,,ya thà ia,,./csv/misc.csv
+yaegh,n,hagyomány,YA YA,,yayagh,,./csv/religion.csv
+yagh,v,érdeklődik,YA QHA,szó vadászik,AN yaqha,,./csv/society.csv
+yái,n,nyúl,YÁ,,PR yá,,./csv/animals.csv
+yaigh,adj,gyors,YÁ,"nyúl > elfut, menekül",,,./csv/misc.csv
+yānā,v,jelent,YA NÀ,~ ar. yaˀnī ?,,,./csv/misc.csv
+yáng,n,név,YA NGÍ,név én,yange > yang,,./csv/society.csv
+yannā,v,hisz,YA NÀ,,,,./csv/misc.csv
+yao,n,szó,YA,,,,./csv/misc.csv
+yào,n,tüzelő nő,YÀ,,yà,,./csv/root-words.csv
+yàu,n,vér,YÙ,,yù,,./csv/root-words.csv
+yàu,v,vérzik,YÙ,,yù,,./csv/root-words.csv
+yê,n,hús,RÍ,,rí,$,./csv/root-words.csv
+yê,v,"vonul, megy valahova",YÍ,,yí,,./csv/root-words.csv
+yē,n,"föld, talaj",RÁ,,ráa,$,./csv/root-words.csv
+yea,n,hónap,YÍ,hold,yía,,./csv/time.csv
+yéao,n,hold,YÍ,,yí,$,./csv/root-words.csv
+yēao,n,"slam, összejövetel 2. bölcsesség",YA YA,beszél-beszél,$,,./csv/society.csv
+yeffe,n,elvisz neki,FÌ,,,,./csv/misc.csv
+yeu,n,három hónap,YÍ,hold,yíu,,./csv/time.csv
+ẏhái,n,"hajlékonyság, mozgékonyság, karcsúság",XU XÁ,egér fej,BR xuhái,„egérként átférő fejű”,./csv/misc.csv
+ẏhái,v,"befér, átfér, benyomakodik",XU XÁ,egér fej,BR xuhái,„egérként átférő fejű”,./csv/environment.csv
+yī,n,szem,YI,,yi,,./csv/root-words.csv
+yī,v,néz,YI,,yi,,./csv/root-words.csv
+yī ghūa,v,keres,,néz nyom,,,./csv/misc.csv
+yiá,adj,fehér,YÍ,nappal,yía,,./csv/root-words.csv
+yiá,adj,"fényes fehér (csak fémekre, műanyagokra, fényre)",YÍ,nappal,,,./csv/colors.csv
+yian zyan,n,gyerekkor,,,,,./csv/misc.csv
+yìann,n,gyerek,YÌ,,yìan,,./csv/root-words.csv
+yidh,n,tekintet,YI,szem,PR yi tha,,./csv/misc.csv
+yǐng,n,"gonosz, ijesztő",RÌ,,rìng,$,./csv/root-words.csv
+yǐnn,n,kamasz gyerek,YÌ,,yìn,,./csv/root-words.csv
+yoa,n,beszél,YA,,yaa,,./csv/root-words.csv
+ẏrarā,v,balfaszkodik,RA RA,ugrik,,,./csv/body.csv
+yū,n,kacsa,YU,kacsa,PR yu,,./csv/animals.csv
+yuann,n,lúd,YU,,yuan,,./csv/root-words.csv
+yy̌,n,kígyó,RÌ,,rì,$,./csv/root-words.csv
+yy̌r,adj,"vörös, narancssárga, zöld",YÙ,vér,,,./csv/colors.csv
+yəlua,adj,fekete-fehér,RI ,fehér,,,./csv/colors.csv
+yəlua,adj,"kontrasztos, látványos",,fekete-fehér,,,./csv/colors.csv
+yəlwaiō,adj,nagy foltos,RI ,fehér,< yəlua,,./csv/colors.csv
+zyā,n,szél,SA,,sa,,./csv/root-words.csv
+zyǎ,n,veréb,SÀ,,PR sà,,./csv/animals.csv
+zyàgh,n,zombi,SA NGÀ,,PR sa ñà,,./csv/religion.csv
+zyái,n,nappal,SÁ,,sá,,./csv/root-words.csv
+zyaio,n,lélegzet,SA,,sa,,./csv/misc.csv
+zyamm,n,idő,SÁ NÍ,,,,./csv/misc.csv
+zyann ngī,v,időt tölt,NGI,,,,./csv/misc.csv
+zyào,n,veréb,SÀ,,sà,,./csv/root-words.csv
+zyàoı dhunn,n,mezei veréb,,veréb erdő,,,./csv/animals.csv
+zyār,prep,közben,SÁ,nappal,,,./csv/post-positions.csv
+zyěadh,n,"megjelenés, avatar",SÁ THÀ,nem volt látható,AN sêathà,,./csv/religion.csv
+zyéi,n,félelem,SÍ,,síi,,./csv/root-words.csv
+zyer,n,"idő, pillanat",SÁ RI,nappal éjszaka,PR sái li,,./csv/misc.csv
+zyī,v,lát,SI,bajusz,si,,./csv/root-words.csv
+zyia,n,megjelenik,SI,bajusz,sia,,./csv/root-words.csv
+zyìa,adj,"hideg, halott",SÌ,,sìa,,./csv/root-words.csv
+zyīsya,v,ír,SI SA,bajusz öl,BR si sā,,./csv/society.csv
+zyīsyagh,n,írnok,SI SA,bajusz öl,BR si saxu,,./csv/society.csv
+zyizyu,n,fű,SU,növény,syisyu,,./csv/plants.csv
+zẏmuó,n,csirke,SÍ MU,,,,./csv/animals.csv
+zyoa,adj,cirmos,SU,levél,,,./csv/colors.csv
+zyoanànng,adj,pettyes,SU NGÀ,cirmos harap,,,./csv/colors.csv
+zyoury̌,n,uborka,SU RÌ,zöldség kígyó,,,./csv/misc.csv
+zyu,n,levél,SU,,su,,./csv/root-words.csv
+zyua,n,gyógynövény,SU,,sua,,./csv/root-words.csv
+zyuaghào,n,"csípős fűszer, paprika, gyömbér",SU NGÀ,harapós gyógyfű,MD zyua·ghào,,./csv/plants.csv
+zyūái,n,nyál,SÙ NGÁ,vizelet nyal,BR su ái,,./csv/body.csv
+zyuo,v,szopik,SÚ,,sú,,./csv/root-words.csv
+zyur,n,minta,SU,növény,,,./csv/misc.csv
+zyūr,adj,"vörös szőrű; homokszínű, világosszöld",SU,levél,,,./csv/colors.csv
+zyỳaqh,part,"hibás, hibázó fél",QHA,"vadászik, lecsap",,,./csv/society.csv
+zyỳgh,n,hiba,QHA,"vadászik, lecsap",,,./csv/body.csv
+zyẏqhā,v,"hibázik, elhibáz",QHA,"vadászik, lecsap",,,./csv/body.csv
+zyỳra,v,ügyetlenül ugrik,RA,ugrik,,,./csv/body.csv
+zyıēaqh,n,"slam, összejövetel",YA YA,sok beszél beszél,MA zyıyayax,,./csv/society.csv
+zyıgh,v,"szétterül, szétborul",SI XI,,BR sixi,,./csv/misc.csv
+zyılīr,n,"ott, az a hely",SÁ RI RA,idő ugrik,AN sáili ra,,./csv/misc.csv
+zyınǎ,adj,"furcsa, különös, jellegzetes",SI NÀ,,BR si nàa,,./csv/misc.csv
+zyınào,n,rajz,SI NÀ,bajusz kép,BR si nào,,./csv/society.csv
+zyəmarəgh,n,toll,RA SU,,zu mara·gh,,./csv/animals.csv
+ızyeiū,G3,jég,SA YU,harag kacsa,< syeiū,,./csv/misc.csv
