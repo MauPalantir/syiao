@@ -17,8 +17,6 @@ vù             [fù]           "ürülék"
 vúo            [fú]           "üt"
 ma             [ma]           "kéz"
 mi             [mi]           "hírnév, hatalom"
-mu             [mu]           "nagy állat, úr, antróp"
-mui            [mui]          "ragadozó"
 mà             [mà]           "jó"
 màu            [màu]          "elégedettség"
 màng           [màng]         "igen"
@@ -28,7 +26,9 @@ mì             [mì]           "porc"
 mìa            [mìa]          "rugalmas"
 mé             [mí]           "szopik; tej"
 méi            [míi]          "testvér"
-mù             [mù]           "valaki"
+mu             [mu]           "valaki"
+mù             [mù]           "nagy állat, úr, antróp"
+mùi            [mùi]          "ragadozó"
 mó             [mú]           "ül"
 móu            [múu]          "tyúk"
 na             [na]           "öl"
@@ -128,7 +128,7 @@ thì            [thì]          "hol?"
 thé            [thí]          "orr"
 thù            [thù]          "nem"
 thúo           [thú]          "test"
-thúa           [thúa]
+thúa           [thúa]         "válik valamilyenné"
 wa             [wa]           "pocok"
 wi             [wi]           "csont"
 wu             [wu]           "van"
@@ -156,17 +156,24 @@ yéa            [yía]          "fehér"
 yù             [yù]           "vér"
 yó             [yú]           "*férfi"
                []
+nga            [nnga]         "hát"
+ngan           [nngan]        "hegy"
+ngi            [nngi]         "alszik; gömb"
+ngiu           [nngiu]        "összetekeredik"
 éyà            [ngí yà]       "én"
-mùyà           [mù yà]        "ő G1f"
-mùyó           [mù yú]        "ő G1m"
-mùyì           [mù yì]        "ő G2"
-muyàna         [mu yà na]     "ők"
+muyà           [mu yà]        "ő G1f"
+muyó           [mu yú]        "ő G1m"
+muyì           [mu yì]        "ő G2"
+mùyàna         [mù yà na]     "ők"
+nànà           [nà nà]        "gondolkodik, gondolat"
+mànà           [mà nà]        "jó gondolat"
 naghà          [na ñà]        "nyak"
 éméng          [ñímíñ]        "jóllakott, elégedett"
-àng            [ñàñ]          "nyitott száj"
+ghàng          [ñàñ]          "nyitott száj"
 qhan           [xan]          "vadász, ember"
 nimái          [ni má]        "szülőhely, fészek"
 nàwà           [nà wà]        "elmúlik;múlt"
+yangé          [ya ngí]       "név"
 fìla           [fìra]         "küld"
 ghila          [ñira]         "forog"
 áina           [ñá na]        "tiszta"
@@ -183,15 +190,46 @@ méyàa          [mí yàa]       "nő"
 faala          [faa ra]       "láb"
 fyáila         [fá ra]        "hegy, csúcs"
 lurái          [ru rá]        "padló"
-fawà           [fawà]
-mùfawà         [mù fawà]
-mufawà         [mu fawà]
-yifawà         [yi fawà]
-nafawà         [na fawà]
-ráifawà        [rá fawà]
+fawà           [fawà]         "megyek"
+mufawà         [mu fawà]      "megy G1-G2"
+yifawà         [yi fawà]      "megy G3"
+mùfawà         [mù fawà]      "megy G4"
+nafawà         [na fawà]      "megy G5"
+ráifawà        [rá fawà]      "megy G6"
+mufaúwà        [mu faúwà]
+yifaúwà        [yi faúwà]
+mùfaúwà        [mù faúwà]     "éppen megy G4"
+nafaúwà        [na faúwà]
+ráifaúwà       [rá faúwà]
+mufaàwà        [mu faàwà]
+yifaàwà        [yi faàwà]
+mùfaàwà        [mù faàwà]     "elindul(t) G4"
+nafaàwà        [na faàwà]
+ráifaàwà       [rá faàwà]
+munàú          [mu nàú]
+yinàú          [yi nàú]
+mùnàú          [mù nàú]       "éppen gondolkodik G4"
+nanàú          [na nàú]
+ráinàú         [rá nàú]
+munàà          [mu nàà]
+yinàà          [yi nàà]
+mùnàà          [mù nàà]       "rágondol G4"
+nanàà          [na nàà]
+ráinàà         [rá nàà]
+fawàthú        [fawàthú]      "haladóvá válik > "
+fawàthúa       [fawàthúa]     "megtetté válik > megtett (út)"
+fawàthu        [fawàthu]      "utazgatóvá válik"
+nàthú          [nàthú]        "érzékeltté válik > érzékelt"
+nàthúa         [nàthúa]       "észrevetté válik > észrevett"
+nàthu          [nàthu]        "észrevehető, érzékelhetővé válik "
+nathú          [nathú]        "halottá válik válik > érzékelt"
+nathúa         [nathúa]       "megöltté válik > észrevett"
+nathu          [nathu]        "halandóvá válik "
+muathúa        [muathúa]      "erőssé válik"
 ghusì          [ñusì]         "te (desp.)"
 ghasá          [ñasá]         "tűz"
 séa            [sía]          "öreg, régi, hatalmas"
+séathúa        [síathúa]      "öregszik, hatalmassá válik"
 alaqhu         [araxu]        "legfeljebb"
 alayà          [arayà]
 alayó          [arayú]

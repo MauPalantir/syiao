@@ -17,8 +17,6 @@ wuo            [fù]           "ürülék"
 wúo            [fú]           "üt"
 mā             [ma]           "kéz"
 myī            [mi]           "hírnév, hatalom"
-mū             [mu]           "nagy állat, úr, antróp"
-mui            [mui]          "ragadozó"
 myào           [mà]           "jó"
 mèo            [màu]          "elégedettség"
 myǎng          [màng]         "igen"
@@ -28,7 +26,9 @@ myy̌            [mì]           "porc"
 mìa            [mìa]          "rugalmas"
 myê            [mí]           "szopik; tej"
 méi            [míi]          "testvér"
-màu            [mù]           "valaki"
+mū             [mu]           "valaki"
+màu            [mù]           "nagy állat, úr, antróp"
+mòi            [mùi]          "ragadozó"
 mô             [mú]           "ül"
 móu            [múu]          "tyúk"
 nā             [na]           "öl"
@@ -55,7 +55,7 @@ nwia           [nuia]         "nagyszerű"
 nul            [nura]         "mosolyog (dorombol)"
 nào            [nà]           "észrevesz"
 nǎ             [nàa]          "tud"
-niào           [nài]          "mozog"
+niào           [nài]
 nǎnn           [nàn]          "lény"
 nyái           [ná]           "anyám"
 ny̌             [nì]           "eszik"
@@ -128,7 +128,7 @@ thy̌            [thì]          "hol?"
 thê            [thí]          "orr"
 thàu           [thù]          "nem"
 thúo           [thú]          "test"
-thúa           [thúa]
+thúa           [thúa]         "válik valamilyenné"
 mā             [wa]           "pocok"
 mī             [wi]           "csont"
 u              [wu]           "van"
@@ -156,17 +156,24 @@ yéa            [yía]          "fehér"
 yàu            [yù]           "vér"
 yô             [yú]           "*férfi"
                []
+ngā            [nnga]         "hát"
+ngānn          [nngan]        "hegy"
+ngī            [nngi]         "alszik; gömb"
+ngio           [nngiu]        "összetekeredik"
 íào            [ngí yà]       "én"
-myǎ            [mù yà]        "ő G1f"
-móy            [mù yú]        "ő G1m"
-myy̌            [mù yì]        "ő G2"
-muyann         [mu yà na]     "ők"
+myǎ            [mu yà]        "ő G1f"
+myô            [mu yú]        "ő G1m"
+myy̌            [mu yì]        "ő G2"
+mu̇yann        [mù yà na]     "ők"
+nànn           [nà nà]        "gondolkodik, gondolat"
+myànn          [mà nà]        "jó gondolat"
 nàgh           [na ñà]        "nyak"
 eméng          [ñímíñ]        "jóllakott, elégedett"
-àong           [ñàñ]          "nyitott száj"
+ghǎng          [ñàñ]          "nyitott száj"
 qhānn          [xan]          "vadász, ember"
 nımái          [ni má]        "szülőhely, fészek"
 nàm            [nà wà]        "elmúlik;múlt"
+yáng           [ya ngí]       "név"
 fil            [fìra]         "küld"
 ghil           [ñira]         "forog"
 áinn           [ñá na]        "tiszta"
@@ -182,16 +189,47 @@ syány          [sá ní]        "hajnal"
 míǎ            [mí yàa]       "nő"
 fal            [faa ra]       "láb"
 fyail          [fá ra]        "hegy, csúcs"
-lẏrái          [ru rá]        "padló"
-fàm            [fawà]
-mfàm           [mù fawà]
-mẏfàm          [mu fawà]
-yıfàm          [yi fawà]
-nəfàm          [na fawà]
-rəfàm          [rá fawà]
+lu̇rái         [ru rá]        "padló"
+fàm            [fawà]         "megyek"
+mfàm           [mu fawà]      "megy G1-G2"
+yıfàm          [yi fawà]      "megy G3"
+mu̇fàm         [mù fawà]      "megy G4"
+nəfàm          [na fawà]      "megy G5"
+rəfàm          [rá fawà]      "megy G6"
+mfáom          [mu faúwà]
+yıfáom         [yi faúwà]
+mu̇fáom        [mù faúwà]     "éppen megy G4"
+nəfáom         [na faúwà]
+rəfáom         [rá faúwà]
+mfààm          [mu faàwà]
+yıfààm         [yi faàwà]
+mu̇fààm        [mù faàwà]     "elindul(t) G4"
+nəfààm         [na faàwà]
+rəfààm         [rá faàwà]
+mnáo           [mu nàú]
+yınáo          [yi nàú]
+mu̇náo         [mù nàú]       "éppen gondolkodik G4"
+nənáo          [na nàú]
+rənáo          [rá nàú]
+mnǎ            [mu nàà]
+yınǎ           [yi nàà]
+mu̇nǎ          [mù nàà]       "rágondol G4"
+nənǎ           [na nàà]
+rənǎ           [rá nàà]
+fəmáth         [fawàthú]      "haladóvá válik > "
+fəmàdh         [fawàthúa]     "megtetté válik > megtett (út)"
+fəmath         [fawàthu]      "utazgatóvá válik"
+nádh           [nàthú]        "érzékeltté válik > érzékelt"
+nàdh           [nàthúa]       "észrevetté válik > észrevett"
+nadh           [nàthu]        "észrevehető, érzékelhetővé válik "
+nádh           [nathú]        "halottá válik válik > érzékelt"
+nadh           [nathúa]       "megöltté válik > észrevett"
+nadh           [nathu]        "halandóvá válik "
+mwadh          [muathúa]      "erőssé válik"
 ghòh           [ñusì]         "te (desp.)"
 gháh           [ñasá]         "tűz"
 syéa           [sía]          "öreg, régi, hatalmas"
+syédh          [síathúa]      "öregszik, hatalmassá válik"
 alaqh          [araxu]        "legfeljebb"
 alày           [arayà]
 aláy           [arayú]
@@ -213,26 +251,30 @@ amyāqh         [amyǎxa]       "jobban"
 məmàm          [wàwàm]
 lē             [le]           "te"
 yèo            [yàu]
-fam            [fàwa]
-fám            [fàwí]
-fàù            [fàwù]
+thwào          [thùà]         "lehetetlen, képtelen"
+náo            [nàú]
+nǎ             [nàà]
+fam            [fàwi]         "menés (aor.)"
+fáo            [fàwú]         "haladás (cont.)"
+fàm            [fàwà]         "elindulás (perf)"
 fəmaqh         [fàwaxu]
 fəmáng         [fàwáñ]
 fəmàng         [fàwàñ]
 ngəfàm         [ñàfàm]
 ləfàm          [lefàm]
-myǎr           [myàr]
-ngınèo         [ñi nèo]       "álom"
 ngēfàm         [ñí éa fàwà]
 ngıfàm         [ñí fàwà]
 éaləfàm        [éa le fàwà]
+myǎr           [myàr]
+ngınèo         [ñi nèo]       "álom"
+yəngēng        [yañéañ]       "szólító"
 aiyùng         [ai yùñ]       "legalább"
 hánghann       [xáin gan]     "hegycsúcs"
 afəmū          [afàmū]        "gond, jövés-menés"
 alàgh          [alaxù]        "legfeljebb"
 mudh           [mu tha]       "sólyom"
-nẏfyail        [nu fyáila]    "tökéletesség"
-nẏhel          [nu sáili]     "félidő"
+nu̇fyail       [nu fyáila]    "tökéletesség"
+nu̇hel         [nu sáili]     "félidő"
 nginn          [ñiu na]       "alvó ember"
 qhwann         [qhua na]      "osztályrész, juss"
 zyěadh         [sêathà]       "avatár"
@@ -240,14 +282,14 @@ fyərúa         [fyé rúa]      "ház"
 thəhel         [thá sáili]    "sehol; soha"
 thuhann        [thu xan]      "erdei vadász"
 thôgh          [thuxú]        "rúd, farönk, oszlop"
-mâeqh          [wàixú]        "patak"
+mâyqh          [wàixú]        "patak"
 ngann          [ñà na]        "elszakad; eltép; elharap"
 ngang          [ña ñi]        "nyújtózkodik, tornázik"
-qhar           [qhái ru]      "lejtő, domboldal"
+qhair          [qhái ru]      "lejtő, domboldal"
 nyòdh          [nó thà]       "eunuch"
 ngàdh          [ñà thà]       "eunuch"
 syīyay         [si ya ya]     "beszélgetés"
-mih            [wi éa su]     "ág"
+miih           [wi éa su]     "ág"
 nərəhua        [nura qhua]    "bánat"
 syang          [sù ña]        "nyál"
 nyang          [ná ñi]        "szeret"
@@ -269,8 +311,8 @@ nyáiê          [nyáiî]        "szeretném, kérem"
 myaolā         [myào lā]      "Myǎla istennő"
 myaohel        [myàosáili]    "jó idő"
 namànn         [nàmàn]        "emlék"
-lẏwíe          [luwíi]        "folyó"
-mwēqhō         [muéa xu]      "antróp"
+lu̇wíe         [luwíi]        "folyó"
+mwēqhō         [mùéa xu]      "antróp"
 ngithū         [ñiéa thu]     "gyümölcs"
 thəhəlehaingghanû[thásáilixáiñganū]"sehol-hegyek"
 lānào          [la nào]       "megért"
@@ -278,11 +320,13 @@ mayào          [màu yào]      "ember (Felis cattus)"
 ghanào         [gàù nào]      "érez"
 nānào          [na nào]       "megért"
 nēmáiō         [ni máiū]      "egyszerre született testvérek, alom"
-mūyô           [mu yó]        "öregember"
+mūyô           [mù yó]        "öregember"
 umm            [umma]         "öregasszony < Šum umma"
 aha            [aséa]         "öreg"
 fīenaqh        [fìenaxa]      "zsákmány"
 syīyaū         [si yaū]       "hagyomány, mondások"
+syīyā          [si yā]        "hagyományoz"
+syīyāgh        [si yāx]       "hagyományozó"
 syınào         [si nào]       "rajz"
 syınàa         [si nàa]       "furcsa, különös, jellegzetes"
 syīsyā         [si sā]        "ír"
@@ -298,13 +342,13 @@ nàofy̌          [nào fỳ]       "isten"
 hōsyânn        [húo sán]      "sarkcsillag, vezércsillag"
 nīnnhōsyân     [nin húo sán]  "Ninxursañ"
 thagh          [thaxu]        "sün"
-qhẏhái         [xuhái]        "hajlékonyság, mozgékonyság, karcsúság; befér, átfér, benyomakodik"
+qhu̇hái        [xuhái]        "hajlékonyság, mozgékonyság, karcsúság; befér, átfér, benyomakodik"
 nengang        [néi ñañi]     "tágas, kényelmes"
 nırōfyê        [nirúo fyé]    "szoba"
 fesyā          [fei sā]       "szellő"
 syıgh          [sixi]         "szétterül, szétborul"
-fyiimū         [fyiéa mu]     "ruha"
-fyəmfərâ       [fyiéamu fiirâ]"selyem"
+fyiimǔ         [fyiéa mù]     "ruha"
+fyəmfərâ       [fyiéamù fiirâ]"selyem"
 syanagh        [sàéa naqha]   "áldozat"
 syayānəhā      [saéa ya naqhā]"áldozó pap"
-ryāmâeqh       [ryá màiqhú]   "szürke patak"
+ryāmâyqh       [ryá màiqhú]   "szürke patak"

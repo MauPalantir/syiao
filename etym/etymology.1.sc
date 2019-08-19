@@ -25,13 +25,14 @@ r/ry/_F
 
 # Initial NG
 
-ñ//#_…ñ
 ñ/g/#_Ȧ[CV]
 ñ/g/#_[àǎ]
 ñ/g/#_[iuīū]#
+ñ//#_…ñ
 ñ//#_[áóú]
 ñ//#_í…V
 ñ/ñ/#_À
+ñ/ñ/#_g
 
 # Front rising vowels > middle
 í/é/#C([wy])_#

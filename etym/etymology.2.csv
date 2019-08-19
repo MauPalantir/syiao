@@ -6,25 +6,33 @@ wàwàm   ""
 # New pronoun le
 le      "te"
 yàu     ""
-# @todo thùà    "lehetetlen, képtelen"
+thùà    "lehetetlen, képtelen"
+
+# Paradigm for nào
+nài
+nàú
+nàà
 
 # Paradigm for wam (except p3 classes)
-fàwa
-fàwí
-fàwù
+fàwi "menés (aor.)"
+fàwú "haladás (cont.)"
+fàwà "elindulás (perf)"
 fàwaxu
 fàwáñ
 fàwàñ
 ñàfàm
 lefàm
 
-myàr
-
-ñi nèo        "álom"
 
 ñí éa fàwà
 ñí fàwà
 éa le fàwà
+
+myàr
+
+ñi nèo        "álom"
+
+yañéañ	"szólító"
 
 ai yùñ        "legalább"
 xáin gan      "hegycsúcs"

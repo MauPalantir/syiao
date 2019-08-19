@@ -10,6 +10,7 @@ xan         "vadász, ember"
 ni má       "szülőhely, fészek"
 
 nà wà       "elmúlik;múlt"
+ya ngí		"név"
 
 # send
 fìra        "küld"
@@ -36,19 +37,63 @@ fá ra       "hegy, csúcs"
 
 ru rá       "padló"
 
-# Wam and 3rd person paradigm
-fawà
-mù fawà
-mu fawà
-yi fawà
-na fawà
-rá fawà
+# Wam and 3rd person aor paradigm
+fawà "megyek"
+mu fawà "megy G1-G2"
+yi fawà "megy G3"
+mù fawà "megy G4"
+na fawà "megy G5"
+rá fawà "megy G6"
+
+# Wam and 3rd person  paradigm
+mu faúwà
+yi faúwà
+mù faúwà "éppen megy G4"
+na faúwà
+rá faúwà
+
+# Wam and 3rd person perf paradigm
+mu faàwà
+yi faàwà
+mù faàwà "elindul(t) G4"
+na faàwà
+rá faàwà
+
+
+# Wam and 3rd person  paradigm
+mu nàú
+yi nàú
+mù nàú "éppen gondolkodik G4"
+na nàú
+rá nàú
+
+mu nàà
+yi nàà
+mù nàà "rágondol G4"
+na nàà
+rá nàà
+
+fawàthú "haladóvá válik > "
+fawàthúa "megtetté válik > megtett (út)"
+fawàthu "utazgatóvá válik"
+
+nàthú "érzékeltté válik > érzékelt"
+nàthúa "észrevetté válik > észrevett"
+nàthu "észrevehető, érzékelhetővé válik "
+
+nathú "halottá válik válik > érzékelt"
+nathúa "megöltté válik > észrevett"
+nathu "halandóvá válik "
+
+
+muathúa "erőssé válik"
 
 ñusì        "te (desp.)"
 
 ñasá        "tűz"
 
 sía "öreg, régi, hatalmas"
+síathúa "öregszik, hatalmassá válik"
 
 # Intensive forms ara-
 araxu   "legfeljebb"

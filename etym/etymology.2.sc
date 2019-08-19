@@ -34,7 +34,8 @@ V//#r_y
 ù/ò/_…CO
 ú/ò/_À
 ù/àu/#(C)([Ciu])_#
-ù//m_C
+u//m_C
+ù/ü/m_C
 
 # f > fy still applies
 f/fy/V_Á

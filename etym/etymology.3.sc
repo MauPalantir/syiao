@@ -74,6 +74,22 @@ V//#CĂ_…CV
 # ÀI > AE
 Ay/Ae/#C_…CV
 
+
+# Loss of -thúa ending
+t/d/V…_úa#
+Ȧ/Á/_dúa_#
+À/Ȧ/_dúa_#
+úa/ü/V…d_#
+
+# Infixing continous aspect
+
+Aú/áo/_
+Eú/éo/_
+Iú/io/_
+Oú/óu/_
+Uú/û/_
+Yú/ýw/_
+
 # Final vowel loss in multi-syllabe words
 Ǝ//(C)V…C_#
 
@@ -82,6 +98,10 @@ S/Z/#CV((V)V)_#
 S/Z/À(V)_#
 
 n/nn/(C)V_#
+
+Á/Ȧ/_…C[íáúéóýîâûêôŷ]
+Ȧ/À/À…C_#
+À/Ȧ/_…C[ìàùèòỳǐǎǔěǒÿ]
 
 # Tones shifting towards the end (except diphtongs)
 
