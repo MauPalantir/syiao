@@ -22,9 +22,10 @@
   </teiHeader>
   <text xml:lang="hu">
     <body>
-      <entry>
+      <entry xml:id="Aineweo__prop__1">
         <form type="lemma">
           <orth>Ainǝwèo</orth>
+          <pron notation="ipa">ˌaiɜnəwˈeo1</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -45,9 +46,10 @@
           <gloss>Anubis isten (<lang>BR</lang> <mentioned>anafào</mentioned> &gt; <lang>MA</lang> <mentioned>anəwào</mentioned>) népetimológiája</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Dhuann__prop__2">
         <form type="lemma">
           <orth>Dhūann</orth>
+          <pron notation="ipa">ðˈuaːɜnn</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -67,9 +69,10 @@
           <mentioned>thu xan</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Ghuaneo__n__3">
         <form type="lemma">
           <orth>Ghuanèo</orth>
+          <pron notation="ipa">ɣuaɜnˈeo1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -88,9 +91,10 @@
           <mentioned>ghùa nèo</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Hia__prop__4">
         <form type="lemma">
           <orth>Hía</orth>
+          <pron notation="ipa">hi5ˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -110,9 +114,10 @@
           <mentioned>xí ya</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Hosyann__prop__5">
         <form type="lemma">
           <orth>Hôsyānn</orth>
+          <pron notation="ipa">hoː5çˈaːɜnn</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -132,9 +137,10 @@
           <mentioned>húo sán</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Liao_Nur__prop__6">
         <form type="lemma">
           <orth>Liào Nūr</orth>
+          <pron notation="ipa">ɬˈiao1 nˈuːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -145,9 +151,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="Mau__prop__7">
         <form type="lemma">
           <orth>Màu</orth>
+          <pron notation="ipa">mˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -168,9 +175,10 @@
           <gloss>&lt; wào màu „senki fia”</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Myala__prop__8">
         <form type="lemma">
           <orth>Myǎla</orth>
+          <pron notation="ipa">mːjjˈɑː1ɬə</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -190,9 +198,10 @@
           <mentioned>myào lā</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Nia_Syaanng_Myaol__prop__9">
         <form type="lemma">
           <orth>Nîa Syáanng Myāol</orth>
+          <pron notation="ipa">niː5ˈaɜ ça5ˈaɜŋŋm mjjˈaoːɜɬ</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -203,9 +212,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="Ninnhosyann__prop__10">
         <form type="lemma">
           <orth>Ninnhôsyānn</orth>
+          <pron notation="ipa">nˌiɜnnhoː5çˈaːɜnn</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -220,9 +230,10 @@
           <mentioned>nin xúo sán</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Nnhosyann__prop__11">
         <form type="lemma">
           <orth>Nnhôsyānn</orth>
+          <pron notation="ipa">n̩hoː5çˈaːɜnn</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -237,16 +248,17 @@
           <mentioned>nin xúo sán</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Nummu_Lyedhogh__prop__12">
         <form type="lemma">
           <orth>Nummu Lyədhôgh</orth>
+          <pron notation="ipa">nˈuɜmmuɜ lʲəðˈoː5ɣ</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
         </gramGrp>
         <sense>
           <cit type="translation" xml:lang="hu">
-            <quote>keselyű/varjú az oszlopon </quote>
+            <quote>keselyű/varjú az oszlopon</quote>
           </cit>
         </sense>
         <etym type="lemma">
@@ -254,9 +266,10 @@
           <mentioned>nummu lalā thôgh</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Ryamaeqh__prop__13">
         <form type="lemma">
           <orth>Ryamâeqh</orth>
+          <pron notation="ipa">rːjjaɜmˈaː5əχ</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -271,9 +284,10 @@
           <mentioned>ryá màiqhú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Therengghanu__prop__14">
         <form type="lemma">
           <orth>Thəréngghanû</orth>
+          <pron notation="ipa">θəʀˌe5ŋɣaɜnˈuː5</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -293,9 +307,10 @@
           <mentioned>thásáilixáiñganū</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="Umm_Rwaqhuy__epith__15">
         <form type="lemma">
           <orth>Umm Rwaqhǔy</orth>
+          <pron notation="ipa">ˈuɜmm ʀwaɜχˈuː1j</pron>
         </form>
         <gramGrp>
           <pos>epith</pos>
@@ -306,9 +321,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="Yhainogh__prop__16">
         <form type="lemma">
           <orth>Ẏhainǒgh</orth>
+          <pron notation="ipa">ˌɯɜhaiɜnˈɔː1ɣ</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -323,9 +339,10 @@
           <mentioned>xuhái nùqhu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ai__v__17">
         <form type="lemma">
           <orth>ái</orth>
+          <pron notation="ipa">ˈai5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -344,9 +361,10 @@
           <mentioned>ngá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="aigh__v__18">
         <form type="lemma">
           <orth>áigh</orth>
+          <pron notation="ipa">ˈai5ɣ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -366,9 +384,10 @@
           <mentioned>ñá ña</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ainn__adj__19">
         <form type="lemma">
           <orth>áinn</orth>
+          <pron notation="ipa">ˈai5nn</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -388,9 +407,10 @@
           <mentioned>ñá na</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ainn__n__20">
         <form type="lemma">
           <orth>âinn</orth>
+          <pron notation="ipa">ˈaiː5nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -410,9 +430,10 @@
           <mentioned>áinnə</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="aiyugh__adv__21">
         <form type="lemma">
           <orth>aiyùgh</orth>
+          <pron notation="ipa">aiɜjˈu1ɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -432,9 +453,10 @@
           <mentioned>ai yùñ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="alagh__adv__22">
         <form type="lemma">
           <orth>alàgh</orth>
+          <pron notation="ipa">aɜɬˈa1ɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -454,9 +476,10 @@
           <mentioned>alaxù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="amm__adv__23">
         <form type="lemma">
           <orth>amm</orth>
+          <pron notation="ipa">ˈaɜmm</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -473,9 +496,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="amyaqh__adv__24">
         <form type="lemma">
           <orth>amyāqh</orth>
+          <pron notation="ipa">aɜmʲˈaːɜχ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -490,9 +514,10 @@
           <mentioned>amyǎxa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ao__v__25">
         <form type="lemma">
           <orth>āo</orth>
+          <pron notation="ipa">ˈaoːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -508,9 +533,10 @@
           <gloss>harap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="aong__v__26">
         <form type="lemma">
           <orth>àong</orth>
+          <pron notation="ipa">ˈao1ŋ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -530,9 +556,10 @@
           <mentioned>ñàñ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="aong__adj__27">
         <form type="lemma">
           <orth>àong</orth>
+          <pron notation="ipa">ˈao1ŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -552,9 +579,10 @@
           <mentioned>ñàñ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="asyea__pref__28">
         <form type="lemma">
           <orth>asyéa</orth>
+          <pron notation="ipa">aɜçˈe5ə</pron>
         </form>
         <gramGrp>
           <pos>pref</pos>
@@ -574,9 +602,10 @@
           <mentioned>aśéa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="asyiqh__n__29">
         <form type="lemma">
           <orth>asyīqh</orth>
+          <pron notation="ipa">aɜçˈiːɜχ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -587,9 +616,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="awemmu__n__30">
         <form type="lemma">
           <orth>awəmmū</orth>
+          <pron notation="ipa">ˌaɜwəmmˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -609,9 +639,10 @@
           <mentioned>afàmū</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ay__n__31">
         <form type="lemma">
           <orth>ǎy</orth>
+          <pron notation="ipa">ˈɑː1j</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -631,9 +662,10 @@
           <mentioned>rá yò</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="aya__adj__32">
         <form type="lemma">
           <orth>āya</orth>
+          <pron notation="ipa">ˈaːɜjə</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -648,9 +680,10 @@
           <mentioned>YÍ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="azyemuth__n__33">
         <form type="lemma">
           <orth>āzyəmūth</orth>
+          <pron notation="ipa">ˌaːɜʝəmˈuːɜθ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -665,9 +698,10 @@
           <mentioned>SÍ MU THA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dha__v__34">
         <form type="lemma">
           <orth>dhǎ</orth>
+          <pron notation="ipa">ðˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -686,9 +720,10 @@
           <mentioned>thà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhau__v__35">
         <form type="lemma">
           <orth>dhàu</orth>
+          <pron notation="ipa">ðˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -708,9 +743,10 @@
           <gloss>&gt; az, ott, közel</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhei__adv__36">
         <form type="lemma">
           <orth>dhei</orth>
+          <pron notation="ipa">ðˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -725,9 +761,10 @@
           <mentioned>THÁ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhei__num__37">
         <form type="lemma">
           <orth>dhei</orth>
+          <pron notation="ipa">ðˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -743,9 +780,10 @@
           <gloss>orr</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhei__pron__38">
         <form type="lemma">
           <orth>dhei</orth>
+          <pron notation="ipa">ðˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -761,9 +799,10 @@
           <gloss>ott</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhei_ra__adv__39">
         <form type="lemma">
           <orth>dhéi rā</orth>
+          <pron notation="ipa">ðˈeiɜ ʀˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -779,9 +818,10 @@
           <gloss>orr + ugrik</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhei_syieng__pron__40">
         <form type="lemma">
           <orth>dhei syiéng</orth>
+          <pron notation="ipa">ðˈeiɜ çˈie5ŋ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -797,9 +837,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="dhu__n__41">
         <form type="lemma">
           <orth>dhū</orth>
+          <pron notation="ipa">ðˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -818,9 +859,10 @@
           <mentioned>thu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhunn__n__42">
         <form type="lemma">
           <orth>dhunn</orth>
+          <pron notation="ipa">ðˈuɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -840,9 +882,10 @@
           <mentioned>thun</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhuo__n__43">
         <form type="lemma">
           <orth>dhúo</orth>
+          <pron notation="ipa">ðˈuo5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -861,9 +904,10 @@
           <mentioned>thú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhogh__n__44">
         <form type="lemma">
           <orth>dhôgh</orth>
+          <pron notation="ipa">ðˈoː5ɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -883,9 +927,10 @@
           <mentioned>thuxú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhy__pron__45">
         <form type="lemma">
           <orth>dhy̌</orth>
+          <pron notation="ipa">ðˈɯ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -904,9 +949,10 @@
           <mentioned>thì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhe_syer__num__46">
         <form type="lemma">
           <orth>dhǝ syer</orth>
+          <pron notation="ipa">ðˈɛɜ çˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -922,9 +968,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="dhe_syer_thesyer__adv__47">
         <form type="lemma">
           <orth>dhǝ syer thǝsyer</orth>
+          <pron notation="ipa">ðˈɛɜ çˈɛɜʀ θəçˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -935,9 +982,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="ei__adv__48">
         <form type="lemma">
           <orth>éi</orth>
+          <pron notation="ipa">ˈei5</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -957,9 +1005,10 @@
           <mentioned>yái</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="emegh__adj__49">
         <form type="lemma">
           <orth>emégh</orth>
+          <pron notation="ipa">ɛɜmˈe5ɣ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -978,9 +1027,10 @@
           <mentioned>ñímíñ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="emegh__v__50">
         <form type="lemma">
           <orth>emégh</orth>
+          <pron notation="ipa">ɛɜmˈe5ɣ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -999,9 +1049,10 @@
           <mentioned>ñímíñ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ey__n__51">
         <form type="lemma">
           <orth>êy</orth>
+          <pron notation="ipa">ˈeː5j</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1021,9 +1072,10 @@
           <mentioned>yái</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fa__n__52">
         <form type="lemma">
           <orth>fā</orth>
+          <pron notation="ipa">ɸˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1042,9 +1094,10 @@
           <mentioned>fa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fa__v__53">
         <form type="lemma">
           <orth>fā</orth>
+          <pron notation="ipa">ɸˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1063,9 +1116,10 @@
           <mentioned>fa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fadh__n__54">
         <form type="lemma">
           <orth>fadh</orth>
+          <pron notation="ipa">ɸˈaɜð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1074,8 +1128,10 @@
           <cit type="translation" xml:lang="hu">
             <quote>fordulat, visszavágás, csapás</quote>
           </cit>
+        </sense>
+        <sense>
           <cit type="translation" xml:lang="hu">
-            <quote> érv</quote>
+            <quote>érv</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -1088,9 +1144,10 @@
           <mentioned>faa ta</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fafa__v__55">
         <form type="lemma">
           <orth>fāfa</orth>
+          <pron notation="ipa">ɸˈaːɜɸə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1101,9 +1158,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="fann__n__56">
         <form type="lemma">
           <orth>fānn</orth>
+          <pron notation="ipa">ɸˈaːɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1122,9 +1180,10 @@
           <mentioned>fan</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="far__n__57">
         <form type="lemma">
           <orth>far</orth>
+          <pron notation="ipa">ɸˈaɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1144,9 +1203,10 @@
           <mentioned>faa ra</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fay__v__58">
         <form type="lemma">
           <orth>fáy</orth>
+          <pron notation="ipa">ɸˈa5j</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1166,9 +1226,10 @@
           <mentioned>fa yí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fea__n__59">
         <form type="lemma">
           <orth>féa</orth>
+          <pron notation="ipa">ɸˈe5ə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1187,9 +1248,10 @@
           <mentioned>fía</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fei__adj__60">
         <form type="lemma">
           <orth>fei</orth>
+          <pron notation="ipa">ɸˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -1208,9 +1270,10 @@
           <mentioned>fii</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="feya__adj__61">
         <form type="lemma">
           <orth>féya</orth>
+          <pron notation="ipa">ɸˈe5jə</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -1229,9 +1292,10 @@
           <mentioned>fíia</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="feilir__n__62">
         <form type="lemma">
           <orth>feilīr</orth>
+          <pron notation="ipa">ɸeiɜɬˈiːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1251,9 +1315,10 @@
           <mentioned>fei līr</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fer__n__63">
         <form type="lemma">
           <orth>fér</orth>
+          <pron notation="ipa">ɸˈe5ʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1273,9 +1338,10 @@
           <mentioned>fyiirá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fi__n__64">
         <form type="lemma">
           <orth>fǐ</orth>
+          <pron notation="ipa">ɸˈiː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1291,9 +1357,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="fi__v__65">
         <form type="lemma">
           <orth>fǐ</orth>
+          <pron notation="ipa">ɸˈiː1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1309,9 +1376,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="fidh__prep__66">
         <form type="lemma">
           <orth>fidh</orth>
+          <pron notation="ipa">ɸˈiɜð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -1327,9 +1395,10 @@
           <gloss>szőr</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyiimmu__n__67">
         <form type="lemma">
           <orth>fyiimmū</orth>
+          <pron notation="ipa">ɸʲiɜmmˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1349,9 +1418,10 @@
           <mentioned>fyiéa mu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="finn__n__68">
         <form type="lemma">
           <orth>fǐnn</orth>
+          <pron notation="ipa">ɸˈiː1nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1370,9 +1440,10 @@
           <mentioned>fìn</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fir__v__69">
         <form type="lemma">
           <orth>fīr</orth>
+          <pron notation="ipa">ɸˈiːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1392,9 +1463,10 @@
           <mentioned>fìra</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fisya__adj__70">
         <form type="lemma">
           <orth>fisya</orth>
+          <pron notation="ipa">ɸˈiɜçə</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -1411,9 +1483,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="fiyagh__adv__71">
         <form type="lemma">
           <orth>fiyāgh</orth>
+          <pron notation="ipa">ɸiɜjˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -1428,9 +1501,10 @@
           <mentioned>FÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fieh__n__72">
         <form type="lemma">
           <orth>fiəh</orth>
+          <pron notation="ipa">ɸʲˈəh</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1450,9 +1524,10 @@
           <mentioned>fyìi sa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fiennaqh__n__73">
         <form type="lemma">
           <orth>fiənnaqh</orth>
+          <pron notation="ipa">ɸʲˈənnaɜχ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1472,9 +1547,10 @@
           <mentioned>fìenaxa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="foa__n__74">
         <form type="lemma">
           <orth>foa</orth>
+          <pron notation="ipa">ɸˈoəɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1493,9 +1569,10 @@
           <mentioned>faa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="foa__v__75">
         <form type="lemma">
           <orth>foa</orth>
+          <pron notation="ipa">ɸˈoəɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1515,9 +1592,10 @@
           <mentioned>faa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="foanna__n__76">
         <form type="lemma">
           <orth>foannà</orth>
+          <pron notation="ipa">ɸˈoəɜnna1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1528,9 +1606,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="fuoa__n__77">
         <form type="lemma">
           <orth>fuoa</orth>
+          <pron notation="ipa">ɸwˈoəɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1550,9 +1629,10 @@
           <mentioned>fafaa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fy__n__78">
         <form type="lemma">
           <orth>fȳ</orth>
+          <pron notation="ipa">ɸˈɯːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1571,9 +1651,10 @@
           <mentioned>fu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyair__adj__79">
         <form type="lemma">
           <orth>fyair</orth>
+          <pron notation="ipa">ɸʲˈaiɜʀ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -1593,9 +1674,10 @@
           <mentioned>fá ra</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyair__n__80">
         <form type="lemma">
           <orth>fyair</orth>
+          <pron notation="ipa">ɸʲˈaiɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1615,9 +1697,10 @@
           <mentioned>fá ra</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fye__n__81">
         <form type="lemma">
           <orth>fyê</orth>
+          <pron notation="ipa">ɸʲˈeː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1636,9 +1719,10 @@
           <mentioned>fí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyegh__n__82">
         <form type="lemma">
           <orth>fyegh</orth>
+          <pron notation="ipa">ɸʲˈɛɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1654,9 +1738,10 @@
           <gloss>szőr</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyi__n__83">
         <form type="lemma">
           <orth>fyī</orth>
+          <pron notation="ipa">ɸʲˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1675,9 +1760,10 @@
           <mentioned>fi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyifyi__adj__84">
         <form type="lemma">
           <orth>fyifyi</orth>
+          <pron notation="ipa">ɸʲˈiɜɸʲɪ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -1693,9 +1779,10 @@
           <gloss>szőr szőr</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyizyu__n__85">
         <form type="lemma">
           <orth>fyizyu</orth>
+          <pron notation="ipa">ɸʲˈiɜʝʊ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1712,9 +1799,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="fyoum__v__86">
         <form type="lemma">
           <orth>fyoum</orth>
+          <pron notation="ipa">ɸʲoˈuɜm</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1731,9 +1819,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="fyy__v__87">
         <form type="lemma">
           <orth>fyy̌</orth>
+          <pron notation="ipa">ɸj</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1752,9 +1841,10 @@
           <mentioned>fì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyye__prep__88">
         <form type="lemma">
           <orth>fẏyə</orth>
+          <pron notation="ipa">ɸˈɯɜjə</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -1770,9 +1860,10 @@
           <gloss>akar</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyye_qhe__conj__89">
         <form type="lemma">
           <orth>fẏyə qhē</orth>
+          <pron notation="ipa">ɸˈɯɜjə χˈeːɜ</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -1788,9 +1879,10 @@
           <gloss>mert az</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyi__prep__90">
         <form type="lemma">
           <orth>fyı</orth>
+          <pron notation="ipa">ɸʲˈɪ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -1806,9 +1898,10 @@
           <gloss>szőr</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyemwera__n__91">
         <form type="lemma">
           <orth>fyəmwərâ</orth>
+          <pron notation="ipa">ɸʲəmwəʀˈaː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1828,9 +1921,10 @@
           <gloss>puha fekhely antróp szőr</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fyerua__n__92">
         <form type="lemma">
           <orth>fyərúa</orth>
+          <pron notation="ipa">ɸʲəʀˈua5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1850,9 +1944,10 @@
           <mentioned>fyé rúa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="fiwai__n__93">
         <form type="lemma">
           <orth>fıwaí</orth>
+          <pron notation="ipa">ɸɪwaɜˈi5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1869,9 +1964,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ghao__v__94">
         <form type="lemma">
           <orth>ghào</orth>
+          <pron notation="ipa">ɣˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1890,9 +1986,10 @@
           <mentioned>ngà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghadh__prep__95">
         <form type="lemma">
           <orth>ghadh</orth>
+          <pron notation="ipa">ɣˈaɜð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -1908,9 +2005,10 @@
           <gloss>hát</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghainya__adj__96">
         <form type="lemma">
           <orth>ghainyā</orth>
+          <pron notation="ipa">ɣaiɜɲˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -1926,9 +2024,10 @@
           <gloss>vadászik &gt; éhes</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghanao__v__97">
         <form type="lemma">
           <orth>ghanào</orth>
+          <pron notation="ipa">ɣaɜnˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1948,9 +2047,10 @@
           <mentioned>gàù nào</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghann__n__98">
         <form type="lemma">
           <orth>ghānn</orth>
+          <pron notation="ipa">ɣˈaːɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -1969,9 +2069,10 @@
           <mentioned>ngan</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghao__pron__99">
         <form type="lemma">
           <orth>ghào</orth>
+          <pron notation="ipa">ɣˈao1</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -1990,9 +2091,10 @@
           <mentioned>xà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghao_fye__pron__100">
         <form type="lemma">
           <orth>ghào fye</orth>
+          <pron notation="ipa">ɣˈao1 ɸʲˈɛɜ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -2008,9 +2110,10 @@
           <gloss>akar</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghaqh__pron__101">
         <form type="lemma">
           <orth>ghā̀qh</orth>
+          <pron notation="ipa">ɣˈaɜχ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -2025,9 +2128,10 @@
           <mentioned>QHÀ QHÙ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghar__n__102">
         <form type="lemma">
           <orth>ghar</orth>
+          <pron notation="ipa">ɣˈaɜr</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2047,9 +2151,10 @@
           <mentioned>gà la</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghar__v__103">
         <form type="lemma">
           <orth>ghar</orth>
+          <pron notation="ipa">ɣˈaɜr</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2069,9 +2174,10 @@
           <mentioned>gà la</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghah__n__104">
         <form type="lemma">
           <orth>gháh</orth>
+          <pron notation="ipa">ɣˈa5h</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2091,9 +2197,10 @@
           <mentioned>ñasá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghasya__v__105">
         <form type="lemma">
           <orth>ghasya</orth>
+          <pron notation="ipa">ɣˈaɜçə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2109,9 +2216,10 @@
           <gloss>harap bánt</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghasye__n__106">
         <form type="lemma">
           <orth>ghasye</orth>
+          <pron notation="ipa">ɣˈaɜçə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2131,9 +2239,10 @@
           <mentioned>ngasyá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghau__n__107">
         <form type="lemma">
           <orth>ghàu</orth>
+          <pron notation="ipa">ɣˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2153,9 +2262,10 @@
           <mentioned>xù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghaum__v__108">
         <form type="lemma">
           <orth>ghaum</orth>
+          <pron notation="ipa">ɣˈɑuɜm</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2171,9 +2281,10 @@
           <gloss>nyom</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghaya__adj__109">
         <form type="lemma">
           <orth>ghaẏa</orth>
+          <pron notation="ipa">ɣˌaɜɯɜˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -2189,9 +2300,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="gheir__v__110">
         <form type="lemma">
           <orth>gheir</orth>
+          <pron notation="ipa">ɣˈeiɜr</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2202,9 +2314,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="ghenn__conj__111">
         <form type="lemma">
           <orth>ghenn</orth>
+          <pron notation="ipa">ɣˈɛɜnn</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -2215,9 +2328,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="ghi__n__112">
         <form type="lemma">
           <orth>ghī</orth>
+          <pron notation="ipa">ɣˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2236,9 +2350,10 @@
           <mentioned>ngi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghia__n__113">
         <form type="lemma">
           <orth>ghia</orth>
+          <pron notation="ipa">ɣʲˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2254,9 +2369,10 @@
           <gloss>kör</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghir__v__114">
         <form type="lemma">
           <orth>ghīr</orth>
+          <pron notation="ipa">ɣˈiːɜr</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2275,9 +2391,10 @@
           <mentioned>ñira</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghierei__n__115">
         <form type="lemma">
           <orth>ghiərēi</orth>
+          <pron notation="ipa">ɣʲəɹˈeːɜj</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2297,9 +2414,10 @@
           <mentioned>ghiər rēi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghonao__v__116">
         <form type="lemma">
           <orth>ghonao</orth>
+          <pron notation="ipa">ɣoɜnˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2315,9 +2433,10 @@
           <gloss>nyom észrevesz</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghosya__n__117">
         <form type="lemma">
           <orth>ghosyá</orth>
+          <pron notation="ipa">ɣoɜçˈa5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2333,9 +2452,10 @@
           <gloss>nyom nap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghou_wao__v__118">
         <form type="lemma">
           <orth>ghòu wao</orth>
+          <pron notation="ipa">ɣoˈu1 wˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2350,9 +2470,10 @@
           <mentioned>QHÙ WÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghu__n__119">
         <form type="lemma">
           <orth>ghū</orth>
+          <pron notation="ipa">ɣˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2371,9 +2492,10 @@
           <mentioned>ngu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghunn__n__120">
         <form type="lemma">
           <orth>ghǔnn</orth>
+          <pron notation="ipa">ɣˈuː1nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2392,9 +2514,10 @@
           <mentioned>xùn</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhu__n__121">
         <form type="lemma">
           <orth>qhǔ</orth>
+          <pron notation="ipa">χˈuː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2414,9 +2537,10 @@
           <mentioned>xùu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghur__adj__122">
         <form type="lemma">
           <orth>ghūr</orth>
+          <pron notation="ipa">ɣˈuːɜr</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -2432,9 +2556,10 @@
           <gloss>egér</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghy__v__123">
         <form type="lemma">
           <orth>ghy̌</orth>
+          <pron notation="ipa">ɣˈɯ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2453,9 +2578,10 @@
           <mentioned>xì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghoh__pron__124">
         <form type="lemma">
           <orth>ghòh</orth>
+          <pron notation="ipa">ɣˈɔ1h</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -2475,9 +2601,10 @@
           <mentioned>ñusì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngia__adj__125">
         <form type="lemma">
           <orth>ngìa</orth>
+          <pron notation="ipa">ŋi1ˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -2497,9 +2624,10 @@
           <mentioned>ngìa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hai__n__126">
         <form type="lemma">
           <orth>hái</orth>
+          <pron notation="ipa">hˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2518,9 +2646,10 @@
           <mentioned>xá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hanghann__n__127">
         <form type="lemma">
           <orth>hánghann</orth>
+          <pron notation="ipa">hˈa5ŋɣaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2540,9 +2669,10 @@
           <mentioned>xáin gan</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hann__n__128">
         <form type="lemma">
           <orth>hânn</orth>
+          <pron notation="ipa">hˈaː5nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2561,9 +2691,10 @@
           <mentioned>xán</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hasya__n__129">
         <form type="lemma">
           <orth>hasya</orth>
+          <pron notation="ipa">hˈaɜçə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2578,9 +2709,10 @@
           <mentioned>SA SA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hasyei__n__130">
         <form type="lemma">
           <orth>hasyéi</orth>
+          <pron notation="ipa">haɜçˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2596,9 +2728,10 @@
           <gloss>nappal nappal</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="he__pron__131">
         <form type="lemma">
           <orth>hê</orth>
+          <pron notation="ipa">hˈeː5</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -2617,9 +2750,10 @@
           <mentioned>xí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="headh__prep__132">
         <form type="lemma">
           <orth>headh</orth>
+          <pron notation="ipa">hˈeɜəð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -2635,9 +2769,10 @@
           <gloss>fej</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hisyo__n__133">
         <form type="lemma">
           <orth>hisyo</orth>
+          <pron notation="ipa">hˈiɜçɔ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2652,9 +2787,10 @@
           <mentioned>SI SU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hizya__v__134">
         <form type="lemma">
           <orth>hizya</orth>
+          <pron notation="ipa">hˈiɜʝə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2670,9 +2806,10 @@
           <gloss>fut</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hoadh__prep__135">
         <form type="lemma">
           <orth>hoadh</orth>
+          <pron notation="ipa">hˈoəɜð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -2689,9 +2826,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="hua__prep__136">
         <form type="lemma">
           <orth>hua</orth>
+          <pron notation="ipa">hˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -2706,9 +2844,10 @@
           <mentioned>QHÙ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="huann__n__137">
         <form type="lemma">
           <orth>huann</orth>
+          <pron notation="ipa">hˈuaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2728,9 +2867,10 @@
           <mentioned>qhua na</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="huann_gha__v__138">
         <form type="lemma">
           <orth>huann ghā</orth>
+          <pron notation="ipa">hˈuaɜnn ɣˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2746,9 +2886,10 @@
           <gloss>egér öl</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hudh__n__139">
         <form type="lemma">
           <orth>hûdh</orth>
+          <pron notation="ipa">hˈuː5ð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2768,9 +2909,10 @@
           <mentioned>xúthá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="hui__num__140">
         <form type="lemma">
           <orth>hui</orth>
+          <pron notation="ipa">hˈui</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -2781,9 +2923,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="huigh__adj__141">
         <form type="lemma">
           <orth>huígh</orth>
+          <pron notation="ipa">hˈuiɣ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -2798,9 +2941,10 @@
           <mentioned>QHÚ QHÚ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="huinadh__n__142">
         <form type="lemma">
           <orth>huinádh</orth>
+          <pron notation="ipa">huinˈa5ð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2816,9 +2960,10 @@
           <gloss>hosszú nyak</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="huinadhe_osyy__n__143">
         <form type="lemma">
           <orth>huinádhə osyy̌</orth>
+          <pron notation="ipa">huinˈa5ðə ˈoɜçɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2829,9 +2974,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="huinadhe_rya__n__144">
         <form type="lemma">
           <orth>huinadhə rya</orth>
+          <pron notation="ipa">huinˈaɜðər rjjˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2842,9 +2988,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="huio__n__145">
         <form type="lemma">
           <orth>huiō</orth>
+          <pron notation="ipa">hˈuioːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2864,9 +3011,10 @@
           <mentioned>qhú yò</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="huio_fayang__n__146">
         <form type="lemma">
           <orth>huio fayáng</orth>
+          <pron notation="ipa">hˈuiɔ ɸaɜjˈa5ŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2878,9 +3026,10 @@
         </sense>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="huo__n__147">
         <form type="lemma">
           <orth>húo</orth>
+          <pron notation="ipa">hˈuo5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2899,9 +3048,10 @@
           <mentioned>xú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="huao__n__148">
         <form type="lemma">
           <orth>huào</orth>
+          <pron notation="ipa">hwˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -2921,9 +3071,10 @@
           <mentioned>xúà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="highao__v__149">
         <form type="lemma">
           <orth>hıghào</orth>
+          <pron notation="ipa">hɪɣˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2943,9 +3094,10 @@
           <mentioned>xi gà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="idhuao__v__150">
         <form type="lemma">
           <orth>idhuao</orth>
+          <pron notation="ipa">iɜðwˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2960,9 +3112,10 @@
           <mentioned>THÚ WÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="iyi_zyer__expr__151">
         <form type="lemma">
           <orth>iyi zyer</orth>
+          <pron notation="ipa">ˈiɜjɪ ʝˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>expr</pos>
@@ -2974,9 +3127,10 @@
         </sense>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="iyiadh__adv__152">
         <form type="lemma">
           <orth>iyiadh</orth>
+          <pron notation="ipa">ˌiɜjɪˈaɜð</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -2987,9 +3141,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="yiu__adj__153">
         <form type="lemma">
           <orth>yìu</orth>
+          <pron notation="ipa">jˈi1ʊ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3009,9 +3164,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="la__v__154">
         <form type="lemma">
           <orth>lā</orth>
+          <pron notation="ipa">ɬˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3032,9 +3188,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="la__adj__155">
         <form type="lemma">
           <orth>lā</orth>
+          <pron notation="ipa">ɬˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3055,9 +3212,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="la__v__156">
         <form type="lemma">
           <orth>lā</orth>
+          <pron notation="ipa">ɬˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3077,9 +3235,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lanao__v__157">
         <form type="lemma">
           <orth>lānào</orth>
+          <pron notation="ipa">ɬaːɜnˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3099,9 +3258,10 @@
           <mentioned>la nào</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="liao__adj__158">
         <form type="lemma">
           <orth>liào</orth>
+          <pron notation="ipa">ɬˈiao1</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3121,9 +3281,10 @@
           <mentioned>rià</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="liao__n__159">
         <form type="lemma">
           <orth>liào</orth>
+          <pron notation="ipa">ɬˈiao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3143,9 +3304,10 @@
           <mentioned>rià</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="liao__adj__160">
         <form type="lemma">
           <orth>liào</orth>
+          <pron notation="ipa">ɬˈiao1</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3165,9 +3327,10 @@
           <mentioned>rià</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lilya__n__161">
         <form type="lemma">
           <orth>lilyà</orth>
+          <pron notation="ipa">ɬiɜlʲˈa1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3184,9 +3347,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="limuth__n__162">
         <form type="lemma">
           <orth>limūth</orth>
+          <pron notation="ipa">ɬiɜmˈuːɜθ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3201,9 +3365,10 @@
           <mentioned>RI MU THA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="linn__n__163">
         <form type="lemma">
           <orth>līnn</orth>
+          <pron notation="ipa">ɬˈiːɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3222,9 +3387,10 @@
           <mentioned>rin</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="linye__n__164">
         <form type="lemma">
           <orth>linyê</orth>
+          <pron notation="ipa">ɬiɜɲˈeː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3244,9 +3410,10 @@
           <mentioned>li nyê</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lir__n__165">
         <form type="lemma">
           <orth>līr</orth>
+          <pron notation="ipa">ɬˈiːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3265,9 +3432,10 @@
           <gloss>&lt; syılīr</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lua__v__166">
         <form type="lemma">
           <orth>lua</orth>
+          <pron notation="ipa">ɬˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3286,9 +3454,10 @@
           <mentioned>rua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lung__adj__167">
         <form type="lemma">
           <orth>lūng</orth>
+          <pron notation="ipa">ɬˈuːɜŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3307,9 +3476,10 @@
           <mentioned>rung</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lunn__adj__168">
         <form type="lemma">
           <orth>lūnn</orth>
+          <pron notation="ipa">ɬˈuːɜnn</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3329,9 +3499,10 @@
           <mentioned>run</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="luy__adj__169">
         <form type="lemma">
           <orth>lūy</orth>
+          <pron notation="ipa">ɬˈuːɜj</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3350,9 +3521,10 @@
           <mentioned>ruia</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lwadh__prep__170">
         <form type="lemma">
           <orth>lwadh</orth>
+          <pron notation="ipa">l̩l̩wˈaɜð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -3368,9 +3540,10 @@
           <gloss>mély</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lwaruo__adv__171">
         <form type="lemma">
           <orth>lwaruo</orth>
+          <pron notation="ipa">l̩l̩wəʀˈuoɜ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -3385,9 +3558,10 @@
           <mentioned>RU RÚ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lwoye__n__172">
         <form type="lemma">
           <orth>lwoyə</orth>
+          <pron notation="ipa">l̩l̩wɔjˈə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3407,9 +3581,10 @@
           <mentioned>luwíi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lya__prep__173">
         <form type="lemma">
           <orth>lya</orth>
+          <pron notation="ipa">lʲˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -3424,9 +3599,10 @@
           <mentioned>RA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="rya__adj__174">
         <form type="lemma">
           <orth>ryâ</orth>
+          <pron notation="ipa">rːjjˈaː5</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3446,9 +3622,10 @@
           <mentioned>ráyá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lya__adj__175">
         <form type="lemma">
           <orth>lya</orth>
+          <pron notation="ipa">lʲˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3465,9 +3642,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="lya__v__176">
         <form type="lemma">
           <orth>lyā</orth>
+          <pron notation="ipa">lʲˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3486,9 +3664,10 @@
           <mentioned>lalā</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lya__adj__177">
         <form type="lemma">
           <orth>lyā</orth>
+          <pron notation="ipa">lʲˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3508,9 +3687,10 @@
           <mentioned>lalā</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lyadh__prep__178">
         <form type="lemma">
           <orth>lyadh</orth>
+          <pron notation="ipa">lʲˈaɜð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -3527,9 +3707,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="lyei__n__179">
         <form type="lemma">
           <orth>lyéi</orth>
+          <pron notation="ipa">lʲˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3545,9 +3726,10 @@
           <gloss>nap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lygh__n__180">
         <form type="lemma">
           <orth>ly̌gh</orth>
+          <pron notation="ipa">lɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3565,9 +3747,10 @@
           <gloss>$ tone change onomatopoeic</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lyrai__n__181">
         <form type="lemma">
           <orth>lẏrái</orth>
+          <pron notation="ipa">ɬɯɜʀˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3587,9 +3770,10 @@
           <mentioned>ru rá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lyrai__n__182">
         <form type="lemma">
           <orth>lẏrái</orth>
+          <pron notation="ipa">ɬɯɜʀˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3608,9 +3792,10 @@
           <mentioned>ru rá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ma__n__183">
         <form type="lemma">
           <orth>mā</orth>
+          <pron notation="ipa">mˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3629,9 +3814,10 @@
           <mentioned>wa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ma__n__184">
         <form type="lemma">
           <orth>mā</orth>
+          <pron notation="ipa">mˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3647,9 +3833,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ma__adj__185">
         <form type="lemma">
           <orth>mǎ</orth>
+          <pron notation="ipa">mˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3665,9 +3852,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="mae__prep__186">
         <form type="lemma">
           <orth>mae</orth>
+          <pron notation="ipa">mˈaɜə</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -3683,9 +3871,10 @@
           <gloss>család, társaság</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mae__adj__187">
         <form type="lemma">
           <orth>maè</orth>
+          <pron notation="ipa">maɜˈɛ1</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3701,9 +3890,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="maedh__n__188">
         <form type="lemma">
           <orth>maedh</orth>
+          <pron notation="ipa">mˈaɜəð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3718,9 +3908,10 @@
           <mentioned>MÁ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="magh__adv__189">
         <form type="lemma">
           <orth>mǎgh</orth>
+          <pron notation="ipa">mˈɑː1ɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -3735,9 +3926,10 @@
           <mentioned>MÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mai__v__190">
         <form type="lemma">
           <orth>mái</orth>
+          <pron notation="ipa">mˈai5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3756,9 +3948,10 @@
           <mentioned>wá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mai__n__191">
         <form type="lemma">
           <orth>mái</orth>
+          <pron notation="ipa">mˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3777,9 +3970,10 @@
           <mentioned>wá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mai__n__192">
         <form type="lemma">
           <orth>mái</orth>
+          <pron notation="ipa">mˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3798,9 +3992,10 @@
           <mentioned>má</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mamao__adv__193">
         <form type="lemma">
           <orth>màmao</orth>
+          <pron notation="ipa">ma1mˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -3816,9 +4011,10 @@
           <gloss>megy megy</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mao__v__194">
         <form type="lemma">
           <orth>mào</orth>
+          <pron notation="ipa">mˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3837,9 +4033,10 @@
           <mentioned>wà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mao___adj__195">
         <form type="lemma">
           <orth>māo </orth>
+          <pron notation="ipa">mˈaoːɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3854,9 +4051,10 @@
           <mentioned>MÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mara__v__196">
         <form type="lemma">
           <orth>marā</orth>
+          <pron notation="ipa">maɜʀˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3872,9 +4070,10 @@
           <gloss>mancs ugrik</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="maregh__n__197">
         <form type="lemma">
           <orth>marəgh</orth>
+          <pron notation="ipa">mˈaɜʀəɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3890,9 +4089,10 @@
           <gloss>&lt;&gt; per. morgh?</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mau__n__198">
         <form type="lemma">
           <orth>màu</orth>
+          <pron notation="ipa">mˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3911,9 +4111,10 @@
           <mentioned>mù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mayao__n__199">
         <form type="lemma">
           <orth>mayào</orth>
+          <pron notation="ipa">maɜjˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3933,9 +4134,10 @@
           <mentioned>màu yào</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="me__adj__200">
         <form type="lemma">
           <orth>mê</orth>
+          <pron notation="ipa">mˈeː5</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -3951,9 +4153,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="meath__n__201">
         <form type="lemma">
           <orth>mēath</orth>
+          <pron notation="ipa">mˈeːɜəθ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3973,9 +4176,10 @@
           <mentioned>máa tu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mei__n__202">
         <form type="lemma">
           <orth>méi</orth>
+          <pron notation="ipa">mˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3995,9 +4199,10 @@
           <mentioned>míi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="meinna__n__203">
         <form type="lemma">
           <orth>meinnà</orth>
+          <pron notation="ipa">mˈeiɜnna1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4008,9 +4213,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="meo__n__204">
         <form type="lemma">
           <orth>mèo</orth>
+          <pron notation="ipa">mˈeo1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4029,9 +4235,10 @@
           <mentioned>màu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mfyeam__n__205">
         <form type="lemma">
           <orth>mfyeàm</orth>
+          <pron notation="ipa">mɸʲɛɜˈa1m</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4050,9 +4257,10 @@
           <mentioned>fìefàm</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mi__conj__206">
         <form type="lemma">
           <orth>mì</orth>
+          <pron notation="ipa">mˈi1</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -4063,9 +4271,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="mi__n__207">
         <form type="lemma">
           <orth>mī</orth>
+          <pron notation="ipa">mˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4084,9 +4293,10 @@
           <mentioned>wi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mia__adj__208">
         <form type="lemma">
           <orth>mìa</orth>
+          <pron notation="ipa">mi1ˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -4106,9 +4316,10 @@
           <mentioned>mìa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="miedh__prep__209">
         <form type="lemma">
           <orth>miedh</orth>
+          <pron notation="ipa">mˈieð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -4124,9 +4335,10 @@
           <gloss>emlő, has</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mih__n__210">
         <form type="lemma">
           <orth>mih</orth>
+          <pron notation="ipa">mˈiɜh</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4145,9 +4357,10 @@
           <mentioned>wi éa su</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="misy__adj__211">
         <form type="lemma">
           <orth>mīsy</orth>
+          <pron notation="ipa">mˈiːɜç</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -4163,9 +4376,10 @@
           <gloss>jóllakott, jó</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mo__v__212">
         <form type="lemma">
           <orth>mô</orth>
+          <pron notation="ipa">mˈoː5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4184,9 +4398,10 @@
           <mentioned>mú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="moi__v__213">
         <form type="lemma">
           <orth>moi</orth>
+          <pron notation="ipa">mˈoɜj</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4202,9 +4417,10 @@
           <gloss>hal</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mou__n__214">
         <form type="lemma">
           <orth>móu</orth>
+          <pron notation="ipa">moˈuː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4223,9 +4439,10 @@
           <mentioned>múu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="msyie__n__215">
         <form type="lemma">
           <orth>msyie</orth>
+          <pron notation="ipa">mçˈie</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4240,9 +4457,10 @@
           <mentioned>MU SÍ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mu__n__216">
         <form type="lemma">
           <orth>mū</orth>
+          <pron notation="ipa">mˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4261,9 +4479,10 @@
           <mentioned>mu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="muadh__adj__217">
         <form type="lemma">
           <orth>muadh</orth>
+          <pron notation="ipa">mˈuaɜð</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -4278,9 +4497,10 @@
           <mentioned>MU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mudh__n__218">
         <form type="lemma">
           <orth>mūdh</orth>
+          <pron notation="ipa">mˈuːɜð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4300,9 +4520,10 @@
           <mentioned>mu tha</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mui__n__219">
         <form type="lemma">
           <orth>mui</orth>
+          <pron notation="ipa">mˈui</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4321,9 +4542,10 @@
           <mentioned>mui</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="muo_zyyra__n__220">
         <form type="lemma">
           <orth>muó zyỳra</orth>
+          <pron notation="ipa">muɜˈo5 ʝˈɯ1ʀə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4340,9 +4562,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="musya__v__221">
         <form type="lemma">
           <orth>mūsya</orth>
+          <pron notation="ipa">mˈuːɜçə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4358,9 +4581,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="mwe__n__222">
         <form type="lemma">
           <orth>mwē</orth>
+          <pron notation="ipa">mwˈeːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4375,9 +4599,10 @@
           <mentioned>MU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mweho__n__223">
         <form type="lemma">
           <orth>mwēho</orth>
+          <pron notation="ipa">mwˈeːɜhoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4397,9 +4622,10 @@
           <mentioned>muéa qhū</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mwezyiao__n__224">
         <form type="lemma">
           <orth>mwezyiào</orth>
+          <pron notation="ipa">mwɛɜʝˈiaoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4415,9 +4641,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="mwezyiao__n__225">
         <form type="lemma">
           <orth>mwezyiào</orth>
+          <pron notation="ipa">mwɛɜʝˈiaoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4433,9 +4660,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="mwie__adj__226">
         <form type="lemma">
           <orth>mwie</orth>
+          <pron notation="ipa">mwˈie</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -4450,9 +4678,10 @@
           <mentioned>WÁ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mwio__n__227">
         <form type="lemma">
           <orth>mwiō</orth>
+          <pron notation="ipa">mwˈiɜoːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4471,9 +4700,10 @@
           <mentioned>mu yó</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mwo__n__228">
         <form type="lemma">
           <orth>mwó</orth>
+          <pron notation="ipa">mwˈoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4489,9 +4719,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="mwosye_qhiqhanng__n__229">
         <form type="lemma">
           <orth>mwosyə qhīqhanng</orth>
+          <pron notation="ipa">mwˈoɜçə χˈiːɜχaɜŋŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4502,9 +4733,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="mwy_nogh__n__230">
         <form type="lemma">
           <orth>mwẏ nōgh</orth>
+          <pron notation="ipa">mwˈɯ nˈoːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4520,9 +4752,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="my__n__231">
         <form type="lemma">
           <orth>my̌</orth>
+          <pron notation="ipa">mːjj</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4541,9 +4774,10 @@
           <mentioned>wì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="my__conj__232">
         <form type="lemma">
           <orth>mẏ</orth>
+          <pron notation="ipa">mˈɯ</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -4554,9 +4788,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="my_liara__n__233">
         <form type="lemma">
           <orth>mẏ liara</orth>
+          <pron notation="ipa">mˈɯ ɬʲˈaɜʀə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4571,9 +4806,10 @@
           <mentioned>WÌ RI RU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="my_nogh__n__234">
         <form type="lemma">
           <orth>mẏ nōgh</orth>
+          <pron notation="ipa">mˈɯ nˈoːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4588,9 +4824,10 @@
           <mentioned>WÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="my_yanng__n__235">
         <form type="lemma">
           <orth>mẏ yánng</orth>
+          <pron notation="ipa">mˈɯ jˈa5ŋŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4606,9 +4843,10 @@
           <gloss>rigó beszél</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="my_zyur__n__236">
         <form type="lemma">
           <orth>mẏ zyūr</orth>
+          <pron notation="ipa">mˈɯ ʝˈuːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4619,9 +4857,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="mya__v__237">
         <form type="lemma">
           <orth>mya</orth>
+          <pron notation="ipa">mːjjˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4637,9 +4876,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="myao__adj__238">
         <form type="lemma">
           <orth>myào</orth>
+          <pron notation="ipa">mːjjˈao1</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -4658,9 +4898,10 @@
           <mentioned>mà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mya__n__239">
         <form type="lemma">
           <orth>myǎ</orth>
+          <pron notation="ipa">mːjjˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4679,9 +4920,10 @@
           <mentioned>màa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myagh__adv__240">
         <form type="lemma">
           <orth>myāgh</orth>
+          <pron notation="ipa">mːjjˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -4697,9 +4939,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="myagh__adj__241">
         <form type="lemma">
           <orth>myǎgh</orth>
+          <pron notation="ipa">mːjjˈɑː1ɣ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -4714,9 +4957,10 @@
           <mentioned>MÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myaio__n__242">
         <form type="lemma">
           <orth>myaió</orth>
+          <pron notation="ipa">mːjjaiɜˈo5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4731,9 +4975,10 @@
           <mentioned>YÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myang__interj__243">
         <form type="lemma">
           <orth>myǎng</orth>
+          <pron notation="ipa">mːjjˈɑː1ŋ</pron>
         </form>
         <gramGrp>
           <pos>interj</pos>
@@ -4752,9 +4997,10 @@
           <mentioned>màng</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myao__adj__244">
         <form type="lemma">
           <orth>myào</orth>
+          <pron notation="ipa">mːjjˈao1</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -4773,9 +5019,10 @@
           <mentioned>mà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mye__n__245">
         <form type="lemma">
           <orth>myê</orth>
+          <pron notation="ipa">mːjjˈeː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4794,9 +5041,10 @@
           <mentioned>mí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="mye__v__246">
         <form type="lemma">
           <orth>myê</orth>
+          <pron notation="ipa">mːjjˈeː5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4815,9 +5063,10 @@
           <mentioned>mí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myeao__n__247">
         <form type="lemma">
           <orth>myēao</orth>
+          <pron notation="ipa">mːjjˈeːɜao</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4833,9 +5082,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="myi__v__248">
         <form type="lemma">
           <orth>myī</orth>
+          <pron notation="ipa">mːjjˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4854,9 +5104,10 @@
           <mentioned>mi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myirao__v__249">
         <form type="lemma">
           <orth>myirao</orth>
+          <pron notation="ipa">mːjjiɜʀˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4872,9 +5123,10 @@
           <gloss>ugrik</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myo__n__250">
         <form type="lemma">
           <orth>myô</orth>
+          <pron notation="ipa">mːjjˈoː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4890,9 +5142,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="myu__n__251">
         <form type="lemma">
           <orth>myu</orth>
+          <pron notation="ipa">mːjjˈuɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4903,9 +5156,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="myy__n__252">
         <form type="lemma">
           <orth>myy̌</orth>
+          <pron notation="ipa">mːjjj</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4924,9 +5178,10 @@
           <mentioned>mì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="myyu__n__253">
         <form type="lemma">
           <orth>mẏyū</orth>
+          <pron notation="ipa">mɯɜjˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4942,9 +5197,10 @@
           <gloss>rigó kacsa</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="miya__n__254">
         <form type="lemma">
           <orth>mıyǎ</orth>
+          <pron notation="ipa">mɪjˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4964,9 +5220,10 @@
           <mentioned>mí yàa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="na__n__255">
         <form type="lemma">
           <orth>nā</orth>
+          <pron notation="ipa">nˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -4985,9 +5242,10 @@
           <mentioned>na</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="na__v__256">
         <form type="lemma">
           <orth>nǎ</orth>
+          <pron notation="ipa">nˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5006,9 +5264,10 @@
           <mentioned>nàa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nagh__n__257">
         <form type="lemma">
           <orth>nagh</orth>
+          <pron notation="ipa">nˈaɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5024,9 +5283,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="nagh__n__258">
         <form type="lemma">
           <orth>nǎgh</orth>
+          <pron notation="ipa">nˈɑː1ɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5046,9 +5306,10 @@
           <mentioned>na ñà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nagh__n__259">
         <form type="lemma">
           <orth>nāgh</orth>
+          <pron notation="ipa">nˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5067,9 +5328,10 @@
           <mentioned>naxa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nagh__n__260">
         <form type="lemma">
           <orth>nāgh</orth>
+          <pron notation="ipa">nˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5088,9 +5350,10 @@
           <mentioned>naxa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nanao__v__261">
         <form type="lemma">
           <orth>nānao</orth>
+          <pron notation="ipa">naːɜnˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5105,9 +5368,10 @@
           <mentioned>NÀ NÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nanao__n__262">
         <form type="lemma">
           <orth>nānào</orth>
+          <pron notation="ipa">naːɜnˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5127,9 +5391,10 @@
           <mentioned>na nào</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nanao__v__263">
         <form type="lemma">
           <orth>nǎnao</orth>
+          <pron notation="ipa">nɑː1nˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5149,9 +5414,10 @@
           <mentioned>na nào</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nann__n__264">
         <form type="lemma">
           <orth>nann</orth>
+          <pron notation="ipa">nˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5167,9 +5433,10 @@
           <gloss>öl</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nann__n__265">
         <form type="lemma">
           <orth>nànn</orth>
+          <pron notation="ipa">nˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5184,9 +5451,10 @@
           <mentioned>NÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nann__n__266">
         <form type="lemma">
           <orth>nǎnn</orth>
+          <pron notation="ipa">nˈɑː1nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5206,9 +5474,10 @@
           <mentioned>nàn</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nanna__v__267">
         <form type="lemma">
           <orth>nannā</orth>
+          <pron notation="ipa">naɜnnˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5224,9 +5493,10 @@
           <gloss>öl</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nanng__adj__268">
         <form type="lemma">
           <orth>nànng</orth>
+          <pron notation="ipa">nˈa1ŋŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -5242,9 +5512,10 @@
           <gloss>harap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nao__v__269">
         <form type="lemma">
           <orth>nào</orth>
+          <pron notation="ipa">nˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5263,9 +5534,10 @@
           <mentioned>nà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="naofy__n__270">
         <form type="lemma">
           <orth>nàofy̌</orth>
+          <pron notation="ipa">nˈao1ɸɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5285,9 +5557,10 @@
           <mentioned>nào fỳ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="naonne_syiao__expr__271">
         <form type="lemma">
           <orth>naonnə syiao</orth>
+          <pron notation="ipa">nˈaoɜnnə çˈiaoɜ</pron>
         </form>
         <gramGrp>
           <pos>expr</pos>
@@ -5303,9 +5576,10 @@
           <gloss>hagyomány ismerete</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="naor__v__272">
         <form type="lemma">
           <orth>naor</orth>
+          <pron notation="ipa">nˈaoɜʀ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5320,9 +5594,10 @@
           <mentioned>NÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="naye__prep__273">
         <form type="lemma">
           <orth>nàyə</orth>
+          <pron notation="ipa">nˈa1jə</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -5338,9 +5613,10 @@
           <gloss>kép</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="naye_ghao__pron__274">
         <form type="lemma">
           <orth>nàyə ghào?</orth>
+          <pron notation="ipa">nˈa1jə ɣˈao1</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -5355,9 +5631,10 @@
           <mentioned>NÀ QHÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nei__n__275">
         <form type="lemma">
           <orth>néi</orth>
+          <pron notation="ipa">nˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5376,9 +5653,10 @@
           <mentioned>níi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="neiri__n__276">
         <form type="lemma">
           <orth>neirī</orth>
+          <pron notation="ipa">neiɜʀˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5394,9 +5672,10 @@
           <gloss>hajnal nap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nemaiyo__n__277">
         <form type="lemma">
           <orth>nêmaiyō</orth>
+          <pron notation="ipa">nˌeː5maiɜjˈoːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5415,9 +5694,10 @@
           <mentioned>ni máiū</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nenn__n__278">
         <form type="lemma">
           <orth>nenn</orth>
+          <pron notation="ipa">nˈɛɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5437,9 +5717,10 @@
           <gloss>ninn?</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nenn__n__279">
         <form type="lemma">
           <orth>nénn</orth>
+          <pron notation="ipa">nˈe5nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5455,9 +5736,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="nennang__adj__280">
         <form type="lemma">
           <orth>nennang</orth>
+          <pron notation="ipa">nˈɛɜnnaɜŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -5477,9 +5759,10 @@
           <mentioned>néi ñañi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nenwa__num__281">
         <form type="lemma">
           <orth>nenwa</orth>
+          <pron notation="ipa">nˈɛɜnwaɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -5490,9 +5773,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nenwam__num__282">
         <form type="lemma">
           <orth>nenwam</orth>
+          <pron notation="ipa">nˈɛɜnwaɜm</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -5503,9 +5787,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nga__n__283">
         <form type="lemma">
           <orth>ngā</orth>
+          <pron notation="ipa">ŋˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5524,9 +5809,10 @@
           <mentioned>nga</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nga__v__284">
         <form type="lemma">
           <orth>ngǎ</orth>
+          <pron notation="ipa">ŋˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5546,9 +5832,10 @@
           <mentioned>ngàa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngadh__post__285">
         <form type="lemma">
           <orth>ngadh</orth>
+          <pron notation="ipa">ŋˈaɜð</pron>
         </form>
         <gramGrp>
           <pos>post</pos>
@@ -5564,9 +5851,10 @@
           <gloss>hát</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngadh__n__286">
         <form type="lemma">
           <orth>ngàdh</orth>
+          <pron notation="ipa">ŋˈa1ð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5586,9 +5874,10 @@
           <mentioned>ñà thà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngann__v__287">
         <form type="lemma">
           <orth>ngann</orth>
+          <pron notation="ipa">ŋˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5607,9 +5896,10 @@
           <mentioned>ñà na</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngao__v__288">
         <form type="lemma">
           <orth>ngao</orth>
+          <pron notation="ipa">ŋˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5625,9 +5915,10 @@
           <gloss>harap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ghao__v__289">
         <form type="lemma">
           <orth>ghào</orth>
+          <pron notation="ipa">ɣˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5646,9 +5937,10 @@
           <mentioned>ngà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngar__n__290">
         <form type="lemma">
           <orth>ngār</orth>
+          <pron notation="ipa">ŋˈaːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5664,9 +5956,10 @@
           <gloss>hát ugrik</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngefye__v__291">
         <form type="lemma">
           <orth>ngefye</orth>
+          <pron notation="ipa">ŋˈɛɜɸʲə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5681,9 +5974,10 @@
           <mentioned>NGÍ FÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngefyu__v__292">
         <form type="lemma">
           <orth>ngefyū</orth>
+          <pron notation="ipa">ŋɛɜɸʲˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5698,9 +5992,10 @@
           <mentioned>FÌ WU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngi__v__293">
         <form type="lemma">
           <orth>ngī</orth>
+          <pron notation="ipa">ŋˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5716,9 +6011,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ngia__pron__294">
         <form type="lemma">
           <orth>ngia</orth>
+          <pron notation="ipa">ŋʲˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -5734,9 +6030,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ngidh__prep__295">
         <form type="lemma">
           <orth>ngidh</orth>
+          <pron notation="ipa">ŋˈiɜð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -5752,9 +6049,10 @@
           <gloss>kör</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngidhu__n__296">
         <form type="lemma">
           <orth>ngidhū</orth>
+          <pron notation="ipa">ŋiɜðˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5774,9 +6072,10 @@
           <mentioned>ñiéa thu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nginn__n__297">
         <form type="lemma">
           <orth>nginn</orth>
+          <pron notation="ipa">ŋˈiɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5795,9 +6094,10 @@
           <mentioned>ñiu na</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nginn__n__298">
         <form type="lemma">
           <orth>ngǐnn</orth>
+          <pron notation="ipa">ŋˈiː1nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5817,9 +6117,10 @@
           <mentioned>ngìn</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nginnir__v__299">
         <form type="lemma">
           <orth>nginnīr</orth>
+          <pron notation="ipa">ŋiɜnnˈiːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5835,9 +6136,10 @@
           <gloss>álom születés</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nginni_zyuarye__expr__300">
         <form type="lemma">
           <orth>nginnı zyuarye</orth>
+          <pron notation="ipa">ŋˈiɜnnɪ ʝˈuaɜʀʲə</pron>
         </form>
         <gramGrp>
           <pos>expr</pos>
@@ -5848,9 +6150,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="ngio__v__301">
         <form type="lemma">
           <orth>ngio</orth>
+          <pron notation="ipa">ŋʲˈoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5866,9 +6169,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ngo__prep__302">
         <form type="lemma">
           <orth>ngo</orth>
+          <pron notation="ipa">ŋˈoɜ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -5884,9 +6188,10 @@
           <gloss>ellenség</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngo__n__303">
         <form type="lemma">
           <orth>ngô</orth>
+          <pron notation="ipa">ŋˈoː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5902,9 +6207,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ua__adj__304">
         <form type="lemma">
           <orth>úa</orth>
+          <pron notation="ipa">ˈua5</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -5923,9 +6229,10 @@
           <mentioned>ngúa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nguaye_fa___n__305">
         <form type="lemma">
           <orth>nguayə fā </orth>
+          <pron notation="ipa">ŋˈuaɜjə ɸˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5941,9 +6248,10 @@
           <gloss>a láb betegsége</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="oi__n__306">
         <form type="lemma">
           <orth>ói</orth>
+          <pron notation="ipa">ˈoi5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5962,9 +6270,10 @@
           <mentioned>ngúi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngau__n__307">
         <form type="lemma">
           <orth>ngàu</orth>
+          <pron notation="ipa">ŋˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -5983,9 +6292,10 @@
           <mentioned>ngù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngy__n__308">
         <form type="lemma">
           <orth>ngy̌</orth>
+          <pron notation="ipa">ŋˈɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6004,9 +6314,10 @@
           <mentioned>ngì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ngineo__n__309">
         <form type="lemma">
           <orth>ngınèo</orth>
+          <pron notation="ipa">ŋɪnˈeo1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6026,9 +6337,10 @@
           <mentioned>ñi nèo</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ni__prep__310">
         <form type="lemma">
           <orth>nī</orth>
+          <pron notation="ipa">nˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -6048,9 +6360,10 @@
           <mentioned>ni</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ni__prep__311">
         <form type="lemma">
           <orth>nī</orth>
+          <pron notation="ipa">nˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -6070,9 +6383,10 @@
           <mentioned>ni</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyea__n__312">
         <form type="lemma">
           <orth>nyéa</orth>
+          <pron notation="ipa">ɲˈe5ə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6092,9 +6406,10 @@
           <gloss>nyéa</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="niagh__n__313">
         <form type="lemma">
           <orth>niagh</orth>
+          <pron notation="ipa">nʲˈaɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6111,9 +6426,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="niao__v__314">
         <form type="lemma">
           <orth>niào</orth>
+          <pron notation="ipa">nˈiao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6132,9 +6448,10 @@
           <mentioned>nài</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="niao_nyo__v__315">
         <form type="lemma">
           <orth>niao nyô</orth>
+          <pron notation="ipa">nˈiaoɜ ɲˈoː5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6154,9 +6471,10 @@
           <mentioned>niao nyô</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="niara__v__316">
         <form type="lemma">
           <orth>niara</orth>
+          <pron notation="ipa">nʲˈaɜʀə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6171,9 +6489,10 @@
           <mentioned>NÍ RA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="niarang__n__317">
         <form type="lemma">
           <orth>niaráng</orth>
+          <pron notation="ipa">nʲaɜʀˈa5ŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6188,9 +6507,10 @@
           <mentioned>NÍ RA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="niaryai__n__318">
         <form type="lemma">
           <orth>niaryái</orth>
+          <pron notation="ipa">nʲaɜʀʲˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6206,9 +6526,10 @@
           <gloss>repül nyúl</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nigh__n__319">
         <form type="lemma">
           <orth>nīgh</orth>
+          <pron notation="ipa">nˈiːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6227,9 +6548,10 @@
           <mentioned>nìxu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nihadh__adv__320">
         <form type="lemma">
           <orth>nihādh</orth>
+          <pron notation="ipa">niɜhˈaːɜð</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -6244,9 +6566,10 @@
           <mentioned>NI QHÚ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nir__n__321">
         <form type="lemma">
           <orth>nīr</orth>
+          <pron notation="ipa">nˈiːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6261,9 +6584,10 @@
           <mentioned>NI</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nira__n__322">
         <form type="lemma">
           <orth>nira</orth>
+          <pron notation="ipa">nˈiɜʀə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6278,9 +6602,10 @@
           <mentioned>NI</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nn__conj__323">
         <form type="lemma">
           <orth>nn</orth>
+          <pron notation="ipa">nː</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -6291,9 +6616,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nndhao__n__324">
         <form type="lemma">
           <orth>nndhào</orth>
+          <pron notation="ipa">n̩ðˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6310,9 +6636,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="nnrehua__n__325">
         <form type="lemma">
           <orth>nnrəhua</orth>
+          <pron notation="ipa">n̩ʀəhˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6332,9 +6659,10 @@
           <mentioned>nura qhua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="no__conj__326">
         <form type="lemma">
           <orth>no</orth>
+          <pron notation="ipa">nˈoɜ</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -6349,9 +6677,10 @@
           <mentioned>NÚ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nofyair__n__327">
         <form type="lemma">
           <orth>nofyair</orth>
+          <pron notation="ipa">noɜɸʲˈaiɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6371,9 +6700,10 @@
           <mentioned>nu fyáila</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nogh__adv__328">
         <form type="lemma">
           <orth>nôgh</orth>
+          <pron notation="ipa">nˈoː5ɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -6389,9 +6719,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="nogh__n__329">
         <form type="lemma">
           <orth>nōgh</orth>
+          <pron notation="ipa">nˈoːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6411,9 +6742,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nogh__n__330">
         <form type="lemma">
           <orth>nōgh</orth>
+          <pron notation="ipa">nˈoːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6432,9 +6764,10 @@
           <mentioned>nùxu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="noi__v__331">
         <form type="lemma">
           <orth>nói</orth>
+          <pron notation="ipa">nˈoi5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6453,9 +6786,10 @@
           <mentioned>núi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="noiqh__pt__332">
         <form type="lemma">
           <orth>noíqh</orth>
+          <pron notation="ipa">nˈoi5χ</pron>
         </form>
         <gramGrp>
           <pos>pt</pos>
@@ -6474,9 +6808,10 @@
           <mentioned>nyóix</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nosy__prep__333">
         <form type="lemma">
           <orth>nōsy</orth>
+          <pron notation="ipa">nˈoːɜç</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -6492,9 +6827,10 @@
           <gloss>szül</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nu__n__334">
         <form type="lemma">
           <orth>nū</orth>
+          <pron notation="ipa">nˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6513,9 +6849,10 @@
           <mentioned>nu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nu__n__335">
         <form type="lemma">
           <orth>nū</orth>
+          <pron notation="ipa">nˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6534,9 +6871,10 @@
           <mentioned>nu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nudh__post__336">
         <form type="lemma">
           <orth>nūdh</orth>
+          <pron notation="ipa">nˈuːɜð</pron>
         </form>
         <gramGrp>
           <pos>post</pos>
@@ -6551,9 +6889,10 @@
           <mentioned>NU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nummu__n__337">
         <form type="lemma">
           <orth>nummu</orth>
+          <pron notation="ipa">nˈuɜmmuɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6564,9 +6903,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nun__num__338">
         <form type="lemma">
           <orth>nūn</orth>
+          <pron notation="ipa">nˈuːɜn</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -6577,9 +6917,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nur__v__339">
         <form type="lemma">
           <orth>nūr</orth>
+          <pron notation="ipa">nˈuːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6598,9 +6939,10 @@
           <mentioned>nura</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nnuy__adj__340">
         <form type="lemma">
           <orth>nnūy</orth>
+          <pron notation="ipa">nnnˈuːɜj</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -6619,9 +6961,10 @@
           <mentioned>nuia</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nuy__adj__341">
         <form type="lemma">
           <orth>nǔy</orth>
+          <pron notation="ipa">nˈuː1j</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -6637,9 +6980,10 @@
           <gloss>patkány</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nuy__adj__342">
         <form type="lemma">
           <orth>nǔy</orth>
+          <pron notation="ipa">nˈuː1j</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -6655,9 +6999,10 @@
           <gloss>patkány</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nwen__num__343">
         <form type="lemma">
           <orth>nwēn</orth>
+          <pron notation="ipa">nwˈeːɜn</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -6668,9 +7013,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nwen_ham__num__344">
         <form type="lemma">
           <orth>nwēn ham</orth>
+          <pron notation="ipa">nwˈeːɜn hˈaɜm</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -6681,9 +7027,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nweni__num__345">
         <form type="lemma">
           <orth>nwēni</orth>
+          <pron notation="ipa">nwˈeːɜnɪ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -6694,9 +7041,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="ny__v__346">
         <form type="lemma">
           <orth>ny̌</orth>
+          <pron notation="ipa">ɲ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6715,9 +7063,10 @@
           <mentioned>nì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nai__n__347">
         <form type="lemma">
           <orth>nái</orth>
+          <pron notation="ipa">nˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6736,9 +7085,10 @@
           <mentioned>ná</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyahor__n__348">
         <form type="lemma">
           <orth>nyahōr</orth>
+          <pron notation="ipa">ɲaɜhˈoːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6754,9 +7104,10 @@
           <gloss>otthon farok bent</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyaia__adj__349">
         <form type="lemma">
           <orth>nyāia</orth>
+          <pron notation="ipa">ɲaiːɜˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -6767,9 +7118,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nyaina__n__350">
         <form type="lemma">
           <orth>nyainā</orth>
+          <pron notation="ipa">ɲaiɜnˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6780,9 +7132,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nyam__v__351">
         <form type="lemma">
           <orth>nyām</orth>
+          <pron notation="ipa">ɲˈaːɜm</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6798,9 +7151,10 @@
           <gloss>szül</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyan__interj__352">
         <form type="lemma">
           <orth>nyan</orth>
+          <pron notation="ipa">ɲˈaɜn</pron>
         </form>
         <gramGrp>
           <pos>interj</pos>
@@ -6817,9 +7171,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="nyang__v__353">
         <form type="lemma">
           <orth>nyang</orth>
+          <pron notation="ipa">ɲˈaɜŋ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6839,9 +7194,10 @@
           <mentioned>ná ñi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyang_qhen__pron__354">
         <form type="lemma">
           <orth>nyang qhen</orth>
+          <pron notation="ipa">ɲˈaɜŋ χˈɛɜn</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -6857,9 +7213,10 @@
           <gloss>nangi thái &gt; nyang qhen </gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyann__interj__355">
         <form type="lemma">
           <orth>nyann</orth>
+          <pron notation="ipa">ɲˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>interj</pos>
@@ -6870,9 +7227,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nyann__n__356">
         <form type="lemma">
           <orth>nyànn</orth>
+          <pron notation="ipa">ɲˈa1nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6887,9 +7245,10 @@
           <mentioned>NÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyann__n__357">
         <form type="lemma">
           <orth>nyânn</orth>
+          <pron notation="ipa">ɲˈaː5nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6909,9 +7268,10 @@
           <mentioned>nán</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyanng__n__358">
         <form type="lemma">
           <orth>nyanng</orth>
+          <pron notation="ipa">ɲˈaɜŋŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6928,9 +7288,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="nyanngi__n__359">
         <form type="lemma">
           <orth>nyánngī</orth>
+          <pron notation="ipa">ɲa5ŋŋˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6946,9 +7307,10 @@
           <gloss>„pufók madár”</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyanngi_zyur__n__360">
         <form type="lemma">
           <orth>nyánngı zyūr</orth>
+          <pron notation="ipa">ɲˈa5ŋŋɪ ʝˈuːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6959,9 +7321,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="nye__v__361">
         <form type="lemma">
           <orth>nye</orth>
+          <pron notation="ipa">ɲˈɛɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6977,9 +7340,10 @@
           <gloss>hajnal</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nye__n__362">
         <form type="lemma">
           <orth>nyê</orth>
+          <pron notation="ipa">ɲˈeː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6998,9 +7362,10 @@
           <mentioned>ní</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyedh__prep__363">
         <form type="lemma">
           <orth>nyedh</orth>
+          <pron notation="ipa">ɲˈɛɜð</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -7016,9 +7381,10 @@
           <gloss>hajnal &gt; horizont</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nei__n__364">
         <form type="lemma">
           <orth>néi</orth>
+          <pron notation="ipa">nˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7037,9 +7403,10 @@
           <mentioned>níi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyer__n__365">
         <form type="lemma">
           <orth>nyer</orth>
+          <pron notation="ipa">ɲˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7059,9 +7426,10 @@
           <mentioned>níra</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyel__n__366">
         <form type="lemma">
           <orth>nẏel</orth>
+          <pron notation="ipa">nɯɜˈɛɜɬ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7080,9 +7448,10 @@
           <mentioned>nu sáili</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyo__n__367">
         <form type="lemma">
           <orth>nyô</orth>
+          <pron notation="ipa">ɲˈoː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7102,9 +7471,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyoa__adj__368">
         <form type="lemma">
           <orth>nyóa</orth>
+          <pron notation="ipa">ɲˈo5ə</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -7124,9 +7494,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="noi__n__369">
         <form type="lemma">
           <orth>nói</orth>
+          <pron notation="ipa">nˈoi5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7146,9 +7517,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyr__v__370">
         <form type="lemma">
           <orth>nẏr</orth>
+          <pron notation="ipa">nˈɯɜʀ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7164,9 +7536,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="nywagh__adv__371">
         <form type="lemma">
           <orth>nẏwagh</orth>
+          <pron notation="ipa">nɯɜwˈaɜɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -7182,9 +7555,10 @@
           <gloss>eszik visz</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nyemei__n__372">
         <form type="lemma">
           <orth>nyəméi</orth>
+          <pron notation="ipa">ɲəmˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7204,9 +7578,10 @@
           <mentioned>ńé méi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="nirofye__n__373">
         <form type="lemma">
           <orth>nırōfyé</orth>
+          <pron notation="ipa">nɪʀoːɜɸʲˈe5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7226,9 +7601,10 @@
           <mentioned>nirúo fyé</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="niruo__n__374">
         <form type="lemma">
           <orth>nırúo</orth>
+          <pron notation="ipa">nɪʀˈuo5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7247,9 +7623,10 @@
           <mentioned>ni rú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="o__post__375">
         <form type="lemma">
           <orth>ó</orth>
+          <pron notation="ipa">ˈo5</pron>
         </form>
         <gramGrp>
           <pos>post</pos>
@@ -7269,9 +7646,10 @@
           <mentioned>ngú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uo__n__376">
         <form type="lemma">
           <orth>úo</orth>
+          <pron notation="ipa">ˈuo5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7291,9 +7669,10 @@
           <gloss>úo</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="onen__num__377">
         <form type="lemma">
           <orth>ōnen</orth>
+          <pron notation="ipa">ˈoːɜnɛɜn</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -7304,9 +7683,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="onenwa__num__378">
         <form type="lemma">
           <orth>ōnenwa</orth>
+          <pron notation="ipa">ˈoːɜnənwaɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -7317,9 +7697,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="osyy__n__379">
         <form type="lemma">
           <orth>osyy̌</orth>
+          <pron notation="ipa">ˈoɜçɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7339,9 +7720,10 @@
           <mentioned>ù sỳ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="osyy__n__380">
         <form type="lemma">
           <orth>osyy̌</orth>
+          <pron notation="ipa">ˈoɜçɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7357,9 +7739,10 @@
           <gloss>fog hideg</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ouya_wia__adj__381">
         <form type="lemma">
           <orth>ouyā, wia-</orth>
+          <pron notation="ipa">ˌouɜjˈaːɜ wʲˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -7370,9 +7753,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="qha__v__382">
         <form type="lemma">
           <orth>qhā</orth>
+          <pron notation="ipa">χˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7391,9 +7775,10 @@
           <mentioned>xa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhann__n__383">
         <form type="lemma">
           <orth>qhānn</orth>
+          <pron notation="ipa">χˈaːɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7413,9 +7798,10 @@
           <mentioned>xan</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhar__n__384">
         <form type="lemma">
           <orth>qhar</orth>
+          <pron notation="ipa">χˈaɜr</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7434,9 +7820,10 @@
           <mentioned>qhái ru</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhar__v__385">
         <form type="lemma">
           <orth>qhar</orth>
+          <pron notation="ipa">χˈaɜr</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7456,9 +7843,10 @@
           <mentioned>qhái ru</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qheir__pron__386">
         <form type="lemma">
           <orth>qheir</orth>
+          <pron notation="ipa">χˈeiɜr</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -7473,9 +7861,10 @@
           <mentioned>THÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qheir__pron__387">
         <form type="lemma">
           <orth>qheir</orth>
+          <pron notation="ipa">χˈeiɜr</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -7486,9 +7875,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="qheiry_mau__pron__388">
         <form type="lemma">
           <orth>qheirẏ màu</orth>
+          <pron notation="ipa">χˈeiɜɹɯɜ mˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -7503,9 +7893,10 @@
           <mentioned>THÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhesyiqh__v__389">
         <form type="lemma">
           <orth>qhesyiqh</orth>
+          <pron notation="ipa">χɛɜçˈiɜχ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7516,9 +7907,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="qhi__v__390">
         <form type="lemma">
           <orth>qhī</orth>
+          <pron notation="ipa">χˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7537,9 +7929,10 @@
           <mentioned>xi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhi_sye__num__391">
         <form type="lemma">
           <orth>qhi syḕ</orth>
+          <pron notation="ipa">χˈiɜ çˈeːɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -7550,9 +7943,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="qhiangi__n__392">
         <form type="lemma">
           <orth>qhiangī</orth>
+          <pron notation="ipa">χʲaɜŋˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7567,9 +7961,10 @@
           <mentioned>QHI NGI</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhidh__v__393">
         <form type="lemma">
           <orth>qhīdh</orth>
+          <pron notation="ipa">χˈiːɜð</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7589,9 +7984,10 @@
           <mentioned>xi ta</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhim__n__394">
         <form type="lemma">
           <orth>qhìm</orth>
+          <pron notation="ipa">χˈi1m</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7610,9 +8006,10 @@
           <mentioned>ximù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhio__n__395">
         <form type="lemma">
           <orth>qhio</orth>
+          <pron notation="ipa">χʲˈoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7631,9 +8028,10 @@
           <mentioned>xiu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhiosyy__n__396">
         <form type="lemma">
           <orth>qhiosyy̌</orth>
+          <pron notation="ipa">χʲˈoɜçɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7653,9 +8051,10 @@
           <mentioned>xiosyy</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhiqh__v__397">
         <form type="lemma">
           <orth>qhīqh</orth>
+          <pron notation="ipa">χˈiːɜχ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7675,9 +8074,10 @@
           <mentioned>qhiqhi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhiqh_zyuai__expr__398">
         <form type="lemma">
           <orth>qhīqh zyuái</orth>
+          <pron notation="ipa">χˈiːɜχ ʝwˈai5</pron>
         </form>
         <gramGrp>
           <pos>expr</pos>
@@ -7688,9 +8088,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="qhiqhi__n__399">
         <form type="lemma">
           <orth>qhiqhī</orth>
+          <pron notation="ipa">χiɜχˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7709,9 +8110,10 @@
           <mentioned>qhī qhī</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhiyagh__adv__400">
         <form type="lemma">
           <orth>qhiyāgh</orth>
+          <pron notation="ipa">χiɜjˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -7727,9 +8129,10 @@
           <gloss>eső, rossz idő</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhiel__v__401">
         <form type="lemma">
           <orth>qhiəl</orth>
+          <pron notation="ipa">χʲˈəɬ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7749,9 +8152,10 @@
           <mentioned>xìi ra</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhoadh__n__402">
         <form type="lemma">
           <orth>qhoadh</orth>
+          <pron notation="ipa">χˈoəɜð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7766,9 +8170,10 @@
           <mentioned>QHÚ + THÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhoana__n__403">
         <form type="lemma">
           <orth>qhoanā</orth>
+          <pron notation="ipa">χˌoəɜnˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7779,9 +8184,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="qhoi_pl_qhui__n__404">
         <form type="lemma">
           <orth>qhòi pl. qhǔi</orth>
+          <pron notation="ipa">χˈɔː1j ɸɬ χˈuː1j</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7801,9 +8207,10 @@
           <mentioned>xùi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhor__v__405">
         <form type="lemma">
           <orth>qhor</orth>
+          <pron notation="ipa">χˈoɜr</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7818,9 +8225,10 @@
           <mentioned>QHÙ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhu__n__406">
         <form type="lemma">
           <orth>qhū</orth>
+          <pron notation="ipa">χˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7839,9 +8247,10 @@
           <mentioned>xu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhua__n__407">
         <form type="lemma">
           <orth>qhua</orth>
+          <pron notation="ipa">χˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7861,9 +8270,10 @@
           <mentioned>qhua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhyr__n__408">
         <form type="lemma">
           <orth>qhȳr</orth>
+          <pron notation="ipa">χˈɯːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7879,9 +8289,10 @@
           <gloss>fut</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhyradh__adj__409">
         <form type="lemma">
           <orth>qhẏradh</orth>
+          <pron notation="ipa">χɯɜʀˈaɜð</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -7897,9 +8308,10 @@
           <gloss>fut</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="qhi__conj__410">
         <form type="lemma">
           <orth>qhı</orth>
+          <pron notation="ipa">χˈɪ</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -7910,9 +8322,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="ra__n__411">
         <form type="lemma">
           <orth>rǎ</orth>
+          <pron notation="ipa">ʀˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7932,9 +8345,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ragh__adv__412">
         <form type="lemma">
           <orth>rāgh</orth>
+          <pron notation="ipa">ʀˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -7949,9 +8363,10 @@
           <mentioned>RA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="rai__n__413">
         <form type="lemma">
           <orth>rái</orth>
+          <pron notation="ipa">ʀˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -7971,9 +8386,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="raia__adj__414">
         <form type="lemma">
           <orth>raiá</orth>
+          <pron notation="ipa">ʀaiɜˈa5</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -7990,9 +8406,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="rao__v__415">
         <form type="lemma">
           <orth>rào</orth>
+          <pron notation="ipa">ʀˈao1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8012,9 +8429,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="riuqh__adj__416">
         <form type="lemma">
           <orth>riuqh</orth>
+          <pron notation="ipa">ʀʲˈuɜχ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8029,9 +8447,10 @@
           <mentioned>RÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ro__prep__417">
         <form type="lemma">
           <orth>ro</orth>
+          <pron notation="ipa">ʀˈoɜ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -8047,9 +8466,10 @@
           <gloss>bél</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="rong__adj__418">
         <form type="lemma">
           <orth>rong</orth>
+          <pron notation="ipa">ʀˈoɜŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8064,9 +8484,10 @@
           <mentioned>RÚ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ru__n__419">
         <form type="lemma">
           <orth>rǔ</orth>
+          <pron notation="ipa">ʀˈuː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8085,9 +8506,10 @@
           <mentioned>rù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lua__adj__420">
         <form type="lemma">
           <orth>lua</orth>
+          <pron notation="ipa">ɬˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8106,9 +8528,10 @@
           <mentioned>rua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="rua__v__421">
         <form type="lemma">
           <orth>ruá</orth>
+          <pron notation="ipa">ʀuɜˈa5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8128,9 +8551,10 @@
           <mentioned>rúa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ruaqh__n__422">
         <form type="lemma">
           <orth>ruāqh</orth>
+          <pron notation="ipa">ʀwˈaːɜχ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8142,9 +8566,10 @@
         </sense>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ruathua__adj__423">
         <form type="lemma">
           <orth>ruathua</orth>
+          <pron notation="ipa">ʀuaɜθˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8159,9 +8584,10 @@
           <mentioned>RU THU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ruayith__n__424">
         <form type="lemma">
           <orth>ruayıth</orth>
+          <pron notation="ipa">ʀˈuaɜjɪθ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8177,9 +8603,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ruenngar__n__425">
         <form type="lemma">
           <orth>ruenngār</orth>
+          <pron notation="ipa">ʀˌuɜɛɜŋŋˈaːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8195,9 +8622,10 @@
           <gloss>mély fal</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ruia__adj__426">
         <form type="lemma">
           <orth>ruia</orth>
+          <pron notation="ipa">ʀuiˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8212,9 +8640,10 @@
           <mentioned>RU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ruo__n__427">
         <form type="lemma">
           <orth>ruó</orth>
+          <pron notation="ipa">ʀuɜˈo5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8233,9 +8662,10 @@
           <mentioned>rú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="rwao_zyur__adj__428">
         <form type="lemma">
           <orth>rwao zyūr</orth>
+          <pron notation="ipa">ʀwˈaoɜ ʝˈuːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8246,9 +8676,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="rwei__n__429">
         <form type="lemma">
           <orth>rwei</orth>
+          <pron notation="ipa">ʀwˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8259,9 +8690,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="rei__n__430">
         <form type="lemma">
           <orth>réi</orth>
+          <pron notation="ipa">ʀˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8281,9 +8713,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ryeryei__n__431">
         <form type="lemma">
           <orth>ryeryei</orth>
+          <pron notation="ipa">rːjjɛɜʀʲˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8299,9 +8732,10 @@
           <gloss>kő</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ryei_fiwai__n__432">
         <form type="lemma">
           <orth>ryéı fıwaí</orth>
+          <pron notation="ipa">rːjjˈe5ɪ ɸɪwaɜˈi5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8318,9 +8752,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ryn__v__433">
         <form type="lemma">
           <orth>rÿn</orth>
+          <pron notation="ipa">rːjjn</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8336,9 +8771,10 @@
           <gloss>gyík</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="sya__pron__434">
         <form type="lemma">
           <orth>syâ</orth>
+          <pron notation="ipa">çˈaː5</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -8349,9 +8785,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="sya__n__435">
         <form type="lemma">
           <orth>syā</orth>
+          <pron notation="ipa">çˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8370,9 +8807,10 @@
           <mentioned>sa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="sya__v__436">
         <form type="lemma">
           <orth>syā</orth>
+          <pron notation="ipa">çˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8391,9 +8829,10 @@
           <mentioned>sa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syaang__adj__437">
         <form type="lemma">
           <orth>syaáng</orth>
+          <pron notation="ipa">çˈaː5ŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8413,9 +8852,10 @@
           <mentioned>sáang</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syaenha__n__438">
         <form type="lemma">
           <orth>syaēnha</orth>
+          <pron notation="ipa">çəˈeːɜnhaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8436,9 +8876,10 @@
           <gloss>a zsákmány szó megölője</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syagh_wie__v__439">
         <form type="lemma">
           <orth>syagh wie</orth>
+          <pron notation="ipa">çˈaɜɣ wˈie</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8454,9 +8895,10 @@
           <gloss>hagyj békén!</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syahi__n__440">
         <form type="lemma">
           <orth>syahī</orth>
+          <pron notation="ipa">çaɜhˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8472,9 +8914,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syai__n__441">
         <form type="lemma">
           <orth>syái</orth>
+          <pron notation="ipa">çˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8493,9 +8936,10 @@
           <mentioned>sá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syamm__num__442">
         <form type="lemma">
           <orth>syamm</orth>
+          <pron notation="ipa">çˈaɜmm</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -8506,9 +8950,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="syamm_ua__num__443">
         <form type="lemma">
           <orth>syamm ūa</orth>
+          <pron notation="ipa">çˈaɜmm ˈuaːɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -8519,9 +8964,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="syanagh__n__444">
         <form type="lemma">
           <orth>syanagh</orth>
+          <pron notation="ipa">çaɜnˈaɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8542,9 +8988,10 @@
           <gloss>zsákmány lelke</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syann__n__445">
         <form type="lemma">
           <orth>syânn</orth>
+          <pron notation="ipa">çˈaː5nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8564,9 +9011,10 @@
           <mentioned>sán</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syanye__n__446">
         <form type="lemma">
           <orth>syányə</orth>
+          <pron notation="ipa">çˈa5ɲə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8586,9 +9034,10 @@
           <mentioned>sá ní</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syao__n__447">
         <form type="lemma">
           <orth>syào</orth>
+          <pron notation="ipa">çˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8604,9 +9053,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syaru__n__448">
         <form type="lemma">
           <orth>syarû</orth>
+          <pron notation="ipa">çaɜʀˈuː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8621,9 +9071,10 @@
           <mentioned>SA RÚ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syarui__n__449">
         <form type="lemma">
           <orth>syaruí</orth>
+          <pron notation="ipa">çˌaɜʀuɜˈi5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8638,9 +9089,10 @@
           <mentioned>SA RÚ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syau__v__450">
         <form type="lemma">
           <orth>syàu</orth>
+          <pron notation="ipa">çˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8659,9 +9111,10 @@
           <mentioned>sù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syau__n__451">
         <form type="lemma">
           <orth>syàu</orth>
+          <pron notation="ipa">çˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8680,9 +9133,10 @@
           <mentioned>sù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="sye__conj__452">
         <form type="lemma">
           <orth>sye</orth>
+          <pron notation="ipa">çˈɛɜ</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -8693,9 +9147,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="sye__v__453">
         <form type="lemma">
           <orth>sye</orth>
+          <pron notation="ipa">çˈɛɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8711,9 +9166,10 @@
           <gloss>csillag &gt; állandó</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="sye__v__454">
         <form type="lemma">
           <orth>syê</orth>
+          <pron notation="ipa">çˈeː5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8732,9 +9188,10 @@
           <mentioned>sí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="sye__num__455">
         <form type="lemma">
           <orth>syḕ</orth>
+          <pron notation="ipa">çˈeːɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -8749,9 +9206,10 @@
           <mentioned>SI</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syea__v__456">
         <form type="lemma">
           <orth>syea</orth>
+          <pron notation="ipa">çˈeɜə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8766,9 +9224,10 @@
           <mentioned>SÁ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syea__adj__457">
         <form type="lemma">
           <orth>syéa</orth>
+          <pron notation="ipa">çˈe5ə</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8788,9 +9247,10 @@
           <mentioned>sía</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syea__n__458">
         <form type="lemma">
           <orth>syêa</orth>
+          <pron notation="ipa">çˈeː5ə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8809,9 +9269,10 @@
           <mentioned>sáa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syeang__adj__459">
         <form type="lemma">
           <orth>syeáng</orth>
+          <pron notation="ipa">çˈeɜəŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8827,9 +9288,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syeng__n__460">
         <form type="lemma">
           <orth>syéng</orth>
+          <pron notation="ipa">çˈe5ŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8844,9 +9306,10 @@
           <mentioned>SÍ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syenng__part__461">
         <form type="lemma">
           <orth>syénng</orth>
+          <pron notation="ipa">çˈe5ŋŋ</pron>
         </form>
         <gramGrp>
           <pos>part</pos>
@@ -8863,9 +9326,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syenng__part__462">
         <form type="lemma">
           <orth>syénng</orth>
+          <pron notation="ipa">çˈe5ŋŋ</pron>
         </form>
         <gramGrp>
           <pos>part</pos>
@@ -8880,9 +9344,10 @@
           <mentioned>SÁ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syer__adv__463">
         <form type="lemma">
           <orth>syer</orth>
+          <pron notation="ipa">çˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -8897,9 +9362,10 @@
           <mentioned>sá li</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syer_yeng__adv__464">
         <form type="lemma">
           <orth>syer yēng</orth>
+          <pron notation="ipa">çˈɛɜʀ jˈeːɜŋ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -8910,9 +9376,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="syera__v__465">
         <form type="lemma">
           <orth>syerā</orth>
+          <pron notation="ipa">çɛɜʀˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8927,9 +9394,10 @@
           <mentioned>SÍ RA</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syi__n__466">
         <form type="lemma">
           <orth>syī</orth>
+          <pron notation="ipa">çˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8945,9 +9413,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syia__adj__467">
         <form type="lemma">
           <orth>syia</orth>
+          <pron notation="ipa">çʲˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -8966,9 +9435,10 @@
           <mentioned>sì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syia__n__468">
         <form type="lemma">
           <orth>syiá</orth>
+          <pron notation="ipa">çʲˈa5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8979,9 +9449,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="syiao__n__469">
         <form type="lemma">
           <orth>syiao</orth>
+          <pron notation="ipa">çˈiaoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9001,9 +9472,10 @@
           <mentioned>si yaū</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syiay__n__470">
         <form type="lemma">
           <orth>syīay</orth>
+          <pron notation="ipa">çiːɜˈaɜj</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9023,9 +9495,10 @@
           <mentioned>si ya ya</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syiegh__adv__471">
         <form type="lemma">
           <orth>syiegh</orth>
+          <pron notation="ipa">çˈieɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -9040,9 +9513,10 @@
           <mentioned>SÍ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syieng__pron__472">
         <form type="lemma">
           <orth>syiéng</orth>
+          <pron notation="ipa">çˈie5ŋ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -9059,9 +9533,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syihann__n__473">
         <form type="lemma">
           <orth>syihann</orth>
+          <pron notation="ipa">çiɜhˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9078,9 +9553,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syihann__n__474">
         <form type="lemma">
           <orth>syihann</orth>
+          <pron notation="ipa">çiɜhˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9097,9 +9573,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syina__v__475">
         <form type="lemma">
           <orth>syīnǎ</orth>
+          <pron notation="ipa">çiːɜnˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9119,9 +9596,10 @@
           <mentioned>si nǎ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syir__prep__476">
         <form type="lemma">
           <orth>syir</orth>
+          <pron notation="ipa">çˈiɜʀ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -9137,9 +9615,10 @@
           <gloss>bajusz &gt; együtt</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyiu__adj__477">
         <form type="lemma">
           <orth>zyìu</orth>
+          <pron notation="ipa">ʝˈi1ʊ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -9158,9 +9637,10 @@
           <mentioned>sìu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syiwaiqh__n__478">
         <form type="lemma">
           <orth>syiwaiqh</orth>
+          <pron notation="ipa">çiɜwˈaiɜχ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9171,9 +9651,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="zyu__v__479">
         <form type="lemma">
           <orth>zyū</orth>
+          <pron notation="ipa">ʝˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9193,9 +9674,10 @@
           <mentioned>suu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syy__n__480">
         <form type="lemma">
           <orth>syy̌</orth>
+          <pron notation="ipa">çˈɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9214,9 +9696,10 @@
           <mentioned>sì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syy__n__481">
         <form type="lemma">
           <orth>syy̌</orth>
+          <pron notation="ipa">çˈɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9235,9 +9718,10 @@
           <mentioned>sì</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syiman__adj__482">
         <form type="lemma">
           <orth>syımān</orth>
+          <pron notation="ipa">çɪmˈaːɜn</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -9248,9 +9732,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="syimanye__adj__483">
         <form type="lemma">
           <orth>syımānyé</orth>
+          <pron notation="ipa">çɪmˈaːɜɲe5</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -9262,9 +9747,10 @@
         </sense>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syisya__adj__484">
         <form type="lemma">
           <orth>syısya</orth>
+          <pron notation="ipa">çɪçˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -9281,9 +9767,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="syeiu__n__485">
         <form type="lemma">
           <orth>syəiū</orth>
+          <pron notation="ipa">çəjˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9300,9 +9787,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="dhau__int__486">
         <form type="lemma">
           <orth>dhàu</orth>
+          <pron notation="ipa">ðˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>int</pos>
@@ -9321,9 +9809,10 @@
           <mentioned>thù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="tha__n__487">
         <form type="lemma">
           <orth>thā</orth>
+          <pron notation="ipa">θˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9342,9 +9831,10 @@
           <mentioned>tha</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="tha_alagh__adv__488">
         <form type="lemma">
           <orth>thà alāgh</orth>
+          <pron notation="ipa">θˈa1 aɜɬˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -9355,9 +9845,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="thagh__n__489">
         <form type="lemma">
           <orth>thāgh</orth>
+          <pron notation="ipa">θˈaːɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9377,9 +9868,10 @@
           <mentioned>thaxu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="thai__n__490">
         <form type="lemma">
           <orth>thái</orth>
+          <pron notation="ipa">θˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9399,9 +9891,10 @@
           <gloss>a dhẏ hatására vette át ezt a jelentést</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="dhau__part__491">
         <form type="lemma">
           <orth>dhàu</orth>
+          <pron notation="ipa">ðˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>part</pos>
@@ -9420,9 +9913,10 @@
           <mentioned>thù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="thazyan__adv__492">
         <form type="lemma">
           <orth>thàzyan</orth>
+          <pron notation="ipa">θa1ʝˈaɜn</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -9438,9 +9932,10 @@
           <gloss>nem + idő</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="the__n__493">
         <form type="lemma">
           <orth>thê</orth>
+          <pron notation="ipa">θˈeː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9459,9 +9954,10 @@
           <mentioned>thí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ther__n__494">
         <form type="lemma">
           <orth>ther</orth>
+          <pron notation="ipa">θˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9478,9 +9974,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ther__pron__495">
         <form type="lemma">
           <orth>ther</orth>
+          <pron notation="ipa">θˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -9496,9 +9993,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="thezyer__adv__496">
         <form type="lemma">
           <orth>thezyer</orth>
+          <pron notation="ipa">θəʝˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -9513,9 +10011,10 @@
           <mentioned>THÍ SÁ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="thi__n__497">
         <form type="lemma">
           <orth>thī</orth>
+          <pron notation="ipa">θˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9534,9 +10033,10 @@
           <mentioned>thi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="thie__pron__498">
         <form type="lemma">
           <orth>thie</orth>
+          <pron notation="ipa">θˈie</pron>
         </form>
         <gramGrp>
           <pos>pron</pos>
@@ -9551,9 +10051,10 @@
           <mentioned>THÁ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="thu__v__499">
         <form type="lemma">
           <orth>thǔ</orth>
+          <pron notation="ipa">θˈuː1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9565,9 +10066,10 @@
         </sense>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="thu_yoghin_ain___adv__500">
         <form type="lemma">
           <orth>thù yoghin āin </orth>
+          <pron notation="ipa">θˈu1 joɜɣˈiɜn ˈaiːɜn</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -9578,9 +10080,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="thu_zyeri__conj__501">
         <form type="lemma">
           <orth>thù zyerı</orth>
+          <pron notation="ipa">θˈu1 ʝɛɜʀɪ</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -9591,9 +10094,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="thuao__v__502">
         <form type="lemma">
           <orth>thuao</orth>
+          <pron notation="ipa">θwˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9608,9 +10112,10 @@
           <mentioned>THÚ WÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="thyn__n__503">
         <form type="lemma">
           <orth>thȳn</orth>
+          <pron notation="ipa">θˈɯːɜn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9625,9 +10130,10 @@
           <mentioned>THÙ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="the__pref__504">
         <form type="lemma">
           <orth>thə-</orth>
+          <pron notation="ipa">θˈə</pron>
         </form>
         <gramGrp>
           <pos>pref</pos>
@@ -9643,9 +10149,10 @@
           <gloss>nem</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="thehia__n__505">
         <form type="lemma">
           <orth>thəhìa</orth>
+          <pron notation="ipa">θəhi1ˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9665,9 +10172,10 @@
           <mentioned>thisyìa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="u__v__506">
         <form type="lemma">
           <orth>ū</orth>
+          <pron notation="ipa">ˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9684,9 +10192,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ua__num__507">
         <form type="lemma">
           <orth>ūa</orth>
+          <pron notation="ipa">ˈuaːɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -9698,9 +10207,10 @@
         </sense>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="ufye__v__508">
         <form type="lemma">
           <orth>ufyə</orth>
+          <pron notation="ipa">ˈuɜɸʲə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9720,9 +10230,10 @@
           <mentioned>wufa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uinn__n__509">
         <form type="lemma">
           <orth>uinn</orth>
+          <pron notation="ipa">ˈuinn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9733,9 +10244,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="ume__v__510">
         <form type="lemma">
           <orth>umē</orth>
+          <pron notation="ipa">uɜmˈeːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9752,9 +10264,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="umm__n__511">
         <form type="lemma">
           <orth>umm</orth>
+          <pron notation="ipa">ˈuɜmm</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9773,9 +10286,10 @@
           <mentioned>umma</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uno__v__512">
         <form type="lemma">
           <orth>unō</orth>
+          <pron notation="ipa">uɜnˈoːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9791,9 +10305,10 @@
           <gloss>szül</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="unym__n__513">
         <form type="lemma">
           <orth>uny̌m</orth>
+          <pron notation="ipa">ˈuɜɲm</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9809,9 +10324,10 @@
           <gloss>eszik ember</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uryu__adj__514">
         <form type="lemma">
           <orth>uryū</orth>
+          <pron notation="ipa">uɜʀʲˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -9827,9 +10343,10 @@
           <gloss>kő</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uyai__v__515">
         <form type="lemma">
           <orth>uyai</orth>
+          <pron notation="ipa">uɜjˈaiɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9845,9 +10362,10 @@
           <gloss>nyúl &gt; elfut, menekül</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uyiegh__adj__516">
         <form type="lemma">
           <orth>ūyiégh</orth>
+          <pron notation="ipa">ˌuːɜjɪˈe5ɣ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -9863,9 +10381,10 @@
           <gloss>hold</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uyu__n__517">
         <form type="lemma">
           <orth>uyù</orth>
+          <pron notation="ipa">uɜjˈu1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9883,9 +10402,10 @@
           <gloss>ù</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="uyuru__n__518">
         <form type="lemma">
           <orth>uyurù</orth>
+          <pron notation="ipa">ˌuɜjuɜʀˈu1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9901,9 +10421,10 @@
           <gloss>hal száj</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wa_zyeri__conj__519">
         <form type="lemma">
           <orth>wà zyerı</orth>
+          <pron notation="ipa">wˈa1 ʝɛɜʀɪ</pron>
         </form>
         <gramGrp>
           <pos>conj</pos>
@@ -9920,9 +10441,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="fyai__n__520">
         <form type="lemma">
           <orth>fyái</orth>
+          <pron notation="ipa">ɸʲˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9941,9 +10463,10 @@
           <mentioned>fá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="waiqh__n__521">
         <form type="lemma">
           <orth>waiqh</orth>
+          <pron notation="ipa">wˈaiɜχ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9954,9 +10477,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="wam__v__522">
         <form type="lemma">
           <orth>wam</orth>
+          <pron notation="ipa">wˈaɜm</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9971,9 +10495,10 @@
           <mentioned>WÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wam_dhei__v__523">
         <form type="lemma">
           <orth>wam dhei</orth>
+          <pron notation="ipa">wˈaɜm ðˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9984,9 +10509,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="wam_ruo__v__524">
         <form type="lemma">
           <orth>wam ruo</orth>
+          <pron notation="ipa">wˈaɜm ʀˈuoɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10002,9 +10528,10 @@
           <gloss>megy megy</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wao__n__525">
         <form type="lemma">
           <orth>wào</orth>
+          <pron notation="ipa">wˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10023,9 +10550,10 @@
           <mentioned>fà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wao_dhei__v__526">
         <form type="lemma">
           <orth>wào dhei</orth>
+          <pron notation="ipa">wˈaoɜ ðˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10036,9 +10564,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="waor__v__527">
         <form type="lemma">
           <orth>waor</orth>
+          <pron notation="ipa">wˈaoɜʀ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10054,9 +10583,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="wau__n__528">
         <form type="lemma">
           <orth>wau</orth>
+          <pron notation="ipa">wˈɑuɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10072,9 +10602,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="we__v__529">
         <form type="lemma">
           <orth>wê</orth>
+          <pron notation="ipa">wˈeː5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10093,9 +10624,10 @@
           <mentioned>wé</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="weir__prep__530">
         <form type="lemma">
           <orth>weír</orth>
+          <pron notation="ipa">wɛɜˈi5ʀ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -10111,9 +10643,10 @@
           <gloss>fül</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="weo__n__531">
         <form type="lemma">
           <orth>weo</orth>
+          <pron notation="ipa">wˈeoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10133,9 +10666,10 @@
           <mentioned>wàu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wia__n__532">
         <form type="lemma">
           <orth>wia</orth>
+          <pron notation="ipa">wʲˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10150,9 +10684,10 @@
           <mentioned>wí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wiara__num__533">
         <form type="lemma">
           <orth>wiarā</orth>
+          <pron notation="ipa">wʲaɜʀˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10163,9 +10698,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="winen__num__534">
         <form type="lemma">
           <orth>winen</orth>
+          <pron notation="ipa">wiɜnˈɛɜn</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10176,9 +10712,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="wineni__num__535">
         <form type="lemma">
           <orth>winēni</orth>
+          <pron notation="ipa">wiɜnˈeːɜnɪ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10189,9 +10726,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="winennu__num__536">
         <form type="lemma">
           <orth>winennū</orth>
+          <pron notation="ipa">wˌiɜnɛɜnnˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10202,9 +10740,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="winenwa__num__537">
         <form type="lemma">
           <orth>winenwa</orth>
+          <pron notation="ipa">wiɜnˈɛɜnwaɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10215,9 +10754,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="winyei__v__538">
         <form type="lemma">
           <orth>winyei</orth>
+          <pron notation="ipa">wiɜɲˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10233,9 +10773,10 @@
           <gloss>szőr anya</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wo_syie___adv__539">
         <form type="lemma">
           <orth>wo syie </orth>
+          <pron notation="ipa">wˈoɜ çˈie</pron>
         </form>
         <gramGrp>
           <pos>adv</pos>
@@ -10252,9 +10793,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="woa__v__540">
         <form type="lemma">
           <orth>woa</orth>
+          <pron notation="ipa">wˈoəɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10274,9 +10816,10 @@
           <mentioned>faa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wom__v__541">
         <form type="lemma">
           <orth>wòm</orth>
+          <pron notation="ipa">wˈɔ1m</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10295,9 +10838,10 @@
           <mentioned>fú mù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="woneni__num__542">
         <form type="lemma">
           <orth>wonēni</orth>
+          <pron notation="ipa">woɜnˈeːɜnɪ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10308,9 +10852,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="wonnu__num__543">
         <form type="lemma">
           <orth>wonnū</orth>
+          <pron notation="ipa">woɜnnˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10321,9 +10866,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="worei__n__544">
         <form type="lemma">
           <orth>woréi</orth>
+          <pron notation="ipa">woɜʀˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10339,9 +10885,10 @@
           <gloss>ürülék kő</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wosy__num__545">
         <form type="lemma">
           <orth>wōsy</orth>
+          <pron notation="ipa">wˈoːɜç</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10352,9 +10899,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="wosya__n__546">
         <form type="lemma">
           <orth>wosyá</orth>
+          <pron notation="ipa">woɜçˈa5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10370,9 +10918,10 @@
           <gloss>láb &gt; fordul</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wosyiagh__n__547">
         <form type="lemma">
           <orth>wōsyiagh</orth>
+          <pron notation="ipa">wˌoːɜçɪˈaɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10388,9 +10937,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="wuo__n__548">
         <form type="lemma">
           <orth>wuo</orth>
+          <pron notation="ipa">wˈuoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10409,9 +10959,10 @@
           <mentioned>fù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="wuo__v__549">
         <form type="lemma">
           <orth>wúo</orth>
+          <pron notation="ipa">wˈuo5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10430,9 +10981,10 @@
           <mentioned>fú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ya__n__550">
         <form type="lemma">
           <orth>yā</orth>
+          <pron notation="ipa">jˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10451,9 +11003,10 @@
           <mentioned>ya</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ya_thaya__adj__551">
         <form type="lemma">
           <orth>ya thǎya</orth>
+          <pron notation="ipa">jˈaɜ θˈɑː1jə</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -10469,9 +11022,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="yaegh__n__552">
         <form type="lemma">
           <orth>yaegh</orth>
+          <pron notation="ipa">jˈaɜəɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10487,9 +11041,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="yagh__v__553">
         <form type="lemma">
           <orth>yagh</orth>
+          <pron notation="ipa">jˈaɜɣ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10509,9 +11064,10 @@
           <mentioned>yaqha</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yai__n__554">
         <form type="lemma">
           <orth>yái</orth>
+          <pron notation="ipa">jˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10530,9 +11086,10 @@
           <mentioned>yá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yaigh__adj__555">
         <form type="lemma">
           <orth>yaigh</orth>
+          <pron notation="ipa">jˈaiɜɣ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -10548,9 +11105,10 @@
           <gloss>nyúl &gt; elfut, menekül</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yana__v__556">
         <form type="lemma">
           <orth>yānā</orth>
+          <pron notation="ipa">jaːɜnˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10566,9 +11124,10 @@
           <gloss>~ ar. yaˀnī ?</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yang__n__557">
         <form type="lemma">
           <orth>yáng</orth>
+          <pron notation="ipa">jˈaɜŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10585,9 +11144,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="yanna__v__558">
         <form type="lemma">
           <orth>yannā</orth>
+          <pron notation="ipa">jaɜnnˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10602,9 +11162,10 @@
           <mentioned>YA NÀ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yao__n__559">
         <form type="lemma">
           <orth>yao</orth>
+          <pron notation="ipa">jˈaoɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10620,9 +11181,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="yao__n__560">
         <form type="lemma">
           <orth>yào</orth>
+          <pron notation="ipa">jˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10641,9 +11203,10 @@
           <mentioned>yà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yau__n__561">
         <form type="lemma">
           <orth>yàu</orth>
+          <pron notation="ipa">jˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10662,9 +11225,10 @@
           <mentioned>yù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yau__v__562">
         <form type="lemma">
           <orth>yàu</orth>
+          <pron notation="ipa">jˈɑu1</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10683,9 +11247,10 @@
           <mentioned>yù</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ye__n__563">
         <form type="lemma">
           <orth>yê</orth>
+          <pron notation="ipa">jˈeː5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10705,9 +11270,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ye__v__564">
         <form type="lemma">
           <orth>yê</orth>
+          <pron notation="ipa">jˈeː5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10726,9 +11292,10 @@
           <mentioned>yí</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="lye__n__565">
         <form type="lemma">
           <orth>lyē</orth>
+          <pron notation="ipa">lʲˈeːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10748,9 +11315,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yea__n__566">
         <form type="lemma">
           <orth>yea</orth>
+          <pron notation="ipa">jˈeɜə</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10767,9 +11335,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="yeao__n__567">
         <form type="lemma">
           <orth>yéao</orth>
+          <pron notation="ipa">jˈe5əɔ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10789,9 +11358,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yeao__n__568">
         <form type="lemma">
           <orth>yēao</orth>
+          <pron notation="ipa">jˈeːɜao</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10808,9 +11378,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="yeffe__n__569">
         <form type="lemma">
           <orth>yeffe</orth>
+          <pron notation="ipa">jˈɛɜɸɸɛɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10825,9 +11396,10 @@
           <mentioned>FÌ</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yeu__n__570">
         <form type="lemma">
           <orth>yeu</orth>
+          <pron notation="ipa">jˈɛɜʊ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10844,9 +11416,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="yhai__n__571">
         <form type="lemma">
           <orth>ẏhái</orth>
+          <pron notation="ipa">ɯɜhˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10867,9 +11440,10 @@
           <gloss>„egérként átférő fejű”</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yhai__v__572">
         <form type="lemma">
           <orth>ẏhái</orth>
+          <pron notation="ipa">ɯɜhˈai5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10890,9 +11464,10 @@
           <gloss>„egérként átférő fejű”</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yi__n__573">
         <form type="lemma">
           <orth>yī</orth>
+          <pron notation="ipa">jˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10911,9 +11486,10 @@
           <mentioned>yi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yi__v__574">
         <form type="lemma">
           <orth>yī</orth>
+          <pron notation="ipa">jˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10932,9 +11508,10 @@
           <mentioned>yi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yi_ghua__v__575">
         <form type="lemma">
           <orth>yī ghūa</orth>
+          <pron notation="ipa">jˈiːɜ ɣˈuaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10945,9 +11522,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="yea__adj__576">
         <form type="lemma">
           <orth>yéa</orth>
+          <pron notation="ipa">jˈe5ə</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -10967,9 +11545,10 @@
           <mentioned>yía</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yia__adj__577">
         <form type="lemma">
           <orth>yiá</orth>
+          <pron notation="ipa">jˈa5</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -10985,9 +11564,10 @@
           <gloss>nappal</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yian_zyan__n__578">
         <form type="lemma">
           <orth>yian zyan</orth>
+          <pron notation="ipa">jˈaɜn ʝˈaɜn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10998,9 +11578,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="yiann__n__579">
         <form type="lemma">
           <orth>yìann</orth>
+          <pron notation="ipa">ji1ˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11019,9 +11600,10 @@
           <mentioned>yìan</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yidh__n__580">
         <form type="lemma">
           <orth>yidh</orth>
+          <pron notation="ipa">jˈiɜð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11041,9 +11623,10 @@
           <mentioned>yi tha</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="rying__n__581">
         <form type="lemma">
           <orth>ryǐng</orth>
+          <pron notation="ipa">rːjjˈiː1ŋ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11063,9 +11646,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yinn__n__582">
         <form type="lemma">
           <orth>yǐnn</orth>
+          <pron notation="ipa">jˈiː1nn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11084,9 +11668,10 @@
           <mentioned>yìn</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yoa__n__583">
         <form type="lemma">
           <orth>yoa</orth>
+          <pron notation="ipa">jˈoəɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11105,9 +11690,10 @@
           <mentioned>yaa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yrara__v__584">
         <form type="lemma">
           <orth>ẏrarā</orth>
+          <pron notation="ipa">ˌɯɜʀəʀˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11123,9 +11709,10 @@
           <gloss>ugrik</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yu__n__585">
         <form type="lemma">
           <orth>yū</orth>
+          <pron notation="ipa">jˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11145,9 +11732,10 @@
           <mentioned>yu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="ywann__n__586">
         <form type="lemma">
           <orth>ywann</orth>
+          <pron notation="ipa">ɯwˈaɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11166,9 +11754,10 @@
           <mentioned>yuan</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yy__n__587">
         <form type="lemma">
           <orth>yy̌</orth>
+          <pron notation="ipa">jj</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11188,9 +11777,10 @@
           <gloss>$</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yyr__adj__588">
         <form type="lemma">
           <orth>yy̌r</orth>
+          <pron notation="ipa">jjʀ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11206,9 +11796,10 @@
           <gloss>vér</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yelua__adj__589">
         <form type="lemma">
           <orth>yəlua</orth>
+          <pron notation="ipa">jəɬˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11228,9 +11819,10 @@
           <mentioned>yía rua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yelua__adj__590">
         <form type="lemma">
           <orth>yəlua</orth>
+          <pron notation="ipa">jəɬˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11245,9 +11837,10 @@
           <mentioned>yía rua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="yelwaio__adj__591">
         <form type="lemma">
           <orth>yəlwaiō</orth>
+          <pron notation="ipa">jəlwˈaiɜoːɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11264,9 +11857,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="zya__n__592">
         <form type="lemma">
           <orth>zyā</orth>
+          <pron notation="ipa">ʝˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11282,9 +11876,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="zya__n__593">
         <form type="lemma">
           <orth>zyǎ</orth>
+          <pron notation="ipa">ʝˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11303,9 +11898,10 @@
           <mentioned>sà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyagh__n__594">
         <form type="lemma">
           <orth>zyǎgh</orth>
+          <pron notation="ipa">ʝˈɑː1ɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11324,9 +11920,10 @@
           <mentioned>sa ñà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syai__n__595">
         <form type="lemma">
           <orth>syái</orth>
+          <pron notation="ipa">çˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11345,9 +11942,10 @@
           <mentioned>sá</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyaio__n__596">
         <form type="lemma">
           <orth>zyaio</orth>
+          <pron notation="ipa">ʝˈaiɜɔ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11363,9 +11961,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="zyamm__n__597">
         <form type="lemma">
           <orth>zyamm</orth>
+          <pron notation="ipa">ʝˈaɜmm</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11381,9 +11980,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="zyann_ngi__v__598">
         <form type="lemma">
           <orth>zyann ngī</orth>
+          <pron notation="ipa">ʝˈaɜnn ŋˈiːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11398,9 +11998,10 @@
           <mentioned>NGI</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zya__n__599">
         <form type="lemma">
           <orth>zyǎ</orth>
+          <pron notation="ipa">ʝˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11419,9 +12020,10 @@
           <mentioned>sà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyaoi_dhunn__n__600">
         <form type="lemma">
           <orth>zyàoı dhunn</orth>
+          <pron notation="ipa">ʝˈao1ɪ ðˈuɜnn</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11432,9 +12034,10 @@
           </cit>
         </sense>
       </entry>
-      <entry>
+      <entry xml:id="zyar__prep__601">
         <form type="lemma">
           <orth>zyār</orth>
+          <pron notation="ipa">ʝˈaːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>prep</pos>
@@ -11450,9 +12053,10 @@
           <gloss>nappal</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyeadh__n__602">
         <form type="lemma">
           <orth>zyěadh</orth>
+          <pron notation="ipa">ʝˈeː1əð</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11472,9 +12076,10 @@
           <mentioned>sêathà</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syei__n__603">
         <form type="lemma">
           <orth>syéi</orth>
+          <pron notation="ipa">çˈei5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11493,9 +12098,10 @@
           <mentioned>síi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyer__n__604">
         <form type="lemma">
           <orth>zyer</orth>
+          <pron notation="ipa">ʝˈɛɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11515,9 +12121,10 @@
           <mentioned>sái li</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="syei__v__605">
         <form type="lemma">
           <orth>syei</orth>
+          <pron notation="ipa">çˈeiɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11537,9 +12144,10 @@
           <mentioned>sii</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyia__n__606">
         <form type="lemma">
           <orth>zyıa</orth>
+          <pron notation="ipa">ʝɪˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11559,9 +12167,10 @@
           <mentioned>sia</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyia__adj__607">
         <form type="lemma">
           <orth>zyìa</orth>
+          <pron notation="ipa">ʝi1ˈaɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11580,9 +12189,10 @@
           <mentioned>sìa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyisya__v__608">
         <form type="lemma">
           <orth>zyīsya</orth>
+          <pron notation="ipa">ʝˈiːɜçə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11602,9 +12212,10 @@
           <mentioned>si sā</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyisyagh__n__609">
         <form type="lemma">
           <orth>zyīsyagh</orth>
+          <pron notation="ipa">ʝˈiːɜçaɜɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11624,9 +12235,10 @@
           <mentioned>si saxu</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyizyu__n__610">
         <form type="lemma">
           <orth>zyizyu</orth>
+          <pron notation="ipa">ʝˈiɜʝʊ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11643,9 +12255,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="zymuo__n__611">
         <form type="lemma">
           <orth>zẏmuó</orth>
+          <pron notation="ipa">ʝˌɯɜmuɜˈo5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11660,9 +12273,10 @@
           <mentioned>SÍ MU</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyoa__adj__612">
         <form type="lemma">
           <orth>zyoa</orth>
+          <pron notation="ipa">ʝˈoəɜ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11678,9 +12292,10 @@
           <gloss>levél</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyoananng__adj__613">
         <form type="lemma">
           <orth>zyoanànng</orth>
+          <pron notation="ipa">ʝˈoəɜna1ŋŋ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11696,9 +12311,10 @@
           <gloss>cirmos harap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyoury__n__614">
         <form type="lemma">
           <orth>zyoury̌</orth>
+          <pron notation="ipa">ʝoˈuɜʀɯ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11714,9 +12330,10 @@
           <gloss>zöldség kígyó</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyu__n__615">
         <form type="lemma">
           <orth>zyū</orth>
+          <pron notation="ipa">ʝˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11735,9 +12352,10 @@
           <mentioned>su</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyua__n__616">
         <form type="lemma">
           <orth>zyua</orth>
+          <pron notation="ipa">ʝˈuaɜ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11756,9 +12374,10 @@
           <mentioned>sua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyuaghao__n__617">
         <form type="lemma">
           <orth>zyuaghào</orth>
+          <pron notation="ipa">ʝuaɜɣˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11778,9 +12397,10 @@
           <mentioned>zyua</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyuai__n__618">
         <form type="lemma">
           <orth>zyūái</orth>
+          <pron notation="ipa">ʝuːɜˈai5</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11800,9 +12420,10 @@
           <mentioned>su ái</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyuo__v__619">
         <form type="lemma">
           <orth>zyúo</orth>
+          <pron notation="ipa">ʝˈuo5</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11821,9 +12442,10 @@
           <mentioned>sú</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyur__n__620">
         <form type="lemma">
           <orth>zyur</orth>
+          <pron notation="ipa">ʝˈuɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11839,9 +12461,10 @@
           <gloss>növény</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyur__adj__621">
         <form type="lemma">
           <orth>zyūr</orth>
+          <pron notation="ipa">ʝˈuːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -11850,8 +12473,10 @@
           <cit type="translation" xml:lang="hu">
             <quote>vörös szőrű</quote>
           </cit>
+        </sense>
+        <sense>
           <cit type="translation" xml:lang="hu">
-            <quote> homokszínű, világosszöld</quote>
+            <quote>homokszínű, világosszöld</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -11860,9 +12485,10 @@
           <gloss>levél</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyyaqh__part__622">
         <form type="lemma">
           <orth>zyỳaqh</orth>
+          <pron notation="ipa">ʝɯ1ˈaɜχ</pron>
         </form>
         <gramGrp>
           <pos>part</pos>
@@ -11878,9 +12504,10 @@
           <gloss>vadászik, lecsap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyygh__n__623">
         <form type="lemma">
           <orth>zyỳgh</orth>
+          <pron notation="ipa">ʝˈɯ1ɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11896,9 +12523,10 @@
           <gloss>vadászik, lecsap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyyqha__v__624">
         <form type="lemma">
           <orth>zyẏqhā</orth>
+          <pron notation="ipa">ʝɯɜχˈaːɜ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11914,9 +12542,10 @@
           <gloss>vadászik, lecsap</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyyra__v__625">
         <form type="lemma">
           <orth>zyỳra</orth>
+          <pron notation="ipa">ʝˈɯ1ʀə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11932,9 +12561,10 @@
           <gloss>ugrik</gloss>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyieaqh__n__626">
         <form type="lemma">
           <orth>zyıēaqh</orth>
+          <pron notation="ipa">ʝɪˈeːɜəχ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11954,9 +12584,10 @@
           <mentioned>zyıyayax</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyigh__v__627">
         <form type="lemma">
           <orth>zyıgh</orth>
+          <pron notation="ipa">ʝˈɪɣ</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11975,9 +12606,10 @@
           <mentioned>sixi</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyilir__n__628">
         <form type="lemma">
           <orth>zyılīr</orth>
+          <pron notation="ipa">ʝɪɬˈiːɜʀ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11997,9 +12629,10 @@
           <mentioned>sáili ra</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyina__adj__629">
         <form type="lemma">
           <orth>zyınǎ</orth>
+          <pron notation="ipa">ʝɪnˈɑː1</pron>
         </form>
         <gramGrp>
           <pos>adj</pos>
@@ -12018,9 +12651,10 @@
           <mentioned>si nàa</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyinao__n__630">
         <form type="lemma">
           <orth>zyınào</orth>
+          <pron notation="ipa">ʝɪnˈao1</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -12040,9 +12674,10 @@
           <mentioned>si nào</mentioned>
         </etym>
       </entry>
-      <entry>
+      <entry xml:id="zyemaregh__n__631">
         <form type="lemma">
           <orth>zyəmarəgh</orth>
+          <pron notation="ipa">ʝəmˈaɜʀəɣ</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -12058,9 +12693,10 @@
         </etym>
         <etym type="lemma"/>
       </entry>
-      <entry>
+      <entry xml:id="izyeiu__G3__632">
         <form type="lemma">
           <orth>ızyeiū</orth>
+          <pron notation="ipa">ɪʝeiɜˈuːɜ</pron>
         </form>
         <gramGrp>
           <pos>G3</pos>
