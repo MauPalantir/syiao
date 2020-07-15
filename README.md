@@ -1,4 +1,4 @@
-## Syiào Méi
+# Syiào Méi
 
 A constructed language for the fictional culture of domestic cats.
 
