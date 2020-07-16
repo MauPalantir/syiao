@@ -30,7 +30,7 @@
    </category>
    <category>
       <name>Y</name>
-      <sounds>ÿýỳȳŷỷ</sounds>
+      <sounds>ÿýỳȳŷẙ</sounds>
    </category>
    <!--Short-long-lax vowels-->
    <category>
@@ -39,7 +39,7 @@
    </category>
    <category>
       <name>Ā</name>
-      <sounds>īāūēōȳîâûêôûŷǐǎǔěǒỷ</sounds>
+      <sounds>īāūēōȳîâûêôûŷǐǎǔěǒẙ</sounds>
    </category>
    <category>
       <name>Ǝ</name>
@@ -56,7 +56,7 @@
    </category>
    <category>
       <name>À</name>
-      <sounds>ìàùèòỳǐǎǔěǒỷ</sounds>
+      <sounds>ìàùèòỳǐǎǔěǒẙ</sounds>
    </category>
    <category>
       <name>Â</name>
@@ -64,7 +64,7 @@
    </category>
    <category>
       <name>Ǎ</name>
-      <sounds>ǐǎǔěǒỷ</sounds>
+      <sounds>ǐǎǔěǒẙ</sounds>
    </category>
    <!--Front—Back—Middle-->
    <category>
@@ -77,16 +77,10 @@
    </category>
    <category>
       <name>M</name>
-      <sounds>ÿaȳāýáỳàŷâỷǎẏə</sounds>
+      <sounds>ÿaȳāýáỳàŷâẙǎẏə</sounds>
    </category>
-   <alias>
-      <source>y̌</source>
-      <target>ỷ</target>
-   </alias>
-   <alias>
-      <source>u̇</source>
-      <target>ü</target>
-   </alias>
+   <!--y̌ |ẙ-->
+   <!--u̇|ü-->
    <alias>
       <source>ẏ</source>
       <target>ÿ</target>

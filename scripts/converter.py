@@ -139,6 +139,9 @@ class TEI:
 
             for i, meaning in enumerate(row[2].split(';')):
                 sense = etree.SubElement(entry, 'sense')
+                lbl = etree.SubElement(sense, 'lbl')
+                lbl.text = row[7]
+
                 sense_words_en = senses_en[i].split(',')
                 print(sense_words_en)
 
