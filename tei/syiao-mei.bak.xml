@@ -20,7 +20,7 @@
          <!-- TBD: revisioning <revisionDesc></revisionDesc>-->
       </fileDesc>
    </teiHeader>
-   <text>
+   <text xml:lang="hu">
       <body>
          <entry xml:id="Aineweo__prop__1">
             <form type="lemma">
@@ -79,7 +79,7 @@
                <gloss xml:lang="hu">fa vadászik</gloss>
                <gloss xml:lang="en">tree hunt</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>thu xan</mentioned>
             </etym>
@@ -133,7 +133,7 @@
                <gloss xml:lang="hu">nézd! mond</gloss>
                <gloss xml:lang="en">look! tell</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xí ya</mentioned>
             </etym>
@@ -163,7 +163,7 @@
                <gloss xml:lang="hu">farok </gloss>
                <gloss xml:lang="en">tail</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>húo sán</mentioned>
             </etym>
@@ -213,7 +213,7 @@
                <gloss xml:lang="hu">valaki, ő</gloss>
                <gloss xml:lang="en">someone, he</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mù</mentioned>
                <gloss xml:lang="hu">&lt; wào màu „senki fia”</gloss>
@@ -243,7 +243,7 @@
                <gloss xml:lang="hu">nő ugrik [fenséges]</gloss>
                <gloss xml:lang="en">woman jump [majestic]</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>myào lā</mentioned>
             </etym>
@@ -377,7 +377,7 @@
                <gloss xml:lang="hu">sehol hegy</gloss>
                <gloss xml:lang="en">nowhere mountain</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>thásáilixáiñganū</mentioned>
             </etym>
@@ -443,7 +443,7 @@
                <lang>Root</lang>
                <mentioned>NGÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngá</mentioned>
             </etym>
@@ -471,7 +471,7 @@
                <gloss xml:lang="hu">nyal hát</gloss>
                <gloss xml:lang="en">lick back</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ñá ña</mentioned>
             </etym>
@@ -499,7 +499,7 @@
                <gloss xml:lang="hu">nyal én</gloss>
                <gloss xml:lang="en">lick me</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ñá na</mentioned>
             </etym>
@@ -564,7 +564,7 @@
                <gloss xml:lang="hu">gyerek &gt; kicsi</gloss>
                <gloss xml:lang="en">child&gt; small</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>ai yùñ</mentioned>
             </etym>
@@ -592,7 +592,7 @@
                <gloss xml:lang="hu">ugrik &gt; nagy</gloss>
                <gloss xml:lang="en">jump&gt; big</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>alaxù</mentioned>
             </etym>
@@ -620,6 +620,7 @@
                <gloss xml:lang="hu">megy</gloss>
                <gloss xml:lang="en">go</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="amyaqh__adv__24">
             <form type="lemma">
@@ -638,7 +639,7 @@
                   <quote>better</quote>
                </cit>
             </sense>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>amyǎxa</mentioned>
             </etym>
@@ -746,7 +747,7 @@
                <gloss xml:lang="hu">fél</gloss>
                <gloss xml:lang="en">party</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>MA</lang>
                <mentioned>aśéa</mentioned>
             </etym>
@@ -801,7 +802,7 @@
                <gloss xml:lang="hu">megy jön</gloss>
                <gloss xml:lang="en">go come</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>afàmū</mentioned>
             </etym>
@@ -910,7 +911,7 @@
                <lang>Root</lang>
                <mentioned>THÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thà</mentioned>
             </etym>
@@ -936,7 +937,7 @@
                <lang>Root</lang>
                <mentioned>THÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thù</mentioned>
                <gloss xml:lang="hu">&gt; az, ott, közel</gloss>
@@ -1058,6 +1059,7 @@
                <lang>Root</lang>
                <mentioned>THI SI NGÍ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="dhu__n__41">
             <form type="lemma">
@@ -1080,7 +1082,7 @@
                <lang>Root</lang>
                <mentioned>THU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thu</mentioned>
             </etym>
@@ -1134,7 +1136,7 @@
                <lang>Root</lang>
                <mentioned>THÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thú</mentioned>
             </etym>
@@ -1166,7 +1168,7 @@
                <gloss xml:lang="hu">fa + farok</gloss>
                <gloss xml:lang="en">fa + tail</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>thuxú</mentioned>
             </etym>
@@ -1192,7 +1194,7 @@
                <lang>Root</lang>
                <mentioned>THÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thì</mentioned>
             </etym>
@@ -1218,6 +1220,7 @@
                <lang>Root</lang>
                <mentioned>THÍ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="dhe_syer_thesyer__adv__47">
             <form type="lemma">
@@ -1260,7 +1263,7 @@
                <gloss xml:lang="hu">nyúl &gt; elfut, menekül</gloss>
                <gloss xml:lang="en">rabbit&gt; run away, escape</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yái</mentioned>
             </etym>
@@ -1288,7 +1291,7 @@
                <lang>Root</lang>
                <mentioned>MÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ñímíñ</mentioned>
             </etym>
@@ -1314,7 +1317,7 @@
                <lang>Root</lang>
                <mentioned>MÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ñímíñ</mentioned>
             </etym>
@@ -1368,7 +1371,7 @@
                <lang>Root</lang>
                <mentioned>FA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fa</mentioned>
             </etym>
@@ -1394,7 +1397,7 @@
                <lang>Root</lang>
                <mentioned>FA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fa</mentioned>
             </etym>
@@ -1479,7 +1482,7 @@
                <lang>Root</lang>
                <mentioned>FA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fan</mentioned>
             </etym>
@@ -1507,7 +1510,7 @@
                <gloss xml:lang="hu">láb</gloss>
                <gloss xml:lang="en">foot</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>faa ra</mentioned>
             </etym>
@@ -1563,7 +1566,7 @@
                <lang>Root</lang>
                <mentioned>FÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fía</mentioned>
             </etym>
@@ -1589,7 +1592,7 @@
                <lang>Root</lang>
                <mentioned>FI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fii</mentioned>
             </etym>
@@ -1615,7 +1618,7 @@
                <lang>Root</lang>
                <mentioned>FÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fíia</mentioned>
             </etym>
@@ -1673,7 +1676,7 @@
                <gloss xml:lang="hu">szőr kő</gloss>
                <gloss xml:lang="en">fur stone</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>fyiirá</mentioned>
             </etym>
@@ -1699,6 +1702,7 @@
                <lang>Root</lang>
                <mentioned>FÌ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="fi__v__65">
             <form type="lemma">
@@ -1730,6 +1734,7 @@
                <lang>Root</lang>
                <mentioned>FÌ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="fidh__prep__66">
             <form type="lemma">
@@ -1804,7 +1809,7 @@
                <lang>Root</lang>
                <mentioned>FÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fìn</mentioned>
             </etym>
@@ -1832,7 +1837,7 @@
                <gloss xml:lang="hu">visz + művelt.</gloss>
                <gloss xml:lang="en">carry + educated.</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fìra</mentioned>
             </etym>
@@ -1860,6 +1865,7 @@
                <gloss xml:lang="hu">szőr</gloss>
                <gloss xml:lang="en">hair</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="fiyagh__adv__71">
             <form type="lemma">
@@ -1908,7 +1914,7 @@
                <gloss xml:lang="hu">akar bánt</gloss>
                <gloss xml:lang="en">he want to hurt you</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>fyìi sa</mentioned>
             </etym>
@@ -1936,7 +1942,7 @@
                <gloss xml:lang="hu">visz öl</gloss>
                <gloss xml:lang="en">he take kill</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>fìenaxa</mentioned>
             </etym>
@@ -1962,7 +1968,7 @@
                <lang>Root</lang>
                <mentioned>FA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>faa</mentioned>
             </etym>
@@ -1990,7 +1996,7 @@
                <gloss xml:lang="hu">láb</gloss>
                <gloss xml:lang="en">foot</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>faa</mentioned>
             </etym>
@@ -2064,7 +2070,7 @@
                <lang>Root</lang>
                <mentioned>FU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fu</mentioned>
             </etym>
@@ -2092,7 +2098,7 @@
                <gloss xml:lang="hu">hegy, csúcs</gloss>
                <gloss xml:lang="en">mountain peak</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fá ra</mentioned>
             </etym>
@@ -2120,7 +2126,7 @@
                <gloss xml:lang="hu">hegy, csúcs</gloss>
                <gloss xml:lang="en">mountain peak</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fá ra</mentioned>
             </etym>
@@ -2146,7 +2152,7 @@
                <lang>Root</lang>
                <mentioned>FÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fí</mentioned>
             </etym>
@@ -2196,7 +2202,7 @@
                <lang>Root</lang>
                <mentioned>FI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fi</mentioned>
             </etym>
@@ -2250,6 +2256,7 @@
                <gloss xml:lang="hu">szőr növény</gloss>
                <gloss xml:lang="en">fur plant</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="fyoum__v__86">
             <form type="lemma">
@@ -2274,6 +2281,7 @@
                <gloss xml:lang="hu">üt</gloss>
                <gloss xml:lang="en">beat</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="fyy__v__87">
             <form type="lemma">
@@ -2305,7 +2313,7 @@
                <lang>Root</lang>
                <mentioned>FÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fì</mentioned>
             </etym>
@@ -2405,9 +2413,9 @@
                <lang>Root</lang>
                <mentioned>FI MU FI RÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
-               <mentioned>fyiéamù fiirâ</mentioned>
+               <mentioned>fyiéamu fiirâ</mentioned>
                <gloss xml:lang="hu">puha fekhely antróp szőr</gloss>
                <gloss xml:lang="en">soft bed with anthropic fur</gloss>
             </etym>
@@ -2437,7 +2445,7 @@
                <gloss xml:lang="hu">meleg benn</gloss>
                <gloss xml:lang="en">warm inside</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>fyé rúa</mentioned>
             </etym>
@@ -2465,6 +2473,7 @@
                <gloss xml:lang="hu">puha fül</gloss>
                <gloss xml:lang="en">soft ear</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ghao__v__94">
             <form type="lemma">
@@ -2565,7 +2574,7 @@
                <gloss xml:lang="hu">szag észrevesz</gloss>
                <gloss xml:lang="en">you notice an odor</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>gàù nào</mentioned>
             </etym>
@@ -2591,7 +2600,7 @@
                <lang>Root</lang>
                <mentioned>NGA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngan</mentioned>
             </etym>
@@ -2691,7 +2700,7 @@
                <gloss xml:lang="hu">harap ugrik</gloss>
                <gloss xml:lang="en">bite jump</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>gà la</mentioned>
             </etym>
@@ -2721,7 +2730,7 @@
                <gloss xml:lang="hu">harap ugrik</gloss>
                <gloss xml:lang="en">bite jump</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>gà la</mentioned>
             </etym>
@@ -2749,7 +2758,7 @@
                <gloss xml:lang="hu">harap fény</gloss>
                <gloss xml:lang="en">bite light</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ñasá</mentioned>
             </etym>
@@ -2829,7 +2838,7 @@
                <gloss xml:lang="hu">szag, nyom</gloss>
                <gloss xml:lang="en">odor, trace</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xù</mentioned>
             </etym>
@@ -2906,6 +2915,7 @@
                <lang>Root</lang>
                <mentioned>QHÙ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="gheir__v__110">
             <form type="lemma">
@@ -2982,7 +2992,7 @@
                <lang>Root</lang>
                <mentioned>NGI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngi</mentioned>
             </etym>
@@ -3032,7 +3042,7 @@
                <lang>Root</lang>
                <mentioned>NGI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ñira</mentioned>
             </etym>
@@ -3174,7 +3184,7 @@
                <lang>Root</lang>
                <mentioned>NGU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngu</mentioned>
             </etym>
@@ -3200,7 +3210,7 @@
                <lang>Root</lang>
                <mentioned>QHÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xùn</mentioned>
             </etym>
@@ -3228,7 +3238,7 @@
                <gloss xml:lang="hu">szag, nyom</gloss>
                <gloss xml:lang="en">odor, trace</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xùu</mentioned>
             </etym>
@@ -3278,7 +3288,7 @@
                <lang>Root</lang>
                <mentioned>QHÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xì</mentioned>
             </etym>
@@ -3306,7 +3316,7 @@
                <gloss xml:lang="hu">hideg béka</gloss>
                <gloss xml:lang="en">cold frog</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ñusì</mentioned>
             </etym>
@@ -3334,7 +3344,7 @@
                <gloss xml:lang="hu">máj</gloss>
                <gloss xml:lang="en">liver</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngìa</mentioned>
             </etym>
@@ -3360,7 +3370,7 @@
                <lang>Root</lang>
                <mentioned>QHÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xá</mentioned>
             </etym>
@@ -3388,7 +3398,7 @@
                <gloss xml:lang="hu">fej gerinc &gt; hegy feje</gloss>
                <gloss xml:lang="en">head ridge&gt; mountain head</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>xáin gan</mentioned>
             </etym>
@@ -3414,7 +3424,7 @@
                <lang>Root</lang>
                <mentioned>QHÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xán</mentioned>
             </etym>
@@ -3486,7 +3496,7 @@
                <lang>Root</lang>
                <mentioned>QHÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xí</mentioned>
             </etym>
@@ -3584,6 +3594,7 @@
                <gloss xml:lang="hu">farok</gloss>
                <gloss xml:lang="en">tail</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="hua__prep__136">
             <form type="lemma">
@@ -3632,7 +3643,7 @@
                <gloss xml:lang="hu">egér öl</gloss>
                <gloss xml:lang="en">mouse kill</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>qhua na</mentioned>
             </etym>
@@ -3684,7 +3695,7 @@
                <gloss xml:lang="hu">farok</gloss>
                <gloss xml:lang="en">tail</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xúthá</mentioned>
             </etym>
@@ -3814,7 +3825,7 @@
                <gloss xml:lang="hu">kicsi farok</gloss>
                <gloss xml:lang="en">small tail</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>qhú yò</mentioned>
             </etym>
@@ -3836,6 +3847,7 @@
                   <quote>tunnel (human size)</quote>
                </cit>
             </sense>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="huo__n__147">
             <form type="lemma">
@@ -3858,7 +3870,7 @@
                <lang>Root</lang>
                <mentioned>QHÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xú</mentioned>
             </etym>
@@ -3888,7 +3900,7 @@
                <gloss xml:lang="hu">farok</gloss>
                <gloss xml:lang="en">tail</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xúà</mentioned>
             </etym>
@@ -3918,7 +3930,7 @@
                <gloss xml:lang="hu">harap esik</gloss>
                <gloss xml:lang="en">bite fall</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>xi gà</mentioned>
             </etym>
@@ -3962,6 +3974,7 @@
                   <quote>sometimes</quote>
                </cit>
             </sense>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="iyiadh__adv__152">
             <form type="lemma">
@@ -4002,7 +4015,7 @@
                <lang>Root</lang>
                <mentioned>YÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yìu</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -4032,7 +4045,7 @@
                <gloss xml:lang="hu">ugrik</gloss>
                <gloss xml:lang="en">jump</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ra</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -4062,7 +4075,7 @@
                <gloss xml:lang="hu">ugrik &gt; magas &gt; nagy</gloss>
                <gloss xml:lang="en">jump&gt; high&gt; high</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ra</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -4090,7 +4103,7 @@
                <lang>Root</lang>
                <mentioned>RA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ra</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -4152,7 +4165,7 @@
                <gloss xml:lang="hu">szürke &gt; hajnal</gloss>
                <gloss xml:lang="en">gray&gt; dawn</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rià</mentioned>
             </etym>
@@ -4180,7 +4193,7 @@
                <gloss xml:lang="hu">szürke</gloss>
                <gloss xml:lang="en">gray</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rià</mentioned>
             </etym>
@@ -4210,7 +4223,7 @@
                <gloss xml:lang="hu">hajnal</gloss>
                <gloss xml:lang="en">dawn</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rià</mentioned>
             </etym>
@@ -4238,6 +4251,7 @@
                <gloss xml:lang="hu">este nap</gloss>
                <gloss xml:lang="en">evening day</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="limuth__n__162">
             <form type="lemma">
@@ -4282,7 +4296,7 @@
                <lang>Root</lang>
                <mentioned>RI </mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rin</mentioned>
             </etym>
@@ -4382,7 +4396,7 @@
                <lang>Root</lang>
                <mentioned>RU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rua</mentioned>
             </etym>
@@ -4408,7 +4422,7 @@
                <lang>Root</lang>
                <mentioned>RU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rung</mentioned>
             </etym>
@@ -4436,7 +4450,7 @@
                <gloss xml:lang="hu">éjszaka~gödör</gloss>
                <gloss xml:lang="en">night pit ~</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>run</mentioned>
             </etym>
@@ -4462,7 +4476,7 @@
                <lang>Root</lang>
                <mentioned>RU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ruia</mentioned>
             </etym>
@@ -4586,7 +4600,7 @@
                <gloss xml:lang="hu">éjszaka</gloss>
                <gloss xml:lang="en">night</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>ráyá</mentioned>
             </etym>
@@ -4623,6 +4637,7 @@
                <gloss xml:lang="hu">éjszaka</gloss>
                <gloss xml:lang="en">night</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="lya__v__176">
             <form type="lemma">
@@ -4645,7 +4660,7 @@
                <lang>Root</lang>
                <mentioned>YA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>lalā</mentioned>
             </etym>
@@ -4673,7 +4688,7 @@
                <gloss xml:lang="hu">fehér</gloss>
                <gloss xml:lang="en">white</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>lalā</mentioned>
             </etym>
@@ -4701,6 +4716,7 @@
                <gloss xml:lang="hu">ugrik itt</gloss>
                <gloss xml:lang="en">jump here</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="lyei__n__179">
             <form type="lemma">
@@ -4864,6 +4880,7 @@
                <lang>Root</lang>
                <mentioned>MA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ma__adj__185">
             <form type="lemma">
@@ -4886,6 +4903,7 @@
                <lang>Root</lang>
                <mentioned>MÀ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="mae__prep__186">
             <form type="lemma">
@@ -4932,6 +4950,7 @@
                <lang>Root</lang>
                <mentioned>MÀ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="maedh__n__188">
             <form type="lemma">
@@ -5100,7 +5119,7 @@
                <lang>Root</lang>
                <mentioned>WÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>wà</mentioned>
             </etym>
@@ -5196,7 +5215,7 @@
                <lang>Root</lang>
                <mentioned>MÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mù</mentioned>
             </etym>
@@ -5224,7 +5243,7 @@
                <gloss xml:lang="hu">valaki</gloss>
                <gloss xml:lang="en">someone</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>màu yào</mentioned>
             </etym>
@@ -5250,6 +5269,7 @@
                <lang>Root</lang>
                <mentioned>MÍ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="meath__n__201">
             <form type="lemma">
@@ -5292,7 +5312,7 @@
                <gloss xml:lang="hu">család</gloss>
                <gloss xml:lang="en">family</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>máa tu</mentioned>
             </etym>
@@ -5320,7 +5340,7 @@
                <gloss xml:lang="hu">család ~ alom</gloss>
                <gloss xml:lang="en">family ~ litter</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>míi</mentioned>
             </etym>
@@ -5364,7 +5384,7 @@
                <lang>Root</lang>
                <mentioned>MÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>màu</mentioned>
             </etym>
@@ -5436,7 +5456,7 @@
                <lang>Root</lang>
                <mentioned>WI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>wi</mentioned>
             </etym>
@@ -5464,7 +5484,7 @@
                <gloss xml:lang="hu">növény</gloss>
                <gloss xml:lang="en">plant</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mìa</mentioned>
             </etym>
@@ -5564,7 +5584,7 @@
                <lang>Root</lang>
                <mentioned>MÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mú</mentioned>
             </etym>
@@ -5623,7 +5643,7 @@
                <lang>Root</lang>
                <mentioned>MÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>múu</mentioned>
             </etym>
@@ -5689,7 +5709,7 @@
                <lang>Root</lang>
                <mentioned>MU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mu</mentioned>
             </etym>
@@ -5739,7 +5759,7 @@
                <gloss xml:lang="hu">nagy állat karom</gloss>
                <gloss xml:lang="en">big animal claw</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>mu tha</mentioned>
             </etym>
@@ -5793,6 +5813,7 @@
                <gloss xml:lang="hu">balfasz gyöngytyúk</gloss>
                <gloss xml:lang="en">bastard guinea fowl</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="musya__v__221">
             <form type="lemma">
@@ -5815,6 +5836,7 @@
                <lang>Root</lang>
                <mentioned>MU SA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="mwe__n__222">
             <form type="lemma">
@@ -5905,6 +5927,7 @@
                <lang>Root</lang>
                <mentioned>MU SA YÀ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="mwezyiao__n__225">
             <form type="lemma">
@@ -5927,6 +5950,7 @@
                <lang>Root</lang>
                <mentioned>MU SA YÀ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="mwie__adj__226">
             <form type="lemma">
@@ -5971,9 +5995,9 @@
                <lang>Root</lang>
                <mentioned>MU YÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
-               <mentioned>mù yó</mentioned>
+               <mentioned>mu yó</mentioned>
             </etym>
          </entry>
          <entry xml:id="mwo__n__228">
@@ -5997,6 +6021,7 @@
                <lang>Root</lang>
                <mentioned>MÚ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="mwosye_qhiqhanng__n__229">
             <form type="lemma">
@@ -6046,6 +6071,7 @@
                <lang>Root</lang>
                <mentioned>MU WÌ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="my__n__231">
             <form type="lemma">
@@ -6068,7 +6094,7 @@
                <lang>Root</lang>
                <mentioned>WÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>wì</mentioned>
             </etym>
@@ -6198,6 +6224,7 @@
                <lang>Root</lang>
                <mentioned>MÁ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="myao__adj__238">
             <form type="lemma">
@@ -6220,7 +6247,7 @@
                <lang>Root</lang>
                <mentioned>MÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mà</mentioned>
             </etym>
@@ -6281,6 +6308,7 @@
                <lang>Root</lang>
                <mentioned>MÀ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="myagh__adj__241">
             <form type="lemma">
@@ -6347,7 +6375,7 @@
                <lang>Root</lang>
                <mentioned>MÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>màng</mentioned>
             </etym>
@@ -6373,7 +6401,7 @@
                <lang>Root</lang>
                <mentioned>MÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mà</mentioned>
             </etym>
@@ -6399,7 +6427,7 @@
                <lang>Root</lang>
                <mentioned>MÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mí</mentioned>
             </etym>
@@ -6425,7 +6453,7 @@
                <lang>Root</lang>
                <mentioned>MÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mí</mentioned>
             </etym>
@@ -6460,6 +6488,7 @@
                <lang>Root</lang>
                <mentioned>YA YA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="myi__v__248">
             <form type="lemma">
@@ -6482,7 +6511,7 @@
                <lang>Root</lang>
                <mentioned>MI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>mi</mentioned>
             </etym>
@@ -6532,10 +6561,7 @@
                <lang>Root</lang>
                <mentioned>YÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
-               <lang>PR</lang>
-               <mentioned>mu yú</mentioned>
-            </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="myu__n__251">
             <form type="lemma">
@@ -6654,7 +6680,7 @@
                <lang>Root</lang>
                <mentioned>NA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>na</mentioned>
             </etym>
@@ -6706,6 +6732,7 @@
                <lang>Root</lang>
                <mentioned>NA QHA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="nagh__n__258">
             <form type="lemma">
@@ -6730,7 +6757,7 @@
                <gloss xml:lang="hu">öl</gloss>
                <gloss xml:lang="en">kill</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>na ñà</mentioned>
             </etym>
@@ -6756,7 +6783,7 @@
                <lang>Root</lang>
                <mentioned>NA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>naxa</mentioned>
             </etym>
@@ -6782,7 +6809,7 @@
                <lang>Root</lang>
                <mentioned>NA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>naxa</mentioned>
             </etym>
@@ -6860,7 +6887,7 @@
                <gloss xml:lang="hu">észrevesz öl</gloss>
                <gloss xml:lang="en">notice kill</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>na nào</mentioned>
             </etym>
@@ -6934,7 +6961,7 @@
                <gloss xml:lang="hu">mozgás</gloss>
                <gloss xml:lang="en">move</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nàn</mentioned>
             </etym>
@@ -7017,7 +7044,7 @@
                <lang>Root</lang>
                <mentioned>NÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nà</mentioned>
             </etym>
@@ -7045,7 +7072,7 @@
                <gloss xml:lang="hu">tud akar</gloss>
                <gloss xml:lang="en">he want to</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>nào fỳ</mentioned>
             </etym>
@@ -7163,7 +7190,7 @@
                <lang>Root</lang>
                <mentioned>NÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>níi</mentioned>
             </etym>
@@ -7239,7 +7266,7 @@
                <lang>Root</lang>
                <mentioned>NI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nini</mentioned>
                <gloss xml:lang="hu">ninn?</gloss>
@@ -7267,6 +7294,7 @@
                <lang>Root</lang>
                <mentioned>NÍ NA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="nennang__adj__280">
             <form type="lemma">
@@ -7291,7 +7319,7 @@
                <gloss xml:lang="hu">horizont hát gömb</gloss>
                <gloss xml:lang="en">horizon back sphere</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>néi ñañi</mentioned>
             </etym>
@@ -7459,7 +7487,7 @@
                <lang>Root</lang>
                <mentioned>NGÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>ñà na</mentioned>
             </etym>
@@ -7603,10 +7631,7 @@
                <lang>Root</lang>
                <mentioned>NGI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
-               <lang>PR</lang>
-               <mentioned>nngi</mentioned>
-            </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ngia__pron__294">
             <form type="lemma">
@@ -7629,6 +7654,7 @@
                <lang>Root</lang>
                <mentioned>NGÍ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ngidh__prep__295">
             <form type="lemma">
@@ -7677,7 +7703,7 @@
                <gloss xml:lang="hu">gömb fa</gloss>
                <gloss xml:lang="en">sphere tree</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>ñiéa thu</mentioned>
             </etym>
@@ -7712,7 +7738,7 @@
                <lang>Root</lang>
                <mentioned>NGI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>ñiu na</mentioned>
             </etym>
@@ -7740,7 +7766,7 @@
                <gloss xml:lang="hu">máj</gloss>
                <gloss xml:lang="en">liver</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngìn</mentioned>
             </etym>
@@ -7808,10 +7834,7 @@
                <lang>Root</lang>
                <mentioned>NGI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
-               <lang>PR</lang>
-               <mentioned>nngiu</mentioned>
-            </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ngo__prep__302">
             <form type="lemma">
@@ -7858,6 +7881,7 @@
                <lang>Root</lang>
                <mentioned>NGÚ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ua__adj__304">
             <form type="lemma">
@@ -7880,7 +7904,7 @@
                <lang>Root</lang>
                <mentioned>NGÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngúa</mentioned>
             </etym>
@@ -7930,7 +7954,7 @@
                <lang>Root</lang>
                <mentioned>NGÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngúi</mentioned>
             </etym>
@@ -7956,7 +7980,7 @@
                <lang>Root</lang>
                <mentioned>NGÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngù</mentioned>
             </etym>
@@ -7982,7 +8006,7 @@
                <lang>Root</lang>
                <mentioned>NGÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ngì</mentioned>
             </etym>
@@ -8010,7 +8034,7 @@
                <gloss xml:lang="hu">alszik lát</gloss>
                <gloss xml:lang="en">sleeping see</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>ñi nèo</mentioned>
             </etym>
@@ -8038,7 +8062,7 @@
                <gloss xml:lang="hu">vagina</gloss>
                <gloss xml:lang="en">vagina</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ni</mentioned>
             </etym>
@@ -8066,7 +8090,7 @@
                <gloss xml:lang="hu">vagina</gloss>
                <gloss xml:lang="en">vagina</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ni</mentioned>
             </etym>
@@ -8092,7 +8116,7 @@
                <lang>Root</lang>
                <mentioned>NÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nía</mentioned>
                <gloss xml:lang="hu">nyéa</gloss>
@@ -8122,6 +8146,7 @@
                <gloss xml:lang="hu">hajnal &gt; horizont</gloss>
                <gloss xml:lang="en">dawn&gt; horizon</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="niao__v__314">
             <form type="lemma">
@@ -8144,7 +8169,7 @@
                <lang>Root</lang>
                <mentioned>NÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nài</mentioned>
             </etym>
@@ -8266,7 +8291,7 @@
                <lang>Root</lang>
                <mentioned>NÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nìxu</mentioned>
             </etym>
@@ -8380,6 +8405,7 @@
                <gloss xml:lang="hu">szül</gloss>
                <gloss xml:lang="en">bear</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="nnrehua__n__325">
             <form type="lemma">
@@ -8404,7 +8430,7 @@
                <gloss xml:lang="hu">mosoly</gloss>
                <gloss xml:lang="en">smile</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>nura qhua</mentioned>
             </etym>
@@ -8480,6 +8506,7 @@
                <lang>Root</lang>
                <mentioned>NÚ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="nogh__n__329">
             <form type="lemma">
@@ -8502,7 +8529,7 @@
                <lang>Root</lang>
                <mentioned>NÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nùxu</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -8530,7 +8557,7 @@
                <lang>Root</lang>
                <mentioned>NÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nùxu</mentioned>
             </etym>
@@ -8556,7 +8583,7 @@
                <lang>Root</lang>
                <mentioned>NÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>núi</mentioned>
             </etym>
@@ -8634,7 +8661,7 @@
                <lang>Root</lang>
                <mentioned>NU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nu</mentioned>
             </etym>
@@ -8660,7 +8687,7 @@
                <lang>Root</lang>
                <mentioned>NU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nu</mentioned>
             </etym>
@@ -8762,7 +8789,7 @@
                <lang>Root</lang>
                <mentioned>NU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nura</mentioned>
             </etym>
@@ -8788,7 +8815,7 @@
                <lang>Root</lang>
                <mentioned>NU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nuia</mentioned>
             </etym>
@@ -8918,7 +8945,7 @@
                <lang>Root</lang>
                <mentioned>NÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nì</mentioned>
             </etym>
@@ -8944,7 +8971,7 @@
                <lang>Root</lang>
                <mentioned>NÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ná</mentioned>
             </etym>
@@ -9058,6 +9085,7 @@
                <gloss xml:lang="hu">anyám</gloss>
                <gloss xml:lang="en">my mother</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="nyang__v__353">
             <form type="lemma">
@@ -9082,7 +9110,7 @@
                <gloss xml:lang="hu">anya alszik</gloss>
                <gloss xml:lang="en">mother sleeping</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>ná ñi</mentioned>
             </etym>
@@ -9178,7 +9206,7 @@
                <gloss xml:lang="hu">anyám</gloss>
                <gloss xml:lang="en">my mother</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>nán</mentioned>
             </etym>
@@ -9208,6 +9236,7 @@
                <gloss xml:lang="hu">anya alszik</gloss>
                <gloss xml:lang="en">mother sleeping</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="nyanngi__n__359">
             <form type="lemma">
@@ -9305,7 +9334,7 @@
                <lang>Root</lang>
                <mentioned>NÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ní</mentioned>
             </etym>
@@ -9364,7 +9393,7 @@
                <lang>Root</lang>
                <mentioned>NÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>níi</mentioned>
             </etym>
@@ -9444,7 +9473,7 @@
                <lang>Root</lang>
                <mentioned>NÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>nú</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -9472,7 +9501,7 @@
                <lang>Root</lang>
                <mentioned>NÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>núa</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -9500,7 +9529,7 @@
                <lang>Root</lang>
                <mentioned>NÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>núi</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -9528,6 +9557,7 @@
                <lang>Root</lang>
                <mentioned>NÌ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="nywagh__adv__371">
             <form type="lemma">
@@ -9636,7 +9666,7 @@
                <lang>Root</lang>
                <mentioned>NI RÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ni rú</mentioned>
             </etym>
@@ -9690,7 +9720,7 @@
                <lang>Root</lang>
                <mentioned>WÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>wú</mentioned>
                <gloss xml:lang="hu">úo</gloss>
@@ -9842,7 +9872,7 @@
                <lang>Root</lang>
                <mentioned>QHA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xa</mentioned>
             </etym>
@@ -9879,7 +9909,7 @@
                <gloss xml:lang="hu">vadászik</gloss>
                <gloss xml:lang="en">hunt</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xan</mentioned>
             </etym>
@@ -10043,7 +10073,7 @@
                <lang>Root</lang>
                <mentioned>QHI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xi</mentioned>
             </etym>
@@ -10111,7 +10141,7 @@
                <gloss xml:lang="hu">karom esik</gloss>
                <gloss xml:lang="en">my claw fall</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>xi ta</mentioned>
             </etym>
@@ -10139,7 +10169,7 @@
                <lang>Root</lang>
                <mentioned>QHI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ximù</mentioned>
             </etym>
@@ -10165,7 +10195,7 @@
                <lang>Root</lang>
                <mentioned>QHI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xiu</mentioned>
             </etym>
@@ -10193,7 +10223,7 @@
                <gloss xml:lang="hu">esik hideg</gloss>
                <gloss xml:lang="en">it's cold</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>MA</lang>
                <mentioned>xiosyẙ</mentioned>
             </etym>
@@ -10319,7 +10349,7 @@
                <gloss xml:lang="hu">fut ugrik</gloss>
                <gloss xml:lang="en">running jump</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xìi ra</mentioned>
             </etym>
@@ -10435,7 +10465,7 @@
                <lang>Root</lang>
                <mentioned>QHU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>xu</mentioned>
             </etym>
@@ -10564,7 +10594,7 @@
                <lang>Root</lang>
                <mentioned>RÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ràa</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -10616,7 +10646,7 @@
                <lang>Root</lang>
                <mentioned>RÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rá</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -10646,6 +10676,7 @@
                <gloss xml:lang="hu">föld</gloss>
                <gloss xml:lang="en">Earth</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="rao__v__416">
             <form type="lemma">
@@ -10668,7 +10699,7 @@
                <lang>Root</lang>
                <mentioned>RÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rà</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -10766,7 +10797,7 @@
                <lang>Root</lang>
                <mentioned>RÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rù</mentioned>
             </etym>
@@ -10792,7 +10823,7 @@
                <lang>Root</lang>
                <mentioned>RU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rua</mentioned>
             </etym>
@@ -10820,7 +10851,7 @@
                <gloss xml:lang="hu">bél</gloss>
                <gloss xml:lang="en">gut</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rúa</mentioned>
             </etym>
@@ -10842,6 +10873,7 @@
                   <quote>crow</quote>
                </cit>
             </sense>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ruathua__adj__424">
             <form type="lemma">
@@ -10886,6 +10918,7 @@
                <lang>Root</lang>
                <mentioned>YI</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ruenngar__n__426">
             <form type="lemma">
@@ -10954,7 +10987,7 @@
                <lang>Root</lang>
                <mentioned>RÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rú</mentioned>
             </etym>
@@ -11016,7 +11049,7 @@
                <lang>Root</lang>
                <mentioned>RÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rái</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -11070,6 +11103,7 @@
                <gloss xml:lang="hu">kő bőr</gloss>
                <gloss xml:lang="en">stone leather</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ryn__v__434">
             <form type="lemma">
@@ -11134,7 +11168,7 @@
                <lang>Root</lang>
                <mentioned>SA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sa</mentioned>
             </etym>
@@ -11160,7 +11194,7 @@
                <lang>Root</lang>
                <mentioned>SA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sa</mentioned>
             </etym>
@@ -11268,6 +11302,7 @@
                <lang>Root</lang>
                <mentioned>SÁ YÍ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syai__n__442">
             <form type="lemma">
@@ -11290,7 +11325,7 @@
                <lang>Root</lang>
                <mentioned>SÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sá</mentioned>
             </etym>
@@ -11354,7 +11389,7 @@
                <gloss xml:lang="hu">veréb öl</gloss>
                <gloss xml:lang="en">sparrow kill</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>sàéa naqha</mentioned>
                <gloss xml:lang="hu">zsákmány lelke</gloss>
@@ -11384,7 +11419,7 @@
                <gloss xml:lang="hu">csillag</gloss>
                <gloss xml:lang="en">star</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sán</mentioned>
             </etym>
@@ -11412,7 +11447,7 @@
                <gloss xml:lang="hu">nappal szürkület</gloss>
                <gloss xml:lang="en">day twilight</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sá ní</mentioned>
             </etym>
@@ -11438,6 +11473,7 @@
                <lang>Root</lang>
                <mentioned>SÀ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syaru__n__449">
             <form type="lemma">
@@ -11504,7 +11540,7 @@
                <lang>Root</lang>
                <mentioned>SÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sù</mentioned>
             </etym>
@@ -11530,7 +11566,7 @@
                <lang>Root</lang>
                <mentioned>SÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sù</mentioned>
             </etym>
@@ -11598,7 +11634,7 @@
                <lang>Root</lang>
                <mentioned>SÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sí</mentioned>
             </etym>
@@ -11683,7 +11719,7 @@
                <gloss xml:lang="hu">fél &gt; hatalom</gloss>
                <gloss xml:lang="en">party&gt; power</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sía</mentioned>
             </etym>
@@ -11709,7 +11745,7 @@
                <lang>Root</lang>
                <mentioned>SÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sáa</mentioned>
             </etym>
@@ -11735,6 +11771,7 @@
                <lang>Root</lang>
                <mentioned>SÁ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syeng__n__461">
             <form type="lemma">
@@ -11781,6 +11818,7 @@
                <gloss xml:lang="hu">hosszú idő</gloss>
                <gloss xml:lang="en">long time</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syenng__part__463">
             <form type="lemma">
@@ -11830,7 +11868,7 @@
                   <quote>now</quote>
                </cit>
             </sense>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sá li</mentioned>
             </etym>
@@ -11896,6 +11934,7 @@
                <lang>Root</lang>
                <mentioned>SI</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syia__adj__468">
             <form type="lemma">
@@ -11973,7 +12012,7 @@
                <gloss xml:lang="hu">sok szavak</gloss>
                <gloss xml:lang="en">many word</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>si yaū</mentioned>
             </etym>
@@ -12001,7 +12040,7 @@
                <gloss xml:lang="hu">sok beszél beszél</gloss>
                <gloss xml:lang="en">a lot of talking talk</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>si ya ya</mentioned>
             </etym>
@@ -12051,6 +12090,7 @@
                <gloss xml:lang="hu">együtt mi</gloss>
                <gloss xml:lang="en">together we</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syihann__n__474">
             <form type="lemma">
@@ -12084,6 +12124,7 @@
                <gloss xml:lang="hu">fej gerinc</gloss>
                <gloss xml:lang="en">head spine</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syihann__n__475">
             <form type="lemma">
@@ -12108,6 +12149,7 @@
                <gloss xml:lang="hu">fej gerinc</gloss>
                <gloss xml:lang="en">head spine</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syina__v__476">
             <form type="lemma">
@@ -12191,7 +12233,7 @@
                <lang>Root</lang>
                <mentioned>SÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sìu</mentioned>
             </etym>
@@ -12263,7 +12305,7 @@
                <lang>Root</lang>
                <mentioned>SÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sì</mentioned>
             </etym>
@@ -12289,7 +12331,7 @@
                <lang>Root</lang>
                <mentioned>SÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sì</mentioned>
             </etym>
@@ -12331,6 +12373,7 @@
                   <quote>glitter black / blue / green</quote>
                </cit>
             </sense>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syisya__adj__485">
             <form type="lemma">
@@ -12355,6 +12398,7 @@
                <gloss xml:lang="hu">bajusz</gloss>
                <gloss xml:lang="en">mustache</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="syeiu__n__486">
             <form type="lemma">
@@ -12379,10 +12423,7 @@
                <gloss xml:lang="hu">harag kacsa</gloss>
                <gloss xml:lang="en">anger duck</gloss>
             </etym>
-            <etym source="auto" type="lemma">
-               <lang>MA</lang>
-               <mentioned>śāyū</mentioned>
-            </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="dhau__int__487">
             <form type="lemma">
@@ -12405,7 +12446,7 @@
                <lang>Root</lang>
                <mentioned>THÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thù</mentioned>
             </etym>
@@ -12431,7 +12472,7 @@
                <lang>Root</lang>
                <mentioned>THA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>tha</mentioned>
             </etym>
@@ -12477,7 +12518,7 @@
                <gloss xml:lang="hu">tüskés egér</gloss>
                <gloss xml:lang="en">spiky mouse</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>thaxu</mentioned>
             </etym>
@@ -12503,7 +12544,7 @@
                <lang>Root</lang>
                <mentioned>THÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thá</mentioned>
                <gloss xml:lang="hu">a dhẏ hatására vette át ezt a jelentést</gloss>
@@ -12531,7 +12572,7 @@
                <lang>Root</lang>
                <mentioned>THÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thù</mentioned>
             </etym>
@@ -12581,7 +12622,7 @@
                <lang>Root</lang>
                <mentioned>THÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thí</mentioned>
             </etym>
@@ -12609,6 +12650,7 @@
                <gloss xml:lang="hu">nem nappal éjszaka</gloss>
                <gloss xml:lang="en">not day to night</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ther__pron__496">
             <form type="lemma">
@@ -12631,6 +12673,7 @@
                <lang>Root</lang>
                <mentioned>THÁ SÁ RI</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="thezyer__adv__497">
             <form type="lemma">
@@ -12675,7 +12718,7 @@
                <lang>Root</lang>
                <mentioned>THI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>thi</mentioned>
             </etym>
@@ -12719,6 +12762,7 @@
                   <quote>no</quote>
                </cit>
             </sense>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="thu_yoghin_ain___adv__501">
             <form type="lemma">
@@ -12877,6 +12921,7 @@
                <gloss xml:lang="hu">áll</gloss>
                <gloss xml:lang="en">stand</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ua__num__508">
             <form type="lemma">
@@ -12904,6 +12949,7 @@
                   <quote>alone</quote>
                </cit>
             </sense>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="ufye__v__509">
             <form type="lemma">
@@ -12974,6 +13020,7 @@
                <gloss xml:lang="hu">szopni</gloss>
                <gloss xml:lang="en">suck</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="umm__n__512">
             <form type="lemma">
@@ -12996,7 +13043,7 @@
                <lang>Root</lang>
                <mentioned>MÙ MU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>umma</mentioned>
             </etym>
@@ -13194,6 +13241,7 @@
                <gloss xml:lang="hu">eljött az idő, amikor</gloss>
                <gloss xml:lang="en">the time ha come when</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="fyai__n__521">
             <form type="lemma">
@@ -13216,7 +13264,7 @@
                <lang>Root</lang>
                <mentioned>FÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fá</mentioned>
             </etym>
@@ -13326,7 +13374,7 @@
                <lang>Root</lang>
                <mentioned>FÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fà</mentioned>
             </etym>
@@ -13370,6 +13418,7 @@
                <lang>Root</lang>
                <mentioned>WÀ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="wau__n__529">
             <form type="lemma">
@@ -13392,6 +13441,7 @@
                <lang>Root</lang>
                <mentioned>WÙ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="we__v__530">
             <form type="lemma">
@@ -13630,6 +13680,7 @@
                <gloss xml:lang="hu">tojás bajusz &gt; együtt [tojáshéj-utalás]</gloss>
                <gloss xml:lang="en">egg mustache&gt; together [eggshell reference]</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="woa__v__541">
             <form type="lemma">
@@ -13808,6 +13859,7 @@
                <lang>Root</lang>
                <mentioned>SÁ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="wuo__n__549">
             <form type="lemma">
@@ -13830,7 +13882,7 @@
                <lang>Root</lang>
                <mentioned>FÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fù</mentioned>
             </etym>
@@ -13856,7 +13908,7 @@
                <lang>Root</lang>
                <mentioned>FÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>fú</mentioned>
             </etym>
@@ -13882,7 +13934,7 @@
                <lang>Root</lang>
                <mentioned>YA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ya</mentioned>
             </etym>
@@ -13910,6 +13962,7 @@
                <lang>Root</lang>
                <mentioned>YA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="yaegh__n__553">
             <form type="lemma">
@@ -13932,6 +13985,7 @@
                <lang>Root</lang>
                <mentioned>YA YA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="yagh__v__554">
             <form type="lemma">
@@ -13982,7 +14036,7 @@
                <lang>Root</lang>
                <mentioned>YÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yá</mentioned>
             </etym>
@@ -14058,6 +14112,7 @@
                <gloss xml:lang="hu">név én</gloss>
                <gloss xml:lang="en">name is me</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="yanna__v__559">
             <form type="lemma">
@@ -14102,6 +14157,7 @@
                <lang>Root</lang>
                <mentioned>YA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="yao__n__561">
             <form type="lemma">
@@ -14124,7 +14180,7 @@
                <lang>Root</lang>
                <mentioned>YÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yà</mentioned>
             </etym>
@@ -14150,7 +14206,7 @@
                <lang>Root</lang>
                <mentioned>YÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yù</mentioned>
             </etym>
@@ -14176,7 +14232,7 @@
                <lang>Root</lang>
                <mentioned>YÙ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yù</mentioned>
             </etym>
@@ -14202,7 +14258,7 @@
                <lang>Root</lang>
                <mentioned>RÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yí</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -14239,7 +14295,7 @@
                <lang>Root</lang>
                <mentioned>YÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yí</mentioned>
             </etym>
@@ -14267,7 +14323,7 @@
                <lang>Root</lang>
                <mentioned>RÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>ráa</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -14297,6 +14353,7 @@
                <gloss xml:lang="hu">hold</gloss>
                <gloss xml:lang="en">moon</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="yeao__n__568">
             <form type="lemma">
@@ -14319,7 +14376,7 @@
                <lang>Root</lang>
                <mentioned>YÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yíà</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -14360,6 +14417,7 @@
                <gloss xml:lang="hu">beszél-beszél</gloss>
                <gloss xml:lang="en">talk-talk</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="yeffe__n__570">
             <form type="lemma">
@@ -14406,6 +14464,7 @@
                <gloss xml:lang="hu">hold</gloss>
                <gloss xml:lang="en">moon</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="yhai__n__572">
             <form type="lemma">
@@ -14510,7 +14569,7 @@
                <lang>Root</lang>
                <mentioned>YI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yi</mentioned>
             </etym>
@@ -14536,7 +14595,7 @@
                <lang>Root</lang>
                <mentioned>YI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yi</mentioned>
             </etym>
@@ -14582,7 +14641,7 @@
                <gloss xml:lang="hu">nappal</gloss>
                <gloss xml:lang="en">day</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yía</mentioned>
             </etym>
@@ -14654,7 +14713,7 @@
                <lang>Root</lang>
                <mentioned>YÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yìan</mentioned>
             </etym>
@@ -14717,7 +14776,7 @@
                <lang>Root</lang>
                <mentioned>RÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>rìng</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -14745,7 +14804,7 @@
                <lang>Root</lang>
                <mentioned>YÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yìn</mentioned>
             </etym>
@@ -14771,7 +14830,7 @@
                <lang>Root</lang>
                <mentioned>YA</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yaa</mentioned>
             </etym>
@@ -14823,7 +14882,7 @@
                <gloss xml:lang="hu">kacsa</gloss>
                <gloss xml:lang="en">duck</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yu</mentioned>
             </etym>
@@ -14849,7 +14908,7 @@
                <lang>Root</lang>
                <mentioned>YU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yuan</mentioned>
             </etym>
@@ -14875,7 +14934,7 @@
                <lang>Root</lang>
                <mentioned>RÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yì</mentioned>
                <gloss xml:lang="hu">$</gloss>
@@ -14947,7 +15006,7 @@
                <gloss xml:lang="hu">fehér</gloss>
                <gloss xml:lang="en">white</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yía rua</mentioned>
             </etym>
@@ -14978,7 +15037,7 @@
                   <quote>spectacular</quote>
                </cit>
             </sense>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>yía rua</mentioned>
             </etym>
@@ -15006,6 +15065,7 @@
                <gloss xml:lang="hu">fehér</gloss>
                <gloss xml:lang="en">white</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="zya__n__593">
             <form type="lemma">
@@ -15028,6 +15088,7 @@
                <lang>Root</lang>
                <mentioned>SA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="zya__n__594">
             <form type="lemma">
@@ -15050,7 +15111,7 @@
                <lang>Root</lang>
                <mentioned>SÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sà</mentioned>
             </etym>
@@ -15076,7 +15137,7 @@
                <lang>Root</lang>
                <mentioned>SA NGÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sa ñà</mentioned>
             </etym>
@@ -15102,7 +15163,7 @@
                <lang>Root</lang>
                <mentioned>SÁ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sá</mentioned>
             </etym>
@@ -15128,6 +15189,7 @@
                <lang>Root</lang>
                <mentioned>SA</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="zyamm__n__598">
             <form type="lemma">
@@ -15150,6 +15212,7 @@
                <lang>Root</lang>
                <mentioned>SÁ NÍ</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="zyann_ngi__v__599">
             <form type="lemma">
@@ -15194,7 +15257,7 @@
                <lang>Root</lang>
                <mentioned>SÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sà</mentioned>
             </etym>
@@ -15266,7 +15329,7 @@
                <gloss xml:lang="hu">nem volt látható</gloss>
                <gloss xml:lang="en">wa not visible</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>sêathà</mentioned>
             </etym>
@@ -15292,7 +15355,7 @@
                <lang>Root</lang>
                <mentioned>SÍ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>síi</mentioned>
             </etym>
@@ -15357,7 +15420,7 @@
                <gloss xml:lang="hu">bajusz</gloss>
                <gloss xml:lang="en">mustache</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sii</mentioned>
             </etym>
@@ -15385,7 +15448,7 @@
                <gloss xml:lang="hu">bajusz</gloss>
                <gloss xml:lang="en">mustache</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sia</mentioned>
             </etym>
@@ -15420,7 +15483,7 @@
                <lang>Root</lang>
                <mentioned>SÌ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sìa</mentioned>
             </etym>
@@ -15476,7 +15539,7 @@
                <gloss xml:lang="hu">bajusz öl</gloss>
                <gloss xml:lang="en">mustache kill</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>si saxu</mentioned>
             </etym>
@@ -15504,6 +15567,7 @@
                <gloss xml:lang="hu">növény</gloss>
                <gloss xml:lang="en">plant</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="zymuo__n__612">
             <form type="lemma">
@@ -15646,7 +15710,7 @@
                <lang>Root</lang>
                <mentioned>SU</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sua</mentioned>
             </etym>
@@ -15713,7 +15777,7 @@
                <gloss xml:lang="hu">vizelet nyal</gloss>
                <gloss xml:lang="en">licking urine</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>su ái</mentioned>
             </etym>
@@ -15739,7 +15803,7 @@
                <lang>Root</lang>
                <mentioned>SÚ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>PR</lang>
                <mentioned>sú</mentioned>
             </etym>
@@ -15956,7 +16020,7 @@
                <lang>Root</lang>
                <mentioned>SI XI</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>sixi</mentioned>
             </etym>
@@ -15986,7 +16050,7 @@
                <gloss xml:lang="hu">idő ugrik</gloss>
                <gloss xml:lang="en">time jump</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>AN</lang>
                <mentioned>sáili ra</mentioned>
             </etym>
@@ -16016,7 +16080,7 @@
                <lang>Root</lang>
                <mentioned>SI NÀ</mentioned>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>si nàa</mentioned>
             </etym>
@@ -16044,7 +16108,7 @@
                <gloss xml:lang="hu">bajusz kép</gloss>
                <gloss xml:lang="en">mustache picture</gloss>
             </etym>
-            <etym source="auto" type="lemma">
+            <etym type="lemma">
                <lang>BR</lang>
                <mentioned>si nào</mentioned>
             </etym>
@@ -16070,6 +16134,7 @@
                <lang>Root</lang>
                <mentioned>RA SU</mentioned>
             </etym>
+            <etym type="lemma"/>
          </entry>
          <entry xml:id="izyeiu__G3__633">
             <form type="lemma">
@@ -16094,6 +16159,7 @@
                <gloss xml:lang="hu">harag kacsa</gloss>
                <gloss xml:lang="en">anger duck</gloss>
             </etym>
+            <etym type="lemma"/>
          </entry>
       </body>
    </text>

@@ -36,13 +36,13 @@ dhàu,v,mindjárt,THÙ,,PR thù,"> az, ott, közel",root-words
 dhei,adv,majd,THÁ,,,,time
 dhei,num,egy,THÍ,orr,,,misc
 dhei,pron,oda,THÁ,ott,,,post-positions
-dhéi rā,adv,először,THÁ RA,orr + ugrik,,,misc
+dhéi rā,adv,először,THÁ RA,orr + ugrik,,,misc
 dhei syiéng,pron,egyikünk,THI SI NGÍ,,thei syangi ? thì si ngí,,misc
 dhū,n,fa,THU,,PR thu,,root-words
 dhunn,n,erdő,THU,fa,AN thun,,plants
 dhúo,n,test,THÚ,,PR thú,,root-words
 dhôgh,n,"rúd, farönk, oszlop",THU QHÚ,fa + farok,AN thuxú,,plants
-dhy̌,pron,hol?,THÌ,,PR thì,,root-words
+dhẙ,pron,hol?,THÌ,,PR thì,,root-words
 dhǝ syer,num,egyszer,THÍ,,+ zyer idő,,misc
 dhǝ syer thǝsyer,adv,előbb-utóbb,,egyszer soha,,,misc
 éi,adv,el,YÁ,"nyúl > elfut, menekül",PR yái,,misc
@@ -84,7 +84,7 @@ fyī,n,szőr,FI,,PR fi,,root-words
 fyifyi,adj,sűrű,FI FI,szőr szőr,,,misc
 fyizyu,n,"fű, gyep",FI SU,szőr növény,fisu > fisyu > fizyu,,plants
 fyoum,v,veszít,FÚ,üt,?,,misc
-fyy̌,v,dönt; választ,FÌ,,PR fì,,root-words
+fyẙ,v,dönt; választ,FÌ,,PR fì,,root-words
 fẏyə,prep,miatt,FÌ,akar,,,post-positions
 fẏyə qhē,conj,mert,FÌ,mert az,,,misc
 fyı,prep,rajta (puha dolgon),FI,szőr,,,post-positions
@@ -98,7 +98,7 @@ ghanào,v,érez,QHÙ NÀ,szag észrevesz,BR gàù nào,,misc
 ghānn,n,hegy,NGA,,PR ngan,,root-words
 ghào,pron,ki? mi?,QHÀ,,PR xà,,root-words
 ghào fye,pron,miért,FÌ,akar,,,misc
-ghā̀qh,pron,hova,QHÀ QHÙ,,,,misc
+ghǎqh,pron,hova,QHÀ QHÙ,,,,misc
 ghar,n,bolha,XÀ RA,harap ugrik,AN gà la,,animals
 ghar,v,"bosszant, idegesít",XÀ RA,harap ugrik,AN gà la,,misc
 gháh,n,tűz,NGA SÁ,harap fény,PR ñasá,,environment
@@ -120,7 +120,7 @@ ghū,n,béka,NGU,,PR ngu,,root-words
 ghǔnn,n,nyom,QHÙ,,PR xùn,,root-words
 qhǔ,n,út,QHÙ,"szag, nyom",PR xùu,,root-words
 ghūr,adj,szürkésbarna,QHU,egér,,,colors
-ghy̌,v,fut,QHÌ,,PR xì,,root-words
+ghẙ,v,fut,QHÌ,,PR xì,,root-words
 ghòh,pron,te (desp.),NGU SÌ,hideg béka,PR ñusì,,misc
 ngìa,adj,finom,NGÌ,máj,PR ngìa,,root-words
 hái,n,fej,QHÁ,,PR xá,,root-words
@@ -138,9 +138,9 @@ huann,n,"osztályrész, juss",QHU NA,egér öl,AN qhua na,,society
 huann ghā,v,jut valakinek,QHU NA,egér öl,,,society
 hûdh,n,mögött,QHÚ,farok,PR xúthá,,root-words
 hui,num,kettő,,,,,numerals
-huígh,adj,hosszú,QHÚ QHÚ,,,,misc
+huígh,adj,hosszú,QHÚ QHÚ,,,,misc
 huinádh,n,vízimadár,QHÚ NA,hosszú nyak,,,animals
-huinádhə osyy̌,n,"gém, kócsag",,hosszú nyak csőr,,,animals
+huinádhə osyẙ,n,"gém, kócsag",,hosszú nyak csőr,,,animals
 huinadhə rya,n,hattyú,,,,,animals
 huiō,n,üreg (embernél kisebb),QHÙ,kicsi farok,BR qhú yò # qhú yì,,animals
 huio fayáng,n,alagút (emberméretű),,sétál farok,qhú yì fa ra,,animals
@@ -177,7 +177,7 @@ lyā,v,hív,YA,,BR lalā,,misc
 lyā,adj,világos,RI ,fehér,BR lalā,,colors
 lyadh,prep,rajta,RA THÌ,ugrik itt,~ BR lalā,,misc
 lyéi,n,ma,RI,nap,,,time
-ly̌gh,n,mélység; szakadék,RU,,rung,$ tone change onomatopoeic,root-words
+lẙgh,n,mélység; szakadék,RU,,rung,$ tone change onomatopoeic,root-words
 lẏrái,n,alagút,RU RÁ,gödör,PR ru rá,,environment
 lẏrái,n,padló,RU RÁ,,PR ru rá,,environment
 mā,n,pocok,WA,,PR wa,,animals
@@ -225,10 +225,10 @@ mwezyiào,n,boszorkány,MU SA YÀ,,mwēśiyaū,,religion
 mwezyiào,n,gonosz szellem,MU SA YÀ,,mwēśiyaū,,religion
 mwie,adj,felső,WÁ,,,,misc
 mwiō,n,öregember,MU YÚ,,BR mu yó,,society
-mwó,n,gyöngytyúk,MÚ,,múu,,animals
+mwó,n,gyöngytyúk,MÚ,,múu,,animals
 mwosyə qhīqhanng,n,bagoly; macskabagoly,,darabokban kiköp,,,animals
 mwẏ nōgh,n,örvös galamb,MU WÌ,,mu wì nu·gh,,animals
-my̌,n,rigó,WÌ,,PR wì,,animals
+mẙ,n,rigó,WÌ,,PR wì,,animals
 mẏ,conj,de,,,,,misc
 mẏ liara,n,szarka,WÌ RI RU,,,,animals
 mẏ nōgh,n,galamb,WÌ,,,,animals
@@ -249,7 +249,7 @@ myī,v,ül $,MI,,PR mi,,root-words
 myirao,v,elkezd,RA,ugrik,,,misc
 myô,n,férfi,YÚ,,yú,,root-words
 myu,n,pillanat,,,,,time
-myy̌,n,porc,MÌ,,PR mì,,root-words
+myẙ,n,porc,MÌ,,PR mì,,root-words
 mẏyū,n,sirály,WÌ YU,rigó kacsa,,,animals
 mıyǎ,n,felnőtt nő,MÍ YÀ,tej női,PR mí yàa,,society
 nā,n,öl,NA,,PR na,,root-words
@@ -267,7 +267,7 @@ nǎnn,n,lény,NÀ,mozgás,PR nàn,,root-words
 nannā,v,játszik (vadászót),NA NA,öl,,,misc
 nànng,adj,szaggatott; szabálytalan,NGÀ,harap,,,colors
 nào,v,észrevesz,NÀ,,PR nà,,root-words
-nàofy̌,n,isten,NÀ FÌ,tud akar,BR nào fỳ,,religion
+nàofẙ,n,isten,NÀ FÌ,tud akar,BR nào fỳ,,religion
 naonnə syiao,expr,műveltség,YA,hagyomány ismerete,,,religion
 naor,v,felélénkül,NÀ,,,,misc
 nàyə,prep,mint,NÀ,kép,,,misc
@@ -305,7 +305,7 @@ ngô,n,ellenség,NGÚ,,ngú,,root-words
 nguayə fā ,n,fáradtság,NGÚ FA,a láb betegsége,,,misc
 ói,n,betegség,NGÚ,,PR ngúi,,root-words
 ngàu,n,here,NGÙ,,PR ngù,,root-words
-ngy̌,n,máj,NGÌ,,PR ngì,,root-words
+ngẙ,n,máj,NGÌ,,PR ngì,,root-words
 ngınèo,n,álom,NGI NÀ,alszik lát,AN ñi nèo,,misc
 nī,prep,ki,NI,vagina,PR ni,,post-positions
 nī,prep,elő,NI,vagina,PR ni,,post-positions
@@ -343,7 +343,7 @@ nǔy,adj,telt színű,NÙ,patkány,,,colors
 nwēn,num,négy,,,,,numerals
 nwēn ham,num,hatvannégy,,,,,numerals
 nwēni,num,hat,,nwen ui,,,numerals
-ny̌,v,eszik,NÌ,,PR nì,,root-words
+nẙ,v,eszik,NÌ,,PR nì,,root-words
 nái,n,anyám,NÁ,,PR ná,,root-words
 nyahōr,n,odú,NGI QHÚ RÚ,otthon farok bent,,,animals
 nyāia,adj,fájdalmas,,,,,misc
@@ -376,8 +376,8 @@ nırúo,n,"barlang, terem, üreg",NI RÚ,,PR ni rú,,misc
 úo,n,fog,WÚ,,PR wú,úo,root-words
 ōnen,num,tizenkettő,,,,,numerals
 ōnenwa,num,tizenhárom,,,,,numerals
-osyy̌,n,kés,WÚ SÌ,fog hideg,BR ù sỳ,,misc
-osyy̌,n,csőr,WÚ SÌ,fog hideg,,,animals
+osyẙ,n,kés,WÚ SÌ,fog hideg,BR ù sỳ,,misc
+osyẙ,n,csőr,WÚ SÌ,fog hideg,,,animals
 ouyā,adj,több,,,,,misc
 wia-,adj,több,,,,,misc
 qhā,v,vadászik,QHA,,PR xa,,root-words
@@ -394,7 +394,7 @@ qhiangī,n,unalom,QHI NGI,,,,misc
 qhīdh,v,lemászik,THA XI,karom esik,AN xi ta,,misc
 qhìm,n,"esik, zuhan",QHI,,PR ximù,,root-words
 qhio,n,eső,QHI,,PR xiu,,root-words
-qhiosyy̌,n,hó,XI SÌ,esik hideg,MA xiosyy̌,,misc
+qhiosyẙ,n,hó,XI SÌ,esik hideg,MA xiosyẙ,,misc
 qhīqh,v,"tüsszent, kiköp",QHI,eső,AN qhiqhi,,body
 qhīqh zyuái,expr,köp,,,,,body
 qhiqhī,n,por,QHI,,MA qhī qhī,,environment
@@ -431,7 +431,7 @@ rwei,n,észak,,,,,misc
 réi,n,kő,RÁ,,PR rái,$,root-words
 ryeryei,n,anyag,RÁ RÁ,kő,,,environment
 ryéı fıwaí,n,pikkely,RÁ FI WÁ,kő bőr,rá feiwai,,animals
-rÿn,v,elbújik,RÌ,gyík,,,environment
+rÿn,v,elbújik,RÌ,gyík,,,environment
 syâ,pron,ő maga,,,,,misc
 syā,n,harag,SA,,PR sa,,root-words
 syā,v,fúj,SA,,PR sa,,root-words
@@ -478,12 +478,12 @@ syir,prep,között,SI,bajusz > együtt,,,post-positions
 zyìu,adj,kevés; szűkös,SÌ,,PR sìu,,root-words
 syiwaiqh,n,hangyaboly,,,,,animals
 zyū,v,nő,SU,növény,PR suu # su,,root-words
-syy̌,n,tél,SÌ,,PR sì,,misc
-syy̌,n,hideg,SÌ,,PR sì,,root-words
+syẙ,n,tél,SÌ,,PR sì,,misc
+syẙ,n,hideg,SÌ,,PR sì,,root-words
 syımān,adj,"kék, lila",,per. āsemān „ég”,,,colors
 syımānyé,adj,csillogó fekete/kék/zöld,,,< syımān,,colors
 syısya,adj,vékony csíkos,SI ,bajusz,sisia,,colors
-syəiū,n,lúd,SA YU,harag kacsa,~ PR yuan,,animals
+syāyū,n,lúd,SA YU,harag kacsa,~ PR yuan,,animals
 dhàu,int,nem,THÙ,,PR thù # thàù,,root-words
 thā,n,karom,THA,,PR tha,,root-words
 thà alāgh,adv,kevésbé,,nem nagyon,,,misc
@@ -511,7 +511,7 @@ uinn,n,dél,,,,,misc
 umē,v,megtölt,MÍ,szopni,umí,,misc
 umm,n,öregasszony,MÙ MU,,BR umma,,society
 unō,v,kezd,NÚ,szül,,,misc
-uny̌m,n,etető antróp,NÌ MÙ,eszik ember,,,misc
+unẙm,n,etető antróp,NÌ MÙ,eszik ember,,,misc
 uryū,adj,kemény,RÚ,kő,,,misc
 uyai,v,elkerget,YÁ,"nyúl > elfut, menekül",,,misc
 ūyiégh,adj,csodálatos,YÍ,hold,,,misc
@@ -542,7 +542,7 @@ woa,v,hajlik,FA,láb > fordul,PR faa,,misc
 wòm,v,ütközik,FÚ MÙ,,PR fú mù # ~ PR fú mù,,environment
 wonēni,num,tizennégy,,,,,numerals
 wonnū,num,tizenöt,,,,,numerals
-woréi,n,alom,FÙ RÁ,ürülék kő,,,environment
+woréi,n,alom,FÙ RÁ,ürülék kő,,,environment
 wōsy,num,három,,,,,numerals
 wosyá,n,napnegyed,FA,láb > fordul,,,time
 wōsyiagh,n,nap,SÁ,,wōsy yiagh,,time
@@ -585,8 +585,8 @@ yoa,n,beszél,YA,,PR yaa,,root-words
 ẏrarā,v,balfaszkodik,RA RA,ugrik,,,body
 yū,n,kacsa,YU,kacsa,PR yu,,animals
 ywann,n,lúd,YU,,PR yuan,,root-words
-yy̌,n,kígyó,RÌ,,PR yì # rì,$,root-words
-yy̌r,adj,vörös; narancssárga; zöld,YÙ,vér,,,colors
+yẙ,n,kígyó,RÌ,,PR yì # rì,$,root-words
+yẙr,adj,vörös; narancssárga; zöld,YÙ,vér,,,colors
 yəlua,adj,fekete-fehér,RI ,fehér,PR yía rua,,colors
 yəlua,adj,kontrasztos; látványos,,fekete-fehér,PR yía rua,,colors
 yəlwaiō,adj,nagy foltos,RI ,fehér,< yəlua,,colors
@@ -612,7 +612,7 @@ zyizyu,n,fű,SU,növény,syisyu,,plants
 zẏmuó,n,csirke,SÍ MU,,,,animals
 zyoa,adj,cirmos,SU,levél,,,colors
 zyoanànng,adj,pettyes,SU NGÀ,cirmos harap,,,colors
-zyoury̌,n,uborka,SU RÌ,zöldség kígyó,,,misc
+zyourẙ,n,uborka,SU RÌ,zöldség kígyó,,,misc
 zyū,n,levél,SU,,PR su,,root-words
 zyua,n,gyógynövény,SU,,PR sua,,root-words
 zyuaghào,n,"csípős fűszer; paprika, gyömbér",SU NGÀ,harapós gyógyfű,MD zyua·ghào,,plants
