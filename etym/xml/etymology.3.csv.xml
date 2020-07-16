@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wordlist xmlns:syiao="http://syiao-mei.hu"
+          xml:id="etymology-3"
+          stage="3"
+          project="etymology"
+          label="BR"><!--!BR--><!--î enclitic-->
+   <word>
+      <form>fìeî</form>
+      <sense>
+         <cit>akarom</cit>
+      </sense>
+   </word>
+   <word>
+      <form>saî</form>
+      <sense>
+         <cit>merem</cit>
+      </sense>
+   </word>
+   <word>
+      <form>séî</form>
+      <sense>
+         <cit>félek</cit>
+         <cit>nem merek</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nyáiî</form>
+      <sense>
+         <cit>szeretném</cit>
+         <cit>kérem</cit>
+      </sense>
+   </word>
+   <word>
+      <form>myào lā</form>
+      <sense>
+         <cit>Myǎla istennő</cit>
+      </sense>
+   </word>
+   <word>
+      <form>myàosáili</form>
+      <sense>
+         <cit>jó idő</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nàmàn</form>
+      <sense>
+         <cit>emlék</cit>
+      </sense>
+   </word>
+   <word>
+      <form>luwíi</form>
+      <sense>
+         <cit>folyó</cit>
+      </sense>
+   </word>
+   <word>
+      <form>mùéa xu</form>
+      <sense>
+         <cit>antróp</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ñiéa thu</form>
+      <sense>
+         <cit>gyümölcs</cit>
+      </sense>
+   </word>
+   <word>
+      <form>thásáilixáiñganū</form>
+      <sense>
+         <cit>sehol-hegyek</cit>
+      </sense>
+   </word>
+   <word>
+      <form>la nào</form>
+      <sense>
+         <cit>megért</cit>
+      </sense>
+   </word>
+   <word>
+      <form>màu yào</form>
+      <sense>
+         <cit>ember (Felis cattus)</cit>
+      </sense>
+   </word>
+   <word>
+      <form>gàù nào</form>
+      <sense>
+         <cit>érez</cit>
+      </sense>
+   </word>
+   <word>
+      <form>na nào</form>
+      <sense>
+         <cit>megért</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ni máiū</form>
+      <sense>
+         <cit>egyszerre született testvérek</cit>
+         <cit>alom</cit>
+      </sense>
+   </word>
+   <word>
+      <form>mù yó</form>
+      <sense>
+         <cit>öregember</cit>
+      </sense>
+   </word>
+   <word>
+      <form>umma</form>
+      <sense>
+         <cit>öregasszony &lt; Šum umma</cit>
+      </sense>
+   </word>
+   <word>
+      <form>aséa</form>
+      <sense>
+         <cit>öreg</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fìenaxa</form>
+      <sense>
+         <cit>zsákmány</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si yaū</form>
+      <sense>
+         <cit>hagyomány</cit>
+         <cit>mondások</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si yā</form>
+      <sense>
+         <cit>hagyományoz</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si yāx</form>
+      <sense>
+         <cit>hagyományozó</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si nào</form>
+      <sense>
+         <cit>rajz</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si nàa</form>
+      <sense>
+         <cit>furcsa</cit>
+         <cit>különös</cit>
+         <cit>jellegzetes</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si sā</form>
+      <sense>
+         <cit>ír</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si saxu</form>
+      <sense>
+         <cit>írnok</cit>
+      </sense>
+   </word>
+   <word>
+      <form>lalā</form>
+      <sense>
+         <cit>rajta</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ù sỳ</form>
+      <sense>
+         <cit>hal</cit>
+      </sense>
+   </word>
+   <word>
+      <form>qhú yò</form>
+      <sense>
+         <cit>üreg (embernél kisebb)</cit>
+      </sense>
+   </word>
+   <word>
+      <form>su ái</form>
+      <sense>
+         <cit>nyál</cit>
+      </sense>
+   </word>
+   <!--Egyiptian gods from early Bronze Age-->
+   <word>
+      <form>wasáira</form>
+      <sense>
+         <cit>Osiris</cit>
+      </sense>
+   </word>
+   <word>
+      <form>riga</form>
+      <sense>
+         <cit>Ra</cit>
+      </sense>
+   </word>
+   <word>
+      <form>anafào</form>
+      <sense>
+         <cit>Anubis</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nào fỳ</form>
+      <sense>
+         <cit>isten</cit>
+      </sense>
+   </word>
+   <word>
+      <form>húo sán</form>
+      <sense>
+         <cit>sarkcsillag</cit>
+         <cit>vezércsillag</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nin húo sán</form>
+      <sense>
+         <cit>Ninxursañ</cit>
+      </sense>
+   </word>
+   <word>
+      <form>thaxu</form>
+      <sense>
+         <cit>sün</cit>
+      </sense>
+   </word>
+   <word>
+      <form>xuhái</form>
+      <sense>
+         <cit>hajlékonyság</cit>
+         <cit>mozgékonyság</cit>
+         <cit>karcsúság</cit>
+      </sense>
+      <sense>
+         <cit>befér</cit>
+         <cit>átfér</cit>
+         <cit>benyomakodik</cit>
+      </sense>
+   </word>
+   <word>
+      <form>néi ñañi</form>
+      <sense>
+         <cit>tágas</cit>
+         <cit>kényelmes</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nirúo fyé</form>
+      <sense>
+         <cit>szoba</cit>
+      </sense>
+   </word>
+   <!--sā: some of the lengthenings already happened when these words were formed-->
+   <word>
+      <form>fei sā</form>
+      <sense>
+         <cit>szellő</cit>
+      </sense>
+   </word>
+   <word>
+      <form>sixi</form>
+      <sense>
+         <cit>szétterül</cit>
+         <cit>szétborul</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fyiéa mù</form>
+      <sense>
+         <cit>ruha</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fyiéamù fiirâ</form>
+      <sense>
+         <cit>selyem</cit>
+      </sense>
+   </word>
+   <word>
+      <form>sàéa naqha</form>
+      <sense>
+         <cit>áldozat</cit>
+      </sense>
+   </word>
+   <word>
+      <form>saéa ya naqhā</form>
+      <sense>
+         <cit>áldozó pap</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ryá màiqhú</form>
+      <sense>
+         <cit>szürke patak</cit>
+      </sense>
+   </word>
+</wordlist>

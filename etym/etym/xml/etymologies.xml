@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etymology xmlns:syiao="http://syiao-mei.hu"
+           xml:id="etymology-3"
+           stage="3"
+           project="etymology">
+   <word>
+      <form>fā</form>
+      <etym stage="0" lang="">fa</etym>
+      <sense>láb</sense>
+      <sense>lép</sense>
+   </word>
+   <word>
+      <form>fānn</form>
+      <etym stage="0" lang="">fan</etym>
+      <sense>lépés</sense>
+   </word>
+   <word>
+      <form>foa</form>
+      <etym stage="0" lang="">faa</etym>
+      <sense>fordul</sense>
+   </word>
+   <word>
+      <form>fyī</form>
+      <etym stage="0" lang="">fi</etym>
+      <sense>szőr</sense>
+   </word>
+   <word>
+      <form>fidh</form>
+      <etym stage="" lang="">fitha</etym>
+   </word>
+   <word>
+      <form>fei</form>
+      <etym stage="0" lang="">fii</etym>
+      <sense>puha</sense>
+   </word>
+   <word>
+      <form>fȳ</form>
+      <etym stage="0" lang="">fu</etym>
+      <sense>tojás</sense>
+   </word>
+   <word>
+      <form>wào</form>
+      <etym stage="0" lang="">fà</etym>
+      <sense>valaki gyereke</sense>
+   </word>
+   <word>
+      <form>fyái</form>
+      <etym stage="0" lang="">fá</etym>
+      <sense>pénisz</sense>
+   </word>
+   <word>
+      <form>fyy̌</form>
+      <etym stage="0" lang="">fì</etym>
+      <sense>dönt, választ</sense>
+   </word>
+   <word>
+      <form>fǐnn</form>
+      <etym stage="0" lang="">fìn</etym>
+      <sense>választott</sense>
+   </word>
+   <word>
+      <form>fìe</form>
+      <etym stage="0" lang="">fìi</etym>
+      <sense>visz, akar</sense>
+   </word>
+   <word>
+      <form>fyê</form>
+      <etym stage="0" lang="">fí</etym>
+      <sense>meleg</sense>
+   </word>
+   <word>
+      <form>féa</form>
+      <etym stage="0" lang="">fía</etym>
+      <sense>lélek, életerő</sense>
+   </word>
+   <word>
+      <form>féia</form>
+      <etym stage="0" lang="">fíia</etym>
+      <sense>meleg</sense>
+   </word>
+   <word>
+      <form>wuo</form>
+      <etym stage="0" lang="">fù</etym>
+      <sense>ürülék</sense>
+   </word>
+   <word>
+      <form>wúo</form>
+      <etym stage="0" lang="">fú</etym>
+      <sense>üt</sense>
+   </word>
+   <word>
+      <form>mā</form>
+      <etym stage="0" lang="">ma</etym>
+      <sense>kéz</sense>
+   </word>
+   <word>
+      <form>myī</form>
+      <etym stage="0" lang="">mi</etym>
+      <sense>hírnév, hatalom</sense>
+   </word>
+   <word>
+      <form>myào</form>
+      <etym stage="0" lang="">mà</etym>
+      <sense>jó</sense>
+   </word>
+   <word>
+      <form>mèo</form>
+      <etym stage="0" lang="">màu</etym>
+      <sense>elégedettség</sense>
+   </word>
+   <word>
+      <form>myǎng</form>
+      <etym stage="0" lang="">màng</etym>
+      <sense>igen</sense>
+   </word>
+   <word>
+      <form>myǎ</form>
+      <etym stage="2" lang="">màa</etym>
+      <sense>jóllakottság, béke</sense>
+   </word>
+   <word>
+      <form>mái</form>
+      <etym stage="0" lang="">má</etym>
+      <sense>család</sense>
+   </word>
+   <word>
+      <form>myy̌</form>
+      <etym stage="0" lang="">mì</etym>
+      <sense>porc</sense>
+   </word>
+   <word>
+      <form>mìa</form>
+      <etym stage="0" lang="">mìa</etym>
+      <sense>rugalmas</sense>
+   </word>
+   <word>
+      <form>myê</form>
+      <etym stage="0" lang="">mí</etym>
+      <sense>szopik</sense>
+      <sense>tej</sense>
+   </word>
+   <word>
+      <form>méi</form>
+      <etym stage="0" lang="">míi</etym>
+      <sense>testvér</sense>
+   </word>
+   <word>
+      <form>mū</form>
+      <etym stage="0" lang="">mu</etym>
+      <sense>valaki</sense>
+   </word>
+   <word>
+      <form>màu</form>
+      <etym stage="0" lang="">mù</etym>
+      <sense>nagy állat, úr, antróp</sense>
+   </word>
+   <word>
+      <form>mòi</form>
+      <etym stage="0" lang="">mùi</etym>
+      <sense>ragadozó</sense>
+   </word>
+   <word>
+      <form>mô</form>
+      <etym stage="0" lang="">mú</etym>
+      <sense>ül</sense>
+   </word>
+   <word>
+      <form>móu</form>
+      <etym stage="0" lang="">múu</etym>
+      <sense>tyúk</sense>
+   </word>
+   <word>
+      <form>nā</form>
+      <etym stage="0" lang="">na</etym>
+      <sense>öl</sense>
+   </word>
+   <word>
+      <form>ngā</form>
+      <etym stage="0" lang="">nga</etym>
+      <sense>hát</sense>
+   </word>
+   <word>
+      <form>ghānn</form>
+      <etym stage="0" lang="">ngan</etym>
+      <sense>hegy</sense>
+   </word>
+   <word>
+      <form>ghī</form>
+      <etym stage="0" lang="">ngi</etym>
+      <sense>alszik</sense>
+      <sense>gömb</sense>
+   </word>
+   <word>
+      <form>ghio</form>
+      <etym stage="0" lang="">ngiu</etym>
+      <sense>összetekeredik</sense>
+   </word>
+   <word>
+      <form>ghū</form>
+      <etym stage="0" lang="">ngu</etym>
+      <sense>béka</sense>
+   </word>
+   <word>
+      <form>ghào</form>
+      <etym stage="0" lang="">ngà</etym>
+      <sense>harap</sense>
+   </word>
+   <word>
+      <form>ái</form>
+      <etym stage="0" lang="">ngá</etym>
+      <sense>nyal</sense>
+   </word>
+   <word>
+      <form>ngy̌</form>
+      <etym stage="0" lang="">ngì</etym>
+      <sense>máj</sense>
+   </word>
+   <word>
+      <form>ngìa</form>
+      <etym stage="0" lang="">ngìa</etym>
+      <sense>finom</sense>
+   </word>
+   <word>
+      <form>ngǐnn</form>
+      <etym stage="0" lang="">ngìn</etym>
+      <sense>orvosság</sense>
+   </word>
+   <word>
+      <form>ngê</form>
+      <etym stage="0" lang="">ngí</etym>
+      <sense>én</sense>
+   </word>
+   <word>
+      <form>éa</form>
+      <etym stage="0" lang="">ngía</etym>
+      <sense>én</sense>
+   </word>
+   <word>
+      <form>ngàu</form>
+      <etym stage="0" lang="">ngù</etym>
+      <sense>here</sense>
+   </word>
+   <word>
+      <form>úa</form>
+      <etym stage="0" lang="">ngúa</etym>
+      <sense>beteg</sense>
+   </word>
+   <word>
+      <form>ói</form>
+      <etym stage="0" lang="">ngúi</etym>
+      <sense>betegség</sense>
+   </word>
+   <word>
+      <form>nī</form>
+      <etym stage="0" lang="">ni</etym>
+      <sense>ki, elő</sense>
+   </word>
+   <word>
+      <form>nenn</form>
+      <etym stage="0" lang="">nini</etym>
+      <sense>vagina</sense>
+   </word>
+   <word>
+      <form>nū</form>
+      <etym stage="0" lang="">nu</etym>
+      <sense>szív</sense>
+   </word>
+   <word>
+      <form>nwia</form>
+      <etym stage="0" lang="">nuia</etym>
+      <sense>nagyszerű</sense>
+   </word>
+   <word>
+      <form>nul</form>
+      <etym stage="0" lang="">nura</etym>
+      <sense>mosolyog (dorombol)</sense>
+   </word>
+   <word>
+      <form>nào</form>
+      <etym stage="0" lang="">nà</etym>
+      <sense>észrevesz</sense>
+   </word>
+   <word>
+      <form>nǎ</form>
+      <etym stage="0" lang="">nàa</etym>
+      <sense>tud</sense>
+   </word>
+   <word>
+      <form>niào</form>
+      <etym stage="" lang="">nài</etym>
+   </word>
+   <word>
+      <form>nǎnn</form>
+      <etym stage="0" lang="">nàn</etym>
+      <sense>lény</sense>
+   </word>
+   <word>
+      <form>nyái</form>
+      <etym stage="0" lang="">ná</etym>
+      <sense>anyám</sense>
+   </word>
+   <word>
+      <form>ny̌</form>
+      <etym stage="0" lang="">nì</etym>
+      <sense>eszik</sense>
+   </word>
+   <word>
+      <form>nigh</form>
+      <etym stage="0" lang="">nìxu</etym>
+      <sense>étel</sense>
+   </word>
+   <word>
+      <form>nyê</form>
+      <etym stage="0" lang="">ní</etym>
+      <sense>szürkület, hajnal</sense>
+   </word>
+   <word>
+      <form>nyéi</form>
+      <etym stage="0" lang="">níi</etym>
+      <sense>tér</sense>
+   </word>
+   <word>
+      <form>nyéa</form>
+      <etym stage="0" lang="">nía</etym>
+      <sense>horizont</sense>
+   </word>
+   <word>
+      <form>nàu</form>
+      <etym stage="0" lang="">nù</etym>
+      <sense>patkány</sense>
+   </word>
+   <word>
+      <form>nōgh</form>
+      <etym stage="0" lang="">nùxu</etym>
+      <sense>vándorpatkány</sense>
+   </word>
+   <word>
+      <form>nyô</form>
+      <etym stage="0" lang="">nú</etym>
+      <sense>szül</sense>
+   </word>
+   <word>
+      <form>nyóa</form>
+      <etym stage="0" lang="">núa</etym>
+      <sense>új</sense>
+   </word>
+   <word>
+      <form>nyói</form>
+      <etym stage="0" lang="">núi</etym>
+      <sense>teremt</sense>
+   </word>
+   <word>
+      <form>qhā</form>
+      <etym stage="0" lang="">xa</etym>
+      <sense>vadászik</sense>
+   </word>
+   <word>
+      <form>qhī</form>
+      <etym stage="0" lang="">xi</etym>
+      <sense>esik (eső)</sense>
+   </word>
+   <word>
+      <form>qhìm</form>
+      <etym stage="0" lang="">ximù</etym>
+      <sense>zuhan</sense>
+   </word>
+   <word>
+      <form>qhio</form>
+      <etym stage="0" lang="">xiu</etym>
+      <sense>eső</sense>
+   </word>
+   <word>
+      <form>qhū</form>
+      <etym stage="0" lang="">xu</etym>
+      <sense>egér</sense>
+   </word>
+   <word>
+      <form>ghào</form>
+      <etym stage="0" lang="">xà</etym>
+      <sense>ki? mi?</sense>
+   </word>
+   <word>
+      <form>hái</form>
+      <etym stage="0" lang="">xá</etym>
+      <sense>fej</sense>
+   </word>
+   <word>
+      <form>hânn</form>
+      <etym stage="0" lang="">xán</etym>
+      <sense>homlok</sense>
+   </word>
+   <word>
+      <form>ghy̌</form>
+      <etym stage="0" lang="">xì</etym>
+      <sense>fut</sense>
+   </word>
+   <word>
+      <form>hê</form>
+      <etym stage="0" lang="">xí</etym>
+      <sense>ti</sense>
+   </word>
+   <word>
+      <form>ghàu</form>
+      <etym stage="0" lang="">xù</etym>
+      <sense>szag</sense>
+   </word>
+   <word>
+      <form>ghǔnn</form>
+      <etym stage="0" lang="">xùn</etym>
+      <sense>nyom</sense>
+   </word>
+   <word>
+      <form>qhǔ</form>
+      <etym stage="0" lang="">xùu</etym>
+      <sense>út</sense>
+   </word>
+   <word>
+      <form>húo</form>
+      <etym stage="0" lang="">xú</etym>
+      <sense>farok</sense>
+   </word>
+   <word>
+      <form>húdh</form>
+      <etym stage="0" lang="">xúthá</etym>
+      <sense>mögött</sense>
+   </word>
+   <word>
+      <form>lā</form>
+      <etym stage="0" lang="">ra</etym>
+      <sense>ugrik</sense>
+   </word>
+   <word>
+      <form>lī</form>
+      <etym stage="0" lang="">ri</etym>
+      <sense>éjszaka</sense>
+   </word>
+   <word>
+      <form>līnn</form>
+      <etym stage="0" lang="">rin</etym>
+      <sense>éjszaka</sense>
+   </word>
+   <word>
+      <form>lū</form>
+      <etym stage="0" lang="">ru</etym>
+      <sense>gödör</sense>
+   </word>
+   <word>
+      <form>lua</form>
+      <etym stage="0" lang="">rua</etym>
+      <sense>fekete</sense>
+   </word>
+   <word>
+      <form>lwia</form>
+      <etym stage="0" lang="">ruia</etym>
+      <sense>mély, sötét</sense>
+   </word>
+   <word>
+      <form>lūng</form>
+      <etym stage="0" lang="">rung</etym>
+      <sense>mély</sense>
+   </word>
+   <word>
+      <form>lūnn</form>
+      <etym stage="0" lang="">run</etym>
+      <sense>gödör</sense>
+   </word>
+   <word>
+      <form>rào</form>
+      <etym stage="0" lang="">rà</etym>
+      <sense>szexel</sense>
+   </word>
+   <word>
+      <form>rǎ</form>
+      <etym stage="0" lang="">ràa</etym>
+      <sense>szex</sense>
+   </word>
+   <word>
+      <form>rái</form>
+      <etym stage="0" lang="">rá</etym>
+      <sense>dolog, tárgy</sense>
+   </word>
+   <word>
+      <form>ryē</form>
+      <etym stage="0" lang="">ráa</etym>
+      <sense>föld, talaj</sense>
+   </word>
+   <word>
+      <form>réi</form>
+      <etym stage="0" lang="">rái</etym>
+      <sense>kő</sense>
+   </word>
+   <word>
+      <form>ryy̌</form>
+      <etym stage="0" lang="">rì</etym>
+      <sense>kígyó</sense>
+   </word>
+   <word>
+      <form>ryǐng</form>
+      <etym stage="0" lang="">rìng</etym>
+      <sense>gonosz, ijesztő</sense>
+   </word>
+   <word>
+      <form>ryê</form>
+      <etym stage="0" lang="">rí</etym>
+      <sense>hús</sense>
+   </word>
+   <word>
+      <form>rǔ</form>
+      <etym stage="0" lang="">rù</etym>
+      <sense>száj</sense>
+   </word>
+   <word>
+      <form>rúo</form>
+      <etym stage="0" lang="">rú</etym>
+      <sense>bél</sense>
+   </word>
+   <word>
+      <form>syā</form>
+      <etym stage="0" lang="">sa</etym>
+      <sense>fúj</sense>
+      <sense>harag</sense>
+   </word>
+   <word>
+      <form>syı</form>
+      <etym stage="0" lang="">si</etym>
+      <sense>bajusz</sense>
+   </word>
+   <word>
+      <form>syei</form>
+      <etym stage="0" lang="">sii</etym>
+      <sense>lát</sense>
+   </word>
+   <word>
+      <form>syıa</form>
+      <etym stage="0" lang="">sia</etym>
+      <sense>megjelenik</sense>
+   </word>
+   <word>
+      <form>zyū</form>
+      <etym stage="0" lang="">su</etym>
+      <sense>levél</sense>
+   </word>
+   <word>
+      <form>zyua</form>
+      <etym stage="0" lang="">sua</etym>
+      <sense>gyógynövény</sense>
+   </word>
+   <word>
+      <form>zyū</form>
+      <etym stage="0" lang="">suu</etym>
+      <sense>nő</sense>
+   </word>
+   <word>
+      <form>zyǎ</form>
+      <etym stage="0" lang="">sà</etym>
+      <sense>veréb</sense>
+      <sense>lélek</sense>
+   </word>
+   <word>
+      <form>syái</form>
+      <etym stage="0" lang="">sá</etym>
+      <sense>nappal</sense>
+   </word>
+   <word>
+      <form>syêa</form>
+      <etym stage="0" lang="">sáa</etym>
+      <sense>fény</sense>
+   </word>
+   <word>
+      <form>syânn</form>
+      <etym stage="0" lang="">sán</etym>
+      <sense>csillag</sense>
+   </word>
+   <word>
+      <form>syy̌</form>
+      <etym stage="0" lang="">sì</etym>
+      <sense>hideg</sense>
+   </word>
+   <word>
+      <form>zyìu</form>
+      <etym stage="0" lang="">sìu</etym>
+      <sense>kevés, szűkös</sense>
+   </word>
+   <word>
+      <form>zyìa</form>
+      <etym stage="0" lang="">sìa</etym>
+      <sense>hideg, halott</sense>
+   </word>
+   <word>
+      <form>syê</form>
+      <etym stage="0" lang="">sí</etym>
+      <sense>fél</sense>
+   </word>
+   <word>
+      <form>syéi</form>
+      <etym stage="0" lang="">síi</etym>
+      <sense>félelem</sense>
+   </word>
+   <word>
+      <form>syàu</form>
+      <etym stage="0" lang="">sù</etym>
+      <sense>pisil</sense>
+   </word>
+   <word>
+      <form>zyúo</form>
+      <etym stage="0" lang="">sú</etym>
+      <sense>szopik</sense>
+   </word>
+   <word>
+      <form>thā</form>
+      <etym stage="0" lang="">tha</etym>
+      <sense>karom</sense>
+   </word>
+   <word>
+      <form>thī</form>
+      <etym stage="0" lang="">thi</etym>
+      <sense>fióka</sense>
+   </word>
+   <word>
+      <form>thū</form>
+      <etym stage="0" lang="">thu</etym>
+      <sense>fa</sense>
+   </word>
+   <word>
+      <form>thǎ</form>
+      <etym stage="0" lang="">thà</etym>
+      <sense>mászik</sense>
+   </word>
+   <word>
+      <form>thái</form>
+      <etym stage="0" lang="">thá</etym>
+      <sense>nincs</sense>
+   </word>
+   <word>
+      <form>thy̌</form>
+      <etym stage="0" lang="">thì</etym>
+      <sense>hol?</sense>
+   </word>
+   <word>
+      <form>thê</form>
+      <etym stage="0" lang="">thí</etym>
+      <sense>orr</sense>
+   </word>
+   <word>
+      <form>thàu</form>
+      <etym stage="0" lang="">thù</etym>
+      <sense>nem</sense>
+   </word>
+   <word>
+      <form>thúo</form>
+      <etym stage="0" lang="">thú</etym>
+      <sense>test</sense>
+   </word>
+   <word>
+      <form>thúa</form>
+      <etym stage="0" lang="">thúa</etym>
+      <sense>válik valamilyenné</sense>
+   </word>
+   <word>
+      <form>mā</form>
+      <etym stage="0" lang="">wa</etym>
+      <sense>pocok</sense>
+   </word>
+   <word>
+      <form>mī</form>
+      <etym stage="0" lang="">wi</etym>
+      <sense>csont</sense>
+   </word>
+   <word>
+      <form>ufy</form>
+      <etym stage="0" lang="">wufa</etym>
+      <sense>áll</sense>
+   </word>
+   <word>
+      <form>mào</form>
+      <etym stage="0" lang="">wà</etym>
+      <sense>megy</sense>
+   </word>
+   <word>
+      <form>mái</form>
+      <etym stage="0" lang="">wá</etym>
+      <sense>hall</sense>
+      <sense>fül</sense>
+   </word>
+   <word>
+      <form>wê</form>
+      <etym stage="0" lang="">wé</etym>
+      <sense>iszik</sense>
+   </word>
+   <word>
+      <form>my̌</form>
+      <etym stage="0" lang="">wì</etym>
+      <sense>rigó</sense>
+   </word>
+   <word>
+      <form>wê</form>
+      <etym stage="0" lang="">wí</etym>
+      <sense>víz</sense>
+   </word>
+   <word>
+      <form>úo</form>
+      <etym stage="0" lang="">wú</etym>
+      <sense>fog</sense>
+   </word>
+   <word>
+      <form>yā</form>
+      <etym stage="0" lang="">ya</etym>
+      <sense>mond</sense>
+   </word>
+   <word>
+      <form>yoa</form>
+      <etym stage="0" lang="">yaa</etym>
+      <sense>beszél</sense>
+   </word>
+   <word>
+      <form>yī</form>
+      <etym stage="0" lang="">yi</etym>
+      <sense>szem</sense>
+   </word>
+   <word>
+      <form>yū</form>
+      <etym stage="0" lang="">yu</etym>
+      <sense>kacsa</sense>
+   </word>
+   <word>
+      <form>ywann</form>
+      <etym stage="0" lang="">yuan</etym>
+      <sense>lúd</sense>
+   </word>
+   <word>
+      <form>yào</form>
+      <etym stage="0" lang="">yà</etym>
+      <sense>tüzelő nő</sense>
+   </word>
+   <word>
+      <form>yái</form>
+      <etym stage="0" lang="">yá</etym>
+      <sense>nyúl</sense>
+   </word>
+   <word>
+      <form>yy̌</form>
+      <etym stage="0" lang="">yì</etym>
+      <sense>gyerek</sense>
+   </word>
+   <word>
+      <form>yìann</form>
+      <etym stage="0" lang="">yìan</etym>
+      <sense>gyerek</sense>
+   </word>
+   <word>
+      <form>yǐnn</form>
+      <etym stage="0" lang="">yìn</etym>
+      <sense>kamasz gyerek</sense>
+   </word>
+   <word>
+      <form>yìu</form>
+      <etym stage="0" lang="">yìu</etym>
+      <sense>kicsi</sense>
+   </word>
+   <word>
+      <form>yê</form>
+      <etym stage="0" lang="">yí</etym>
+      <sense>vonul, megy valahova</sense>
+   </word>
+   <word>
+      <form>yéa</form>
+      <etym stage="0" lang="">yía</etym>
+      <sense>fehér</sense>
+   </word>
+   <word>
+      <form>yàu</form>
+      <etym stage="0" lang="">yù</etym>
+      <sense>vér</sense>
+   </word>
+   <word>
+      <form>yô</form>
+      <etym stage="0" lang="">yú</etym>
+      <sense>férfi</sense>
+   </word>
+   <word>
+      <form>ngā</form>
+      <etym stage="0" lang="">nnga</etym>
+      <sense>hát</sense>
+   </word>
+   <word>
+      <form>ngānn</form>
+      <etym stage="0" lang="">nngan</etym>
+      <sense>hegy</sense>
+   </word>
+   <word>
+      <form>ngī</form>
+      <etym stage="0" lang="">nngi</etym>
+      <sense>alszik</sense>
+      <sense>gömb</sense>
+   </word>
+   <word>
+      <form>ngio</form>
+      <etym stage="0" lang="">nngiu</etym>
+      <sense>összetekeredik</sense>
+   </word>
+   <word>
+      <form>íào</form>
+      <etym stage="0" lang="">ngí yà</etym>
+      <sense>én</sense>
+   </word>
+   <word>
+      <form>myǎ</form>
+      <etym stage="0" lang="">mu yà</etym>
+      <sense>ő G1f</sense>
+   </word>
+   <word>
+      <form>myô</form>
+      <etym stage="0" lang="">mu yú</etym>
+      <sense>ő G1m</sense>
+   </word>
+   <word>
+      <form>myy̌</form>
+      <etym stage="0" lang="">mu yì</etym>
+      <sense>ő G2</sense>
+   </word>
+   <word>
+      <form>mu̇yann</form>
+      <etym stage="0" lang="">mù yà na</etym>
+      <sense>ők</sense>
+   </word>
+   <word>
+      <form>nànn</form>
+      <etym stage="0" lang="">nà nà</etym>
+      <sense>gondolkodik, gondolat</sense>
+   </word>
+   <word>
+      <form>myànn</form>
+      <etym stage="0" lang="">mà nà</etym>
+      <sense>jó gondolat</sense>
+   </word>
+   <word>
+      <form>nàgh</form>
+      <etym stage="1" lang="">na ñà</etym>
+      <sense>nyak</sense>
+   </word>
+   <word>
+      <form>eméng</form>
+      <etym stage="1" lang="">ñímíñ</etym>
+      <sense>jóllakott, elégedett</sense>
+   </word>
+   <word>
+      <form>ghǎng</form>
+      <etym stage="1" lang="">ñàñ</etym>
+      <sense>nyitott száj</sense>
+   </word>
+   <word>
+      <form>qhānn</form>
+      <etym stage="1" lang="">xan</etym>
+      <sense>vadász, ember</sense>
+   </word>
+   <word>
+      <form>nımái</form>
+      <etym stage="1" lang="">ni má</etym>
+      <sense>szülőhely, fészek</sense>
+   </word>
+   <word>
+      <form>nàm</form>
+      <etym stage="1" lang="">nà wà</etym>
+      <sense>elmúlik</sense>
+      <sense>múlt</sense>
+   </word>
+   <word>
+      <form>yáng</form>
+      <etym stage="1" lang="">ya ngí</etym>
+      <sense>név</sense>
+   </word>
+   <word>
+      <form>fil</form>
+      <etym stage="1" lang="">fìra</etym>
+      <sense>küld</sense>
+   </word>
+   <word>
+      <form>ghil</form>
+      <etym stage="1" lang="">ñira</etym>
+      <sense>forog</sense>
+   </word>
+   <word>
+      <form>áinn</form>
+      <etym stage="1" lang="">ñá na</etym>
+      <sense>tiszta</sense>
+   </word>
+   <word>
+      <form>áing</form>
+      <etym stage="1" lang="">ñá ña</etym>
+      <sense>mosakszik</sense>
+   </word>
+   <word>
+      <form>wèo</form>
+      <etym stage="1" lang="">wàu</etym>
+      <sense>válni, lenni</sense>
+   </word>
+   <word>
+      <form>mùa</form>
+      <etym stage="" lang="">mùa</etym>
+   </word>
+   <word>
+      <form>nèo</form>
+      <etym stage="1" lang="">nuà</etym>
+      <sense>észrevevés, látás</sense>
+   </word>
+   <word>
+      <form>yèo</form>
+      <etym stage="1" lang="">yuà</etym>
+      <sense>tekintet, nézés</sense>
+   </word>
+   <word>
+      <form>yéào</form>
+      <etym stage="1" lang="">yíà</etym>
+      <sense>Hold</sense>
+   </word>
+   <word>
+      <form>màe</form>
+      <etym stage="1" lang="">wài</etym>
+      <sense>forrás, kút, ér</sense>
+   </word>
+   <word>
+      <form>syel</form>
+      <etym stage="1" lang="">sá li</etym>
+      <sense>idő</sense>
+   </word>
+   <word>
+      <form>syány</form>
+      <etym stage="1" lang="">sá ní</etym>
+      <sense>hajnal</sense>
+   </word>
+   <word>
+      <form>míǎ</form>
+      <etym stage="1" lang="">mí yàa</etym>
+      <sense>nő</sense>
+   </word>
+   <word>
+      <form>fal</form>
+      <etym stage="1" lang="">faa ra</etym>
+      <sense>láb</sense>
+   </word>
+   <word>
+      <form>fyail</form>
+      <etym stage="1" lang="">fá ra</etym>
+      <sense>hegy, csúcs</sense>
+   </word>
+   <word>
+      <form>lu̇rái</form>
+      <etym stage="1" lang="">ru rá</etym>
+      <sense>padló</sense>
+   </word>
+   <word>
+      <form>fàm</form>
+      <etym stage="1" lang="">fawà</etym>
+      <sense>megyek</sense>
+   </word>
+   <word>
+      <form>mfàm</form>
+      <etym stage="1" lang="">mu fawà</etym>
+      <sense>megy G1-G2</sense>
+   </word>
+   <word>
+      <form>yıfàm</form>
+      <etym stage="1" lang="">yi fawà</etym>
+      <sense>megy G3</sense>
+   </word>
+   <word>
+      <form>mu̇fàm</form>
+      <etym stage="1" lang="">mù fawà</etym>
+      <sense>megy G4</sense>
+   </word>
+   <word>
+      <form>nəfàm</form>
+      <etym stage="1" lang="">na fawà</etym>
+      <sense>megy G5</sense>
+   </word>
+   <word>
+      <form>rəfàm</form>
+      <etym stage="1" lang="">rá fawà</etym>
+      <sense>megy G6</sense>
+   </word>
+   <word>
+      <form>mfáom</form>
+      <etym stage="" lang="">mu faúwà</etym>
+   </word>
+   <word>
+      <form>yıfáom</form>
+      <etym stage="" lang="">yi faúwà</etym>
+   </word>
+   <word>
+      <form>mu̇fáom</form>
+      <etym stage="1" lang="">mù faúwà</etym>
+      <sense>éppen megy G4</sense>
+   </word>
+   <word>
+      <form>nəfáom</form>
+      <etym stage="" lang="">na faúwà</etym>
+   </word>
+   <word>
+      <form>rəfáom</form>
+      <etym stage="" lang="">rá faúwà</etym>
+   </word>
+   <word>
+      <form>mfààm</form>
+      <etym stage="" lang="">mu faàwà</etym>
+   </word>
+   <word>
+      <form>yıfààm</form>
+      <etym stage="" lang="">yi faàwà</etym>
+   </word>
+   <word>
+      <form>mu̇fààm</form>
+      <etym stage="1" lang="">mù faàwà</etym>
+      <sense>elindul(t) G4</sense>
+   </word>
+   <word>
+      <form>nəfààm</form>
+      <etym stage="" lang="">na faàwà</etym>
+   </word>
+   <word>
+      <form>rəfààm</form>
+      <etym stage="" lang="">rá faàwà</etym>
+   </word>
+   <word>
+      <form>mnáo</form>
+      <etym stage="" lang="">mu nàú</etym>
+   </word>
+   <word>
+      <form>yınáo</form>
+      <etym stage="" lang="">yi nàú</etym>
+   </word>
+   <word>
+      <form>mu̇náo</form>
+      <etym stage="1" lang="">mù nàú</etym>
+      <sense>éppen gondolkodik G4</sense>
+   </word>
+   <word>
+      <form>nənáo</form>
+      <etym stage="" lang="">na nàú</etym>
+   </word>
+   <word>
+      <form>rənáo</form>
+      <etym stage="" lang="">rá nàú</etym>
+   </word>
+   <word>
+      <form>mnǎ</form>
+      <etym stage="" lang="">mu nàà</etym>
+   </word>
+   <word>
+      <form>yınǎ</form>
+      <etym stage="" lang="">yi nàà</etym>
+   </word>
+   <word>
+      <form>mu̇nǎ</form>
+      <etym stage="1" lang="">mù nàà</etym>
+      <sense>rágondol G4</sense>
+   </word>
+   <word>
+      <form>nənǎ</form>
+      <etym stage="" lang="">na nàà</etym>
+   </word>
+   <word>
+      <form>rənǎ</form>
+      <etym stage="" lang="">rá nàà</etym>
+   </word>
+   <word>
+      <form>fəmáth</form>
+      <etym stage="1" lang="">fawàthú</etym>
+      <sense>haladóvá válik &gt; </sense>
+   </word>
+   <word>
+      <form>fəmàdh</form>
+      <etym stage="1" lang="">fawàthúa</etym>
+      <sense>megtetté válik &gt; megtett (út)</sense>
+   </word>
+   <word>
+      <form>fəmath</form>
+      <etym stage="1" lang="">fawàthu</etym>
+      <sense>utazgatóvá válik</sense>
+   </word>
+   <word>
+      <form>nádh</form>
+      <etym stage="1" lang="">nàthú</etym>
+      <sense>érzékeltté válik &gt; érzékelt</sense>
+   </word>
+   <word>
+      <form>nàdh</form>
+      <etym stage="1" lang="">nàthúa</etym>
+      <sense>észrevetté válik &gt; észrevett</sense>
+   </word>
+   <word>
+      <form>nadh</form>
+      <etym stage="1" lang="">nàthu</etym>
+      <sense>észrevehető, érzékelhetővé válik </sense>
+   </word>
+   <word>
+      <form>nádh</form>
+      <etym stage="1" lang="">nathú</etym>
+      <sense>halottá válik válik &gt; érzékelt</sense>
+   </word>
+   <word>
+      <form>nadh</form>
+      <etym stage="1" lang="">nathúa</etym>
+      <sense>megöltté válik &gt; észrevett</sense>
+   </word>
+   <word>
+      <form>nadh</form>
+      <etym stage="1" lang="">nathu</etym>
+      <sense>halandóvá válik </sense>
+   </word>
+   <word>
+      <form>mwadh</form>
+      <etym stage="1" lang="">muathúa</etym>
+      <sense>erőssé válik</sense>
+   </word>
+   <word>
+      <form>ghòh</form>
+      <etym stage="1" lang="">ñusì</etym>
+      <sense>te (desp.)</sense>
+   </word>
+   <word>
+      <form>gháh</form>
+      <etym stage="1" lang="">ñasá</etym>
+      <sense>tűz</sense>
+   </word>
+   <word>
+      <form>syéa</form>
+      <etym stage="1" lang="">sía</etym>
+      <sense>öreg, régi, hatalmas</sense>
+   </word>
+   <word>
+      <form>syédh</form>
+      <etym stage="1" lang="">síathúa</etym>
+      <sense>öregszik, hatalmassá válik</sense>
+   </word>
+   <word>
+      <form>alaqh</form>
+      <etym stage="1" lang="">araxu</etym>
+      <sense>legfeljebb</sense>
+   </word>
+   <word>
+      <form>alày</form>
+      <etym stage="" lang="">arayà</etym>
+   </word>
+   <word>
+      <form>aláy</form>
+      <etym stage="" lang="">arayú</etym>
+   </word>
+   <word>
+      <form>wwòm</form>
+      <etym stage="1" lang="">fú mù</etym>
+      <sense>ütközik</sense>
+   </word>
+   <word>
+      <form>qhīel</form>
+      <etym stage="1" lang="">xìi ra</etym>
+      <sense>gyorsan fut</sense>
+   </word>
+   <word>
+      <form>zyàgh</form>
+      <etym stage="1" lang="">sa ñà</etym>
+      <sense>zombi</sense>
+   </word>
+   <word>
+      <form>nagh</form>
+      <etym stage="1" lang="">naxa</etym>
+      <sense>halandó</sense>
+      <sense>zsákmányállat</sense>
+   </word>
+   <word>
+      <form>mēath</form>
+      <etym stage="1" lang="">máa tu</etym>
+      <sense>rend, közösség, igazság</sense>
+   </word>
+   <word>
+      <form>fadh</form>
+      <etym stage="1" lang="">faa ta</etym>
+      <sense>fordulat, visszavágás, csapás</sense>
+      <sense>érv</sense>
+   </word>
+   <word>
+      <form>hwào</form>
+      <etym stage="1" lang="">xúà</etym>
+      <sense>utolsó, végső</sense>
+   </word>
+   <word>
+      <form>liào</form>
+      <etym stage="1" lang="">rià</etym>
+      <sense>hajnal</sense>
+   </word>
+   <word>
+      <form>yəlua</form>
+      <etym stage="1" lang="">yía rua</etym>
+      <sense>fekete-fehér</sense>
+   </word>
+   <word>
+      <form>hía</form>
+      <etym stage="1" lang="">xí ya</etym>
+      <sense>érdekes dolog</sense>
+   </word>
+   <word>
+      <form>qhòi</form>
+      <etym stage="1" lang="">xùi</etym>
+      <sense>szó</sense>
+   </word>
+   <word>
+      <form>rúa</form>
+      <etym stage="1" lang="">rúa</etym>
+      <sense>húst rág</sense>
+   </word>
+   <word>
+      <form>éi</form>
+      <etym stage="1" lang="">yái</etym>
+      <sense>el</sense>
+      <sense>mindjárt</sense>
+   </word>
+   <word>
+      <form>nırúo</form>
+      <etym stage="1" lang="">ni rú</etym>
+      <sense>barlang, terem, üreg</sense>
+   </word>
+   <word>
+      <form>amyāqh</form>
+      <etym stage="2" lang="">amyǎxa</etym>
+      <sense>jobban</sense>
+   </word>
+   <word>
+      <form>məmàm</form>
+      <etym stage="" lang="">wàwàm</etym>
+   </word>
+   <word>
+      <form>lē</form>
+      <etym stage="2" lang="">le</etym>
+      <sense>te</sense>
+   </word>
+   <word>
+      <form>yèo</form>
+      <etym stage="" lang="">yàu</etym>
+   </word>
+   <word>
+      <form>thwào</form>
+      <etym stage="2" lang="">thùà</etym>
+      <sense>lehetetlen, képtelen</sense>
+   </word>
+   <word>
+      <form>náo</form>
+      <etym stage="" lang="">nàú</etym>
+   </word>
+   <word>
+      <form>nǎ</form>
+      <etym stage="" lang="">nàà</etym>
+   </word>
+   <word>
+      <form>fam</form>
+      <etym stage="2" lang="">fàwi</etym>
+      <sense>menés (aor.)</sense>
+   </word>
+   <word>
+      <form>fáo</form>
+      <etym stage="2" lang="">fàwú</etym>
+      <sense>haladás (cont.)</sense>
+   </word>
+   <word>
+      <form>fàm</form>
+      <etym stage="2" lang="">fàwà</etym>
+      <sense>elindulás (perf)</sense>
+   </word>
+   <word>
+      <form>fəmaqh</form>
+      <etym stage="" lang="">fàwaxu</etym>
+   </word>
+   <word>
+      <form>fəmáng</form>
+      <etym stage="" lang="">fàwáñ</etym>
+   </word>
+   <word>
+      <form>fəmàng</form>
+      <etym stage="" lang="">fàwàñ</etym>
+   </word>
+   <word>
+      <form>ngəfàm</form>
+      <etym stage="" lang="">ñàfàm</etym>
+   </word>
+   <word>
+      <form>ləfàm</form>
+      <etym stage="" lang="">lefàm</etym>
+   </word>
+   <word>
+      <form>ngēfàm</form>
+      <etym stage="" lang="">ñí éa fàwà</etym>
+   </word>
+   <word>
+      <form>ngıfàm</form>
+      <etym stage="" lang="">ñí fàwà</etym>
+   </word>
+   <word>
+      <form>éaləfàm</form>
+      <etym stage="" lang="">éa le fàwà</etym>
+   </word>
+   <word>
+      <form>myǎr</form>
+      <etym stage="" lang="">myàr</etym>
+   </word>
+   <word>
+      <form>ngınèo</form>
+      <etym stage="2" lang="">ñi nèo</etym>
+      <sense>álom</sense>
+   </word>
+   <word>
+      <form>yəngēng</form>
+      <etym stage="2" lang="">yañéañ</etym>
+      <sense>szólító</sense>
+   </word>
+   <word>
+      <form>aiyùng</form>
+      <etym stage="2" lang="">ai yùñ</etym>
+      <sense>legalább</sense>
+   </word>
+   <word>
+      <form>hánghann</form>
+      <etym stage="2" lang="">xáin gan</etym>
+      <sense>hegycsúcs</sense>
+   </word>
+   <word>
+      <form>afəmū</form>
+      <etym stage="2" lang="">afàmū</etym>
+      <sense>gond, jövés-menés</sense>
+   </word>
+   <word>
+      <form>alàgh</form>
+      <etym stage="2" lang="">alaxù</etym>
+      <sense>legfeljebb</sense>
+   </word>
+   <word>
+      <form>mudh</form>
+      <etym stage="2" lang="">mu tha</etym>
+      <sense>sólyom</sense>
+   </word>
+   <word>
+      <form>nu̇fyail</form>
+      <etym stage="2" lang="">nu fyáila</etym>
+      <sense>tökéletesség</sense>
+   </word>
+   <word>
+      <form>nu̇hel</form>
+      <etym stage="2" lang="">nu sáili</etym>
+      <sense>félidő</sense>
+   </word>
+   <word>
+      <form>nginn</form>
+      <etym stage="2" lang="">ñiu na</etym>
+      <sense>alvó ember</sense>
+   </word>
+   <word>
+      <form>qhwann</form>
+      <etym stage="2" lang="">qhua na</etym>
+      <sense>osztályrész, juss</sense>
+   </word>
+   <word>
+      <form>zyěadh</form>
+      <etym stage="2" lang="">sêathà</etym>
+      <sense>avatár</sense>
+   </word>
+   <word>
+      <form>fyərúa</form>
+      <etym stage="2" lang="">fyé rúa</etym>
+      <sense>ház</sense>
+   </word>
+   <word>
+      <form>thəhel</form>
+      <etym stage="2" lang="">thá sáili</etym>
+      <sense>sehol</sense>
+      <sense>soha</sense>
+   </word>
+   <word>
+      <form>thuhann</form>
+      <etym stage="2" lang="">thu xan</etym>
+      <sense>erdei vadász</sense>
+   </word>
+   <word>
+      <form>thôgh</form>
+      <etym stage="2" lang="">thuxú</etym>
+      <sense>rúd, farönk, oszlop</sense>
+   </word>
+   <word>
+      <form>mâyqh</form>
+      <etym stage="2" lang="">wàixú</etym>
+      <sense>patak</sense>
+   </word>
+   <word>
+      <form>ngann</form>
+      <etym stage="2" lang="">ñà na</etym>
+      <sense>elszakad</sense>
+      <sense>eltép</sense>
+      <sense>elharap</sense>
+   </word>
+   <word>
+      <form>ngang</form>
+      <etym stage="2" lang="">ña ñi</etym>
+      <sense>nyújtózkodik, tornázik</sense>
+   </word>
+   <word>
+      <form>qhair</form>
+      <etym stage="2" lang="">qhái ru</etym>
+      <sense>lejtő, domboldal</sense>
+   </word>
+   <word>
+      <form>nyòdh</form>
+      <etym stage="2" lang="">nó thà</etym>
+      <sense>eunuch</sense>
+   </word>
+   <word>
+      <form>ngàdh</form>
+      <etym stage="2" lang="">ñà thà</etym>
+      <sense>eunuch</sense>
+   </word>
+   <word>
+      <form>syīyay</form>
+      <etym stage="2" lang="">si ya ya</etym>
+      <sense>beszélgetés</sense>
+   </word>
+   <word>
+      <form>miih</form>
+      <etym stage="2" lang="">wi éa su</etym>
+      <sense>ág</sense>
+   </word>
+   <word>
+      <form>nərəhua</form>
+      <etym stage="2" lang="">nura qhua</etym>
+      <sense>bánat</sense>
+   </word>
+   <word>
+      <form>syang</form>
+      <etym stage="2" lang="">sù ña</etym>
+      <sense>nyál</sense>
+   </word>
+   <word>
+      <form>nyang</form>
+      <etym stage="2" lang="">ná ñi</etym>
+      <sense>szeret</sense>
+   </word>
+   <word>
+      <form>myāng</form>
+      <etym stage="2" lang="">màa ñi</etym>
+      <sense>nyugalom, béke</sense>
+   </word>
+   <word>
+      <form>syılir</form>
+      <etym stage="2" lang="">sáili ra</etym>
+      <sense>ott, az a hely</sense>
+   </word>
+   <word>
+      <form>fér</form>
+      <etym stage="2" lang="">fyiirá</etym>
+      <sense>puha fekvőhely</sense>
+   </word>
+   <word>
+      <form>ryâ</form>
+      <etym stage="2" lang="">ráyá</etym>
+      <sense>szürke</sense>
+   </word>
+   <word>
+      <form>hıghào</form>
+      <etym stage="2" lang="">xi gà</etym>
+      <sense>leereszt, leenged</sense>
+   </word>
+   <word>
+      <form>qhidh</form>
+      <etym stage="2" lang="">xi ta</etym>
+      <sense>lemászik</sense>
+   </word>
+   <word>
+      <form>yǒ</form>
+      <etym stage="2" lang="">yò</etym>
+      <sense>kicsi</sense>
+   </word>
+   <word>
+      <form>rày</form>
+      <etym stage="2" lang="">rá yò</etym>
+      <sense>bogár, rovar, kavics</sense>
+   </word>
+   <word>
+      <form>ghal</form>
+      <etym stage="2" lang="">gà la</etym>
+      <sense>bolha</sense>
+      <sense>bosszant, idegesít</sense>
+   </word>
+   <word>
+      <form>fīeh</form>
+      <etym stage="2" lang="">fyìi sa</etym>
+      <sense>bátorság, mersz</sense>
+   </word>
+   <word>
+      <form>nyânn</form>
+      <etym stage="2" lang="">nán</etym>
+      <sense>kérés, kérlelés</sense>
+   </word>
+   <word>
+      <form>fèeî</form>
+      <etym stage="3" lang="">fìeî</etym>
+      <sense>akarom</sense>
+   </word>
+   <word>
+      <form>zyaî</form>
+      <etym stage="3" lang="">saî</etym>
+      <sense>merem</sense>
+   </word>
+   <word>
+      <form>zyéî</form>
+      <etym stage="3" lang="">séî</etym>
+      <sense>félek, nem merek</sense>
+   </word>
+   <word>
+      <form>nyáiê</form>
+      <etym stage="3" lang="">nyáiî</etym>
+      <sense>szeretném, kérem</sense>
+   </word>
+   <word>
+      <form>myaolā</form>
+      <etym stage="3" lang="">myào lā</etym>
+      <sense>Myǎla istennő</sense>
+   </word>
+   <word>
+      <form>myaohel</form>
+      <etym stage="3" lang="">myàosáili</etym>
+      <sense>jó idő</sense>
+   </word>
+   <word>
+      <form>namànn</form>
+      <etym stage="3" lang="">nàmàn</etym>
+      <sense>emlék</sense>
+   </word>
+   <word>
+      <form>lu̇wíe</form>
+      <etym stage="3" lang="">luwíi</etym>
+      <sense>folyó</sense>
+   </word>
+   <word>
+      <form>mwēqhō</form>
+      <etym stage="3" lang="">mùéa xu</etym>
+      <sense>antróp</sense>
+   </word>
+   <word>
+      <form>ngithū</form>
+      <etym stage="3" lang="">ñiéa thu</etym>
+      <sense>gyümölcs</sense>
+   </word>
+   <word>
+      <form>thəhəlehaingghanû</form>
+      <etym stage="3" lang="">thásáilixáiñganū</etym>
+      <sense>sehol-hegyek</sense>
+   </word>
+   <word>
+      <form>lānào</form>
+      <etym stage="3" lang="">la nào</etym>
+      <sense>megért</sense>
+   </word>
+   <word>
+      <form>mayào</form>
+      <etym stage="3" lang="">màu yào</etym>
+      <sense>ember (Felis cattus)</sense>
+   </word>
+   <word>
+      <form>ghanào</form>
+      <etym stage="3" lang="">gàù nào</etym>
+      <sense>érez</sense>
+   </word>
+   <word>
+      <form>nānào</form>
+      <etym stage="3" lang="">na nào</etym>
+      <sense>megért</sense>
+   </word>
+   <word>
+      <form>nēmáiō</form>
+      <etym stage="3" lang="">ni máiū</etym>
+      <sense>egyszerre született testvérek, alom</sense>
+   </word>
+   <word>
+      <form>mūyô</form>
+      <etym stage="3" lang="">mù yó</etym>
+      <sense>öregember</sense>
+   </word>
+   <word>
+      <form>umm</form>
+      <etym stage="3" lang="">umma</etym>
+      <sense>öregasszony &lt; Šum umma</sense>
+   </word>
+   <word>
+      <form>aha</form>
+      <etym stage="3" lang="">aséa</etym>
+      <sense>öreg</sense>
+   </word>
+   <word>
+      <form>fīenaqh</form>
+      <etym stage="3" lang="">fìenaxa</etym>
+      <sense>zsákmány</sense>
+   </word>
+   <word>
+      <form>syīyaū</form>
+      <etym stage="3" lang="">si yaū</etym>
+      <sense>hagyomány, mondások</sense>
+   </word>
+   <word>
+      <form>syīyā</form>
+      <etym stage="3" lang="">si yā</etym>
+      <sense>hagyományoz</sense>
+   </word>
+   <word>
+      <form>syīyāgh</form>
+      <etym stage="3" lang="">si yāx</etym>
+      <sense>hagyományozó</sense>
+   </word>
+   <word>
+      <form>syınào</form>
+      <etym stage="3" lang="">si nào</etym>
+      <sense>rajz</sense>
+   </word>
+   <word>
+      <form>syınàa</form>
+      <etym stage="3" lang="">si nàa</etym>
+      <sense>furcsa, különös, jellegzetes</sense>
+   </word>
+   <word>
+      <form>syīsyā</form>
+      <etym stage="3" lang="">si sā</etym>
+      <sense>ír</sense>
+   </word>
+   <word>
+      <form>syīsyagh</form>
+      <etym stage="3" lang="">si saxu</etym>
+      <sense>írnok</sense>
+   </word>
+   <word>
+      <form>ləlā</form>
+      <etym stage="3" lang="">lalā</etym>
+      <sense>rajta</sense>
+   </word>
+   <word>
+      <form>òsyy̌</form>
+      <etym stage="3" lang="">ù sỳ</etym>
+      <sense>hal</sense>
+   </word>
+   <word>
+      <form>qhūyǒ</form>
+      <etym stage="3" lang="">qhú yò</etym>
+      <sense>üreg (embernél kisebb)</sense>
+   </word>
+   <word>
+      <form>zyūái</form>
+      <etym stage="3" lang="">su ái</etym>
+      <sense>nyál</sense>
+   </word>
+   <word>
+      <form>wəhair</form>
+      <etym stage="3" lang="">wasáira</etym>
+      <sense>Osiris</sense>
+   </word>
+   <word>
+      <form>righ</form>
+      <etym stage="3" lang="">riga</etym>
+      <sense>Ra</sense>
+   </word>
+   <word>
+      <form>anəfào</form>
+      <etym stage="3" lang="">anafào</etym>
+      <sense>Anubis</sense>
+   </word>
+   <word>
+      <form>nàofy̌</form>
+      <etym stage="3" lang="">nào fỳ</etym>
+      <sense>isten</sense>
+   </word>
+   <word>
+      <form>hōsyânn</form>
+      <etym stage="3" lang="">húo sán</etym>
+      <sense>sarkcsillag, vezércsillag</sense>
+   </word>
+   <word>
+      <form>nīnnhōsyân</form>
+      <etym stage="3" lang="">nin húo sán</etym>
+      <sense>Ninxursañ</sense>
+   </word>
+   <word>
+      <form>thagh</form>
+      <etym stage="3" lang="">thaxu</etym>
+      <sense>sün</sense>
+   </word>
+   <word>
+      <form>qhu̇hái</form>
+      <etym stage="3" lang="">xuhái</etym>
+      <sense>hajlékonyság, mozgékonyság, karcsúság</sense>
+      <sense>befér, átfér, benyomakodik</sense>
+   </word>
+   <word>
+      <form>nengang</form>
+      <etym stage="3" lang="">néi ñañi</etym>
+      <sense>tágas, kényelmes</sense>
+   </word>
+   <word>
+      <form>nırōfyê</form>
+      <etym stage="3" lang="">nirúo fyé</etym>
+      <sense>szoba</sense>
+   </word>
+   <word>
+      <form>fesyā</form>
+      <etym stage="3" lang="">fei sā</etym>
+      <sense>szellő</sense>
+   </word>
+   <word>
+      <form>syıgh</form>
+      <etym stage="3" lang="">sixi</etym>
+      <sense>szétterül, szétborul</sense>
+   </word>
+   <word>
+      <form>fyiimǔ</form>
+      <etym stage="3" lang="">fyiéa mù</etym>
+      <sense>ruha</sense>
+   </word>
+   <word>
+      <form>fyəmfərâ</form>
+      <etym stage="3" lang="">fyiéamù fiirâ</etym>
+      <sense>selyem</sense>
+   </word>
+   <word>
+      <form>syanagh</form>
+      <etym stage="3" lang="">sàéa naqha</etym>
+      <sense>áldozat</sense>
+   </word>
+   <word>
+      <form>syayānəhā</form>
+      <etym stage="3" lang="">saéa ya naqhā</etym>
+      <sense>áldozó pap</sense>
+   </word>
+   <word>
+      <form>ryāmâyqh</form>
+      <etym stage="3" lang="">ryá màiqhú</etym>
+      <sense>szürke patak</sense>
+   </word>
+</etymology>

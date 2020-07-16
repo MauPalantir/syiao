@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wordlist xmlns:syiao="http://syiao-mei.hu"
+          xml:id="etymology-2"
+          stage="2"
+          project="etymology"
+          label="AN"><!--!AN-->
+   <word>
+      <form>amyǎxa</form>
+      <sense>
+         <cit>jobban</cit>
+      </sense>
+   </word>
+   <!--New pronoun le-->
+   <word>
+      <form>le</form>
+      <sense>
+         <cit>te</cit>
+      </sense>
+   </word>
+   <word>
+      <form>thùà</form>
+      <sense>
+         <cit>lehetetlen</cit>
+         <cit>képtelen</cit>
+      </sense>
+   </word>
+   <!--Paradigm for nào-->
+   <word>
+      <form>nài</form>
+   </word>
+   <word>
+      <form>nàú</form>
+   </word>
+   <word>
+      <form>nàà</form>
+   </word>
+   <!--Paradigm for wam (except p3 classes)-->
+   <word>
+      <form>fàwi</form>
+      <sense>
+         <cit>menés (aor.)</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fàwú</form>
+      <sense>
+         <cit>haladás (cont.)</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fàwà</form>
+      <sense>
+         <cit>elindulás (perf)</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fàwaxu</form>
+   </word>
+   <word>
+      <form>fàwáñ</form>
+   </word>
+   <word>
+      <form>fàwàñ</form>
+   </word>
+   <word>
+      <form>ñàfàm</form>
+   </word>
+   <word>
+      <form>lefàm</form>
+   </word>
+   <word>
+      <form>ñí éa fàwà</form>
+   </word>
+   <word>
+      <form>ñí fàwà</form>
+   </word>
+   <word>
+      <form>éa le fàwà</form>
+   </word>
+   <word>
+      <form>myàr</form>
+   </word>
+   <word>
+      <form>ñi nèo</form>
+      <sense>
+         <cit>álom</cit>
+      </sense>
+   </word>
+   <word>
+      <form>yañéañ</form>
+      <sense>
+         <cit>szólító</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ai yùñ</form>
+      <sense>
+         <cit>legalább</cit>
+      </sense>
+   </word>
+   <word>
+      <form>xáin gan</form>
+      <sense>
+         <cit>hegycsúcs</cit>
+      </sense>
+   </word>
+   <!--Intensive forms with a- -->
+   <word>
+      <form>afàmū</form>
+      <sense>
+         <cit>gond</cit>
+         <cit>jövés-menés</cit>
+      </sense>
+   </word>
+   <word>
+      <form>alaxù</form>
+      <sense>
+         <cit>legfeljebb</cit>
+      </sense>
+   </word>
+   <word>
+      <form>mu tha</form>
+      <sense>
+         <cit>sólyom</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nu fyáila</form>
+      <sense>
+         <cit>tökéletesség</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nu sáili</form>
+      <sense>
+         <cit>félidő</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ñiu na</form>
+      <sense>
+         <cit>alvó ember</cit>
+      </sense>
+   </word>
+   <word>
+      <form>qhua na</form>
+      <sense>
+         <cit>osztályrész</cit>
+         <cit>juss</cit>
+      </sense>
+   </word>
+   <word>
+      <form>sêathà</form>
+      <sense>
+         <cit>avatár</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fyé rúa</form>
+      <sense>
+         <cit>ház</cit>
+      </sense>
+   </word>
+   <word>
+      <form>thá sáili</form>
+      <sense>
+         <cit>sehol</cit>
+      </sense>
+      <sense>
+         <cit>soha</cit>
+      </sense>
+   </word>
+   <word>
+      <form>thu xan</form>
+      <sense>
+         <cit>erdei vadász</cit>
+      </sense>
+   </word>
+   <word>
+      <form>thuxú</form>
+      <sense>
+         <cit>rúd</cit>
+         <cit>farönk</cit>
+         <cit>oszlop</cit>
+      </sense>
+   </word>
+   <word>
+      <form>wàixú</form>
+      <sense>
+         <cit>patak</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ñà na</form>
+      <sense>
+         <cit>elszakad</cit>
+      </sense>
+      <sense>
+         <cit>eltép</cit>
+      </sense>
+      <sense>
+         <cit>elharap</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ña ñi</form>
+      <sense>
+         <cit>nyújtózkodik</cit>
+         <cit>tornázik</cit>
+      </sense>
+   </word>
+   <word>
+      <form>qhái ru</form>
+      <sense>
+         <cit>lejtő</cit>
+         <cit>domboldal</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nó thà</form>
+      <sense>
+         <cit>eunuch</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ñà thà</form>
+      <sense>
+         <cit>eunuch</cit>
+      </sense>
+   </word>
+   <word>
+      <form>si ya ya</form>
+      <sense>
+         <cit>beszélgetés</cit>
+      </sense>
+   </word>
+   <word>
+      <form>wi éa su</form>
+      <sense>
+         <cit>ág</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nura qhua</form>
+      <sense>
+         <cit>bánat</cit>
+      </sense>
+   </word>
+   <word>
+      <form>sù ña</form>
+      <sense>
+         <cit>nyál</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ná ñi</form>
+      <sense>
+         <cit>szeret</cit>
+      </sense>
+   </word>
+   <word>
+      <form>màa</form>
+      <sense>
+         <cit>jóllakottság</cit>
+         <cit>béke</cit>
+      </sense>
+   </word>
+   <word>
+      <form>màa ñi</form>
+      <sense>
+         <cit>nyugalom</cit>
+         <cit>béke</cit>
+      </sense>
+   </word>
+   <word>
+      <form>sáili ra</form>
+      <sense>
+         <cit>ott</cit>
+         <cit>az a hely</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fyiirá</form>
+      <sense>
+         <cit>puha fekvőhely</cit>
+      </sense>
+   </word>
+   <word>
+      <form>ráyá</form>
+      <sense>
+         <cit>szürke</cit>
+      </sense>
+   </word>
+   <word>
+      <form>xi gà</form>
+      <sense>
+         <cit>leereszt</cit>
+         <cit>leenged</cit>
+      </sense>
+   </word>
+   <word>
+      <form>xi ta</form>
+      <sense>
+         <cit>lemászik</cit>
+      </sense>
+   </word>
+   <word>
+      <form>yò</form>
+      <sense>
+         <cit>kicsi</cit>
+      </sense>
+   </word>
+   <word>
+      <form>rá yò</form>
+      <sense>
+         <cit>bogár</cit>
+         <cit>rovar</cit>
+         <cit>kavics</cit>
+      </sense>
+   </word>
+   <word>
+      <form>gà la</form>
+      <sense>
+         <cit>bolha</cit>
+      </sense>
+      <sense>
+         <cit>bosszant</cit>
+         <cit>idegesít</cit>
+      </sense>
+   </word>
+   <word>
+      <form>fyìi sa</form>
+      <sense>
+         <cit>bátorság</cit>
+         <cit>mersz</cit>
+      </sense>
+   </word>
+   <word>
+      <form>nán</form>
+      <sense>
+         <cit>kérés</cit>
+         <cit>kérlelés</cit>
+      </sense>
+   </word>
+</wordlist>
