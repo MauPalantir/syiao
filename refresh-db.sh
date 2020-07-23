@@ -1,2 +1,1 @@
-~/Applications/basex/bin/basexclient -Uadmin -Padmin -c "CREATE DATABASE syiao /home/zabraham/Development/syiao-app/data/syiao-mei.xml"
-
+curl -i -X PUT -T /home/zabraham/Development/syiao/tei/syiao-mei.xml "https://admin:${SYIAO_ADMIN_PASS}@syiao-mei.hu/rest/syiao"

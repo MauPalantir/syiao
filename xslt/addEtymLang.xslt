@@ -212,6 +212,16 @@
                 <xsl:choose>
                     <xsl:when test="name() = 'etym'">
                     </xsl:when>
+                    <xsl:when test="name() = 'form'">
+                        <xsl:copy>
+                           <xsl:copy-of select="@*"/>
+                           <xsl:copy-of select="./*[not(name() = 'pron')]"/>
+                           <xsl:copy select="./tei:pron">
+                               <xsl:copy-of select="@*"/>
+                               <xsl:value-of select="syiao:render-pron(.)"/>
+                           </xsl:copy>
+                        </xsl:copy>
+                    </xsl:when>
                     <xsl:otherwise>                
                         <xsl:copy>
                             <xsl:copy-of select="@*"/>
@@ -222,6 +232,67 @@
             <xsl:sequence select="syiao:get-etym(.)"></xsl:sequence>
         </xsl:copy>
     </xsl:template>
+
+    <xsl:function name="syiao:render-pron">
+        <xsl:param name="word"/>
+        <xsl:for-each select="tokenize($word)">
+
+        <xsl:variable name="w" select="replace(., 'ɜ', '')"/>
+
+        <xsl:variable name="tones-transl">
+            <xsl:choose>
+                <xsl:when test="not(contains($w, '1')) and not(contains($w, '5'))">
+                    <xsl:value-of select="$w"/>
+                </xsl:when>
+                <xsl:otherwise>
+                        <xsl:variable select="substring-before($w, '5')" name="before5"/>
+                        <xsl:variable select="substring-before($w, '1')" name="before1"/>
+                        <xsl:choose>
+                        <xsl:when test="string-length($before5) > 0">
+                            <xsl:analyze-string select="$before5" regex="(.*)([iaueoɛɑɔɯɪʊə])([iaueoɛɑɔɯɪʊə]*)(.*?)">
+                                <xsl:matching-substring>
+                                    <xsl:value-of select="regex-group(1)"/>
+                                    <xsl:value-of select="regex-group(2)"/>
+                                    <xsl:value-of select="'&#x0301;'"/>
+                                    <xsl:value-of select="regex-group(3)"/>
+                                    <xsl:value-of select="regex-group(4)"/>
+                                </xsl:matching-substring>
+                                <xsl:non-matching-substring>
+                                    <xsl:value-of select="."/>
+                                </xsl:non-matching-substring>
+                            </xsl:analyze-string>
+                            <xsl:value-of select="substring-after($w, '5')"/>
+                        </xsl:when>
+
+                        <xsl:when test="string-length($before1) > 0">
+                            <xsl:analyze-string select="$before1" regex="(.*)([iaueoɛɑɔɯɪʊə])([iaueoɛɑɔɯɪʊə]*)(.*?)">
+                                <xsl:matching-substring>
+                                    <xsl:value-of select="regex-group(1)"/>
+                                    <xsl:value-of select="regex-group(2)"/>
+                                    <xsl:value-of select="'&#x0300;'"/>
+                                    <xsl:value-of select="regex-group(3)"/>
+                                    <xsl:value-of select="regex-group(4)"/>
+                                </xsl:matching-substring>
+                                <xsl:non-matching-substring>
+                                    <xsl:value-of select="."/>
+                                </xsl:non-matching-substring>
+                            </xsl:analyze-string>
+                            <xsl:value-of select="substring-after($w, '1')"/>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+
+        <xsl:variable name="tones-switched" select="replace($tones-transl, '([iaueoɛɑɔɯɪʊə])([iaueoɛɑɔɯɪʊə]+)((&#x0300;)|(&#x0301;))', '$1$3$2')"/>
+            
+            <xsl:value-of select="replace($tones-switched, '([iaueoɛɑɔɯɪʊə])(&#x0300;|&#x0301;)*([iaueoɛɑɔɯɪʊə]+)', '$1$2&#x203F;$3')"/>
+
+        <xsl:if test="not(position() = last())">
+                <xsl:value-of select="' '"/>
+            </xsl:if>
+            </xsl:for-each>
+    </xsl:function>
     
     
 </xsl:stylesheet>
