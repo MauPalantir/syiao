@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -154,7 +153,7 @@
           </cit>
           <cit type="translation" xml:lang="en">
             <quote>polar star</quote>
-            <quote>control star</quote>
+            <quote>leading star</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -251,7 +250,7 @@
       <entry xml:id="Nia_Syaanng_Myaol__prop__9">
         <form type="lemma">
           <orth>Nîa Syáanng Myāol</orth>
-          <pron notation="ipa">níːˈa çáˈaŋŋm mjjˈa‿oːɬ</pron>
+          <pron notation="ipa">níːˈa çáˈaŋŋ mjjˈa‿oːɬ</pron>
         </form>
         <gramGrp>
           <pos>prop</pos>
@@ -396,7 +395,7 @@
             <quote>széttrollkodás öreganyja</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>grandmother of disintegration</quote>
+            <quote>grandmother of trolling</quote>
           </cit>
         </sense>
       </entry>
@@ -425,7 +424,7 @@
       <entry xml:id="ai__v__17">
         <form type="lemma">
           <orth>ai</orth>
-          <pron>ˈa‿i</pron>
+          <pron notation="ipa">ˈa‿i</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -517,7 +516,7 @@
           <cit xml:lang="hu">
             <quote>idegesség</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>nervousness</quote>
           </cit>
         </sense>
@@ -1515,7 +1514,7 @@
       <entry xml:id="fay__v__58">
         <form type="lemma">
           <orth>fai</orth>
-          <pron>ɸˈa‿i</pron>
+          <pron notation="ipa">ɸˈa‿i</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1691,7 +1690,7 @@
           <cit type="translation" xml:lang="hu">
             <quote>akarat</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>towish</quote>
           </cit>
         </sense>
@@ -1703,7 +1702,7 @@
       <entry xml:id="fi__v__65">
         <form type="lemma">
           <orth>fī</orth>
-          <pron>ɸˈiː</pron>
+          <pron notation="ipa">ɸˈiː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -1714,7 +1713,7 @@
             <quote>visz</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Carry</quote>
+            <quote>carry</quote>
           </cit>
         </sense>
         <sense n="2">
@@ -1722,7 +1721,7 @@
           <cit type="translation" xml:lang="hu">
             <quote>akar</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>will</quote>
           </cit>
         </sense>
@@ -2279,7 +2278,7 @@
       <entry xml:id="fyy__v__87">
         <form type="lemma">
           <orth>fyȳ</orth>
-          <pron>ɸʲˈɯː</pron>
+          <pron notation="ipa">ɸʲˈɯː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2346,7 +2345,8 @@
         <sense n="1">
           <lbl>misc</lbl>
           <cit xml:lang="hu">
-            <quote>azértmert</quote>
+            <quote>azért</quote>
+            <quote>mert</quote>
           </cit>
           <cit type="translation" xml:lang="en">
             <quote>because</quote>
@@ -2457,7 +2457,7 @@
             <quote>bőr</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Skin</quote>
+            <quote>skin</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -2470,7 +2470,7 @@
       <entry xml:id="ghao__v__94">
         <form type="lemma">
           <orth>ghao</orth>
-          <pron>ɣˈa‿o</pron>
+          <pron notation="ipa">ɣˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2546,7 +2546,7 @@
       <entry xml:id="ghanao__v__97">
         <form type="lemma">
           <orth>ghanao</orth>
-          <pron>ɣanˈa‿o</pron>
+          <pron notation="ipa">ɣanˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -2672,7 +2672,7 @@
       <entry xml:id="ghar__n__102">
         <form type="lemma">
           <orth>ghár</orth>
-          <pron>ɣˈár</pron>
+          <pron notation="ipa">ɣˈár</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -3089,7 +3089,7 @@
             <quote>együtt van</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Be together</quote>
+            <quote>betogether</quote>
           </cit>
         </sense>
         <sense n="3">
@@ -3261,7 +3261,7 @@
       <entry xml:id="ghy__v__123">
         <form type="lemma">
           <orth>ghȳ</orth>
-          <pron>ɣˈɯː</pron>
+          <pron notation="ipa">ɣˈɯː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3380,7 +3380,7 @@
             <quote>hegycsúcs</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>pike</quote>
+            <quote>peak</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -3834,7 +3834,7 @@
             <quote>alagút (emberméretű)</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>tunnel (human size)</quote>
+            <quote>cat size tunnel</quote>
           </cit>
         </sense>
       </entry>
@@ -3897,7 +3897,7 @@
       <entry xml:id="highao__v__149">
         <form type="lemma">
           <orth>hıghao</orth>
-          <pron>hɪɣˈa‿o</pron>
+          <pron notation="ipa">hɪɣˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -3927,7 +3927,7 @@
       <entry xml:id="idhuao__v__150">
         <form type="lemma">
           <orth>dhuao</orth>
-          <pron>ðwˈa‿o</pron>
+          <pron notation="ipa">ðwˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4013,7 +4013,7 @@
       <entry xml:id="la__v__154">
         <form type="lemma">
           <orth>rā</orth>
-          <pron>ʀˈaː</pron>
+          <pron notation="ipa">ʀˈaː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4101,7 +4101,7 @@
       <entry xml:id="lanao__v__157">
         <form type="lemma">
           <orth>lānao</orth>
-          <pron>ɬaːnˈa‿o</pron>
+          <pron notation="ipa">ɬaːnˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -4349,6 +4349,7 @@
           </cit>
           <cit type="translation" xml:lang="en">
             <quote>berth</quote>
+            <quote>place to sleep</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -4982,7 +4983,7 @@
       <entry xml:id="mai__v__190">
         <form type="lemma">
           <orth>mai</orth>
-          <pron>mˈa‿i</pron>
+          <pron notation="ipa">mˈa‿i</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5084,7 +5085,7 @@
       <entry xml:id="mao__v__194">
         <form type="lemma">
           <orth>mao</orth>
-          <pron>mˈa‿o</pron>
+          <pron notation="ipa">mˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5341,7 +5342,7 @@
             <quote>emberméretű állat</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>human size animal</quote>
+            <quote>cat size animal</quote>
           </cit>
         </sense>
       </entry>
@@ -5548,7 +5549,7 @@
       <entry xml:id="mo__v__212">
         <form type="lemma">
           <orth>mō</orth>
-          <pron>mˈoː</pron>
+          <pron notation="ipa">mˈoː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -5684,7 +5685,7 @@
             <quote>antróp</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>anthropo</quote>
+            <quote>anthrop</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -5732,7 +5733,7 @@
             <quote>sólyom</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Falcon</quote>
+            <quote>falcon</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -5850,7 +5851,7 @@
             <quote>antróp</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>anthropo</quote>
+            <quote>anthrop</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -6342,7 +6343,7 @@
             <quote>igen</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Yes</quote>
+            <quote>yes</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -6383,7 +6384,7 @@
       <entry xml:id="mye__n__245">
         <form type="lemma">
           <orth>myě</orth>
-          <pron>mːjjˈèː</pron>
+          <pron notation="ipa">mːjjˈèː</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6409,7 +6410,7 @@
       <entry xml:id="mye__v__246">
         <form type="lemma">
           <orth>myē</orth>
-          <pron>mːjjˈeː</pron>
+          <pron notation="ipa">mːjjˈeː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6664,7 +6665,7 @@
       <entry xml:id="na__v__256">
         <form type="lemma">
           <orth>nā</orth>
-          <pron>nˈɑː</pron>
+          <pron notation="ipa">nˈɑː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -6814,7 +6815,7 @@
       <entry xml:id="nanao__n__262">
         <form type="lemma">
           <orth>nānao</orth>
-          <pron>naːnˈa‿o</pron>
+          <pron notation="ipa">naːnˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -6842,7 +6843,7 @@
       <entry xml:id="nanao__v__263">
         <form type="lemma">
           <orth>nānao</orth>
-          <pron>nɑːnˈa‿o</pron>
+          <pron notation="ipa">nɑːnˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7001,7 +7002,7 @@
       <entry xml:id="nao__v__269">
         <form type="lemma">
           <orth>nao</orth>
-          <pron>nˈa‿o</pron>
+          <pron notation="ipa">nˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7038,7 +7039,7 @@
             <quote>isten</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>God</quote>
+            <quote>god</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -7158,7 +7159,7 @@
             <quote>anya</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>maternal</quote>
+            <quote>mother</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -7363,7 +7364,7 @@
       <entry xml:id="nga__v__284">
         <form type="lemma">
           <orth>ngā</orth>
-          <pron>ŋˈɑː</pron>
+          <pron notation="ipa">ŋˈɑː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7493,7 +7494,7 @@
       <entry xml:id="ghao__v__289">
         <form type="lemma">
           <orth>ghao</orth>
-          <pron>ɣˈa‿o</pron>
+          <pron notation="ipa">ɣˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -7707,7 +7708,7 @@
             <quote>alvó ember</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>sleeping man</quote>
+            <quote>sleepingcat</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -7874,7 +7875,7 @@
           <cit type="translation" xml:lang="hu">
             <quote>beteg</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>sick</quote>
           </cit>
         </sense>
@@ -8128,7 +8129,7 @@
       <entry xml:id="niao__v__314">
         <form type="lemma">
           <orth>niao</orth>
-          <pron>nˈi‿ao</pron>
+          <pron notation="ipa">nˈi‿ao</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8154,7 +8155,7 @@
       <entry xml:id="niao_nyo__v__315">
         <form type="lemma">
           <orth>niaonyō</orth>
-          <pron>nˈi‿aoɲˈoː</pron>
+          <pron notation="ipa">nˈi‿aoɲˈoː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8540,7 +8541,7 @@
       <entry xml:id="noi__v__331">
         <form type="lemma">
           <orth>nōi</orth>
-          <pron notation="ipa">nˈó‿i</pron>
+          <pron notation="ipa">nˈóːi</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -8577,7 +8578,7 @@
             <quote>teremtő</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Creator</quote>
+            <quote>creator</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -8692,7 +8693,7 @@
       <entry xml:id="nummu__n__337">
         <form type="lemma">
           <orth>numm</orth>
-          <pron>nˈumm</pron>
+          <pron notation="ipa">nˈumm</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -8783,7 +8784,7 @@
             <quote>nagyszerű</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>That's great</quote>
+            <quote>great</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -8877,7 +8878,7 @@
             <quote>hatvannégy</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Sixty-four</quote>
+            <quote>sixtyfour</quote>
           </cit>
         </sense>
       </entry>
@@ -8902,7 +8903,7 @@
       <entry xml:id="ny__v__346">
         <form type="lemma">
           <orth>nȳ</orth>
-          <pron>nˈɯː</pron>
+          <pron notation="ipa">nˈɯː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -9428,7 +9429,7 @@
       <entry xml:id="nyo__n__367">
         <form type="lemma">
           <orth>nyō</orth>
-          <pron>ɲˈoː</pron>
+          <pron notation="ipa">ɲˈoː</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -9484,7 +9485,7 @@
       <entry xml:id="noi__n__369">
         <form type="lemma">
           <orth>nǒi</orth>
-          <pron>nˈòi</pron>
+          <pron notation="ipa">nˈòi</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -10038,7 +10039,7 @@
             <quote>esik (eső)</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>It is raining)</quote>
+            <quote>itisraining</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -10053,7 +10054,7 @@
       <entry xml:id="qhi_sye__num__392">
         <form type="lemma">
           <orth>qhisyě</orth>
-          <pron>χˈiçˈèː</pron>
+          <pron notation="ipa">χˈiçˈèː</pron>
         </form>
         <gramGrp>
           <pos>num</pos>
@@ -10133,7 +10134,6 @@
             <quote>zuhan</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>fall</quote>
             <quote>fall</quote>
           </cit>
         </sense>
@@ -10380,7 +10380,7 @@
             <quote>szó</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>weave</quote>
+            <quote>word</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -10456,7 +10456,7 @@
             <quote>falat</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>wall</quote>
+            <quote>mouthful</quote>
           </cit>
         </sense>
         <sense n="2">
@@ -10652,7 +10652,7 @@
       <entry xml:id="rao__v__416">
         <form type="lemma">
           <orth>rao</orth>
-          <pron>ʀˈa‿o</pron>
+          <pron notation="ipa">ʀˈa‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -10802,7 +10802,7 @@
       <entry xml:id="rua__v__422">
         <form type="lemma">
           <orth>ruā</orth>
-          <pron>ʀwˈaː</pron>
+          <pron notation="ipa">ʀwˈaː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11028,7 +11028,7 @@
       <entry xml:id="ryeryei__n__432">
         <form type="lemma">
           <orth>ryeryei</orth>
-          <pron>rʲɛʀʲˈe‿i</pron>
+          <pron notation="ipa">rʲɛʀʲˈe‿i</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11262,7 +11262,7 @@
           <cit type="translation" xml:lang="hu">
             <quote>Nap</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>Sun</quote>
           </cit>
         </sense>
@@ -11376,7 +11376,7 @@
           <cit xml:lang="hu">
             <quote>csillagállat</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>starmouse</quote>
           </cit>
         </sense>
@@ -11488,7 +11488,7 @@
       <entry xml:id="syau__v__451">
         <form type="lemma">
           <orth>syau</orth>
-          <pron>çˈɑ‿u</pron>
+          <pron notation="ipa">çˈɑ‿u</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11582,7 +11582,7 @@
       <entry xml:id="sye__v__455">
         <form type="lemma">
           <orth>syē</orth>
-          <pron>çˈeː</pron>
+          <pron notation="ipa">çˈeː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -11946,7 +11946,7 @@
       <entry xml:id="syiao__n__470">
         <form type="lemma">
           <orth>syiào</orth>
-          <pron>çˈi‿ào</pron>
+          <pron notation="ipa">çˈi‿ào</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -11966,7 +11966,7 @@
             <quote>mondások</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Sayings</quote>
+            <quote>sayings</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -11983,7 +11983,7 @@
       <entry xml:id="syiay__n__471">
         <form type="lemma">
           <orth>syīai</orth>
-          <pron>çiːˈa‿i</pron>
+          <pron notation="ipa">çiːˈa‿i</pron>
         </form>
         <gramGrp>
           <pos>n</pos>
@@ -12114,7 +12114,7 @@
       <entry xml:id="syina__v__476">
         <form type="lemma">
           <orth>syīnā</orth>
-          <pron>çiːnˈɑː</pron>
+          <pron notation="ipa">çiːnˈɑː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -12498,7 +12498,7 @@
             <quote>nincs</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>no</quote>
+            <quote>there is no</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -12707,7 +12707,7 @@
       <entry xml:id="thu__v__500">
         <form type="lemma">
           <orth>thū</orth>
-          <pron>θˈuː</pron>
+          <pron notation="ipa">θˈuː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -12718,7 +12718,7 @@
             <quote>nincs</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>no</quote>
+            <quote>there is no</quote>
           </cit>
         </sense>
       </entry>
@@ -12967,7 +12967,7 @@
             <quote>megtölt</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>throng</quote>
+            <quote>fill up</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -13398,7 +13398,7 @@
       <entry xml:id="we__v__530">
         <form type="lemma">
           <orth>wē</orth>
-          <pron>wˈeː</pron>
+          <pron notation="ipa">wˈeː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -13664,7 +13664,7 @@
       <entry xml:id="wom__v__542">
         <form type="lemma">
           <orth>wōm</orth>
-          <pron>wˈɔːm</pron>
+          <pron notation="ipa">wˈɔːm</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -13840,7 +13840,7 @@
       <entry xml:id="wuo__v__550">
         <form type="lemma">
           <orth>wuo</orth>
-          <pron>wˈu‿o</pron>
+          <pron notation="ipa">wˈu‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -14075,7 +14075,7 @@
             <quote>hisz</quote>
             <quote>megtud valakitől</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>believe</quote>
             <quote>get informed by so</quote>
           </cit>
@@ -14099,7 +14099,7 @@
             <quote>szó</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>weave</quote>
+            <quote>word</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -14121,7 +14121,7 @@
             <quote>tüzelő nő</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>woman firing</quote>
+            <quote>woman in heat</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -14162,7 +14162,7 @@
       <entry xml:id="yau__v__563">
         <form type="lemma">
           <orth>yau</orth>
-          <pron>jˈɑ‿u</pron>
+          <pron notation="ipa">jˈɑ‿u</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -14216,7 +14216,7 @@
       <entry xml:id="ye__v__565">
         <form type="lemma">
           <orth>yē</orth>
-          <pron>jˈeː</pron>
+          <pron notation="ipa">jˈeː</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -14226,7 +14226,7 @@
           <cit type="translation" xml:lang="hu">
             <quote>vonul</quote>
           </cit>
-          <cit xml:lang="en">
+          <cit type="translation" xml:lang="en">
             <quote>march</quote>
           </cit>
         </sense>
@@ -14345,7 +14345,7 @@
             <quote>összejövetel</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>slam</quote>
+            <quote>poetry session</quote>
             <quote>gathering</quote>
           </cit>
         </sense>
@@ -14455,7 +14455,7 @@
       <entry xml:id="yhai__v__573">
         <form type="lemma">
           <orth>ẏhai</orth>
-          <pron>ɯhˈa‿i</pron>
+          <pron notation="ipa">ɯhˈa‿i</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -14477,7 +14477,7 @@
             <quote>benyomakodik</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Shoves</quote>
+            <quote>shoves</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -14651,7 +14651,7 @@
             <quote>gyerek</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Child</quote>
+            <quote>child</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -15260,7 +15260,7 @@
             <quote>avatar</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>look</quote>
+            <quote>manifestation</quote>
             <quote>avatar</quote>
           </cit>
         </sense>
@@ -15643,7 +15643,7 @@
             <quote>gyógynövény</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>Herb</quote>
+            <quote>herb</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -15725,7 +15725,7 @@
       <entry xml:id="zyuo__v__620">
         <form type="lemma">
           <orth>zyuo</orth>
-          <pron>ʝˈu‿o</pron>
+          <pron notation="ipa">ʝˈu‿o</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -15873,7 +15873,6 @@
           </cit>
           <cit type="translation" xml:lang="en">
             <quote>make a mistake</quote>
-            <quote>make a mistake</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -15886,7 +15885,7 @@
       <entry xml:id="zyyra__v__626">
         <form type="lemma">
           <orth>zyẏra</orth>
-          <pron>ʝˈɯʀə</pron>
+          <pron notation="ipa">ʝˈɯʀə</pron>
         </form>
         <gramGrp>
           <pos>v</pos>
@@ -15922,7 +15921,7 @@
             <quote>összejövetel</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>slam</quote>
+            <quote>poetry session</quote>
             <quote>gathering</quote>
           </cit>
         </sense>
