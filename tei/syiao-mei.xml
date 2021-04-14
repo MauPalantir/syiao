@@ -513,7 +513,7 @@
         </gramGrp>
         <sense n="1">
           <lbl>soul</lbl>
-          <cit xml:lang="hu">
+          <cit type="translation" xml:lang="hu">
             <quote>idegesség</quote>
           </cit>
           <cit type="translation" xml:lang="en">
@@ -1691,7 +1691,7 @@
             <quote>akarat</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>towish</quote>
+            <quote>wish</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -1722,7 +1722,7 @@
             <quote>akar</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>will</quote>
+            <quote>to wish</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -2344,7 +2344,7 @@
         </gramGrp>
         <sense n="1">
           <lbl>misc</lbl>
-          <cit xml:lang="hu">
+          <cit type="translation" xml:lang="hu">
             <quote>azért</quote>
             <quote>mert</quote>
           </cit>
@@ -7708,7 +7708,7 @@
             <quote>alvó ember</quote>
           </cit>
           <cit type="translation" xml:lang="en">
-            <quote>sleepingcat</quote>
+            <quote>sleeping cat</quote>
           </cit>
         </sense>
         <etym type="root">
@@ -9492,7 +9492,7 @@
         </gramGrp>
         <sense n="1">
           <lbl>root-words</lbl>
-          <cit xml:lang="hu">
+          <cit type="translation" xml:lang="hu">
             <quote>teremtmény</quote>
           </cit>
           <cit type="translation" xml:lang="en">
@@ -11373,7 +11373,7 @@
         </gramGrp>
         <sense n="1">
           <lbl>environment</lbl>
-          <cit xml:lang="hu">
+          <cit type="translation" xml:lang="hu">
             <quote>csillagállat</quote>
           </cit>
           <cit type="translation" xml:lang="en">
@@ -14071,7 +14071,7 @@
         </gramGrp>
         <sense n="1">
           <lbl>misc</lbl>
-          <cit xml:lang="hu">
+          <cit type="translation" xml:lang="hu">
             <quote>hisz</quote>
             <quote>megtud valakitől</quote>
           </cit>
@@ -14791,7 +14791,7 @@
         <sense n="1">
           <lbl>body</lbl>
           <cit type="translation" xml:lang="hu">
-            <quote>balfaszkodik</quote>
+            <quote>szerencsétlenkedik</quote>
           </cit>
           <cit type="translation" xml:lang="en">
             <quote>bum care</quote>
